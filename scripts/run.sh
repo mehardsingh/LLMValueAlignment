@@ -8,18 +8,10 @@
 #SBATCH --time=00-08:00:00 
 
 # set up job
-module load python cuda
+module load python/3.9.12 cuda
 pushd /home/mehars/LLMValueAlignment
-source ./venv/bin/activate
-
-pip install torch
-pip install transformers
-pip install datasets
-pip install tqdm
-pip install numpy
-pip install evaluate
-pip install scikit-learn
-pip install peft
+source ./myenv/bin/activate
 
 # run job
-python query_2/get_probs.py
+python probe_model/probe.py --dataset_fp cleaned_data/clean_wvs.csv --prompt_template_fp prompt_templates/llama2/pt1.txt --model_name meta-llama/Llama-2-7b-chat-hf --get_probs True --result_fp results/llama2/results_pt1.csv
+python probe_model/probe.py --dataset_fp cleaned_data/clean_wvs.csv --prompt_template_fp prompt_templates/llama2/pt2.txt --model_name meta-llama/Llama-2-7b-chat-hf --get_probs True --result_fp results/llama2/results_pt2.csv
