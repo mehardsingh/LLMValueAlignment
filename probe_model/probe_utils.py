@@ -51,23 +51,6 @@ def query_model(model_name, prompt_inputs, get_probs):
         next_token_logits = outputs.logits[0, -1, :]
         answer_choice_logits = list()
 
-#         for letter in letters[:num_choices] + ["Z"]:
-#         token_id = tokenizer.convert_tokens_to_ids(letter)
-#         token_logits = next_token_logits[token_id].item()
-#         answer_choice_logits.append(token_logits)
-
-#     # probs = list(softmax(answer_choice_logits))
-#     probs = answer_choice_logits
-#     probs = probs[:len(probs) - 1] + [None] * (10 - len(probs) + 1) + [probs[-1]]
-#     all_probs.append(probs)
-#     all_prompts.append(prompt)
-
-# response_options = letters + ["Z"]
-# results = pd.DataFrame(all_probs, columns=[f"{l}_prob" for l in response_options])
-# results = pd.concat([dataset, results], axis=1)
-# results["Prompt"] = all_prompts
-# results.to_csv(f"query_2/logits{prompt_num}''.csv")
-
         for letter in letters[:num_choices] + ["Z"]:
             token_id = tokenizer.convert_tokens_to_ids(letter)
             token_logits = next_token_logits[token_id].item()
