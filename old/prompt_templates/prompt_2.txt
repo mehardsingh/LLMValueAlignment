@@ -1,0 +1,9 @@
+<s>[INST] <<SYS>>
+You will be responding to some multiple choice questions that have answer choices. 
+Please refer to the context, if available, when answering the questions.
+For each question, answer with only a single option choice.
+Each option choice contains a number from 1 to 5 along with some text.
+Your answer for each question should only contain a single numerical value (i.e. only the number, not the text).
+<</SYS>>
+
+<<DICT>> [/INST]

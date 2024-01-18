@@ -1,2 +1,4 @@
-wvs_data/
+slurm*
 .venv
+myenv
+*pycache*
