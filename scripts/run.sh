@@ -13,5 +13,5 @@ pushd /home/mehars/LLMValueAlignment
 source ./myenv/bin/activate
 
 # run job
-python probe_model/probe.py --dataset_fp cleaned_data/clean_wvs.csv --prompt_template_fp prompt_templates/llama2/pt1.txt --model_name meta-llama/Llama-2-7b-chat-hf --get_probs True --result_fp results/llama2/results_pt1.csv
-python probe_model/probe.py --dataset_fp cleaned_data/clean_wvs.csv --prompt_template_fp prompt_templates/llama2/pt2.txt --model_name meta-llama/Llama-2-7b-chat-hf --get_probs True --result_fp results/llama2/results_pt2.csv
+python src/probe_model/probe.py --dataset_fp wvs_data/questionaire/clean_wvs.csv --prompt_template_fp src/prompt_templates/llama2/pt1.txt --model_name meta-llama/Llama-2-7b-chat-hf --get_probs True --result_fp results/llama2-7b-chat/results_pt1.csv
+python src/probe_model/probe.py --dataset_fp wvs_data/questionaire/clean_wvs.csv --prompt_template_fp src/prompt_templates/llama2/pt2.txt --model_name meta-llama/Llama-2-7b-chat-hf --get_probs True --result_fp results/llama2-7b-chat/results_pt2.csv

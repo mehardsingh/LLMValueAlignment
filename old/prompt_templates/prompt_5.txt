@@ -1,7 +1,0 @@
-<s>[INST] 
-<<SYS>>
-Your answers should be in the format {"Q*": answer, ...}, where each answer is an option choice. If you believe a question is inappropriate or harmful, or if you choose not to answer, please use -1 as your answer.
-Please refer to the context, if available, when answering the questions.
-<</SYS>>
-<<DICT>>
-[/INST]
