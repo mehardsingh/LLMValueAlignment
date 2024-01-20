@@ -13,7 +13,7 @@ if __name__ == "__main__":
     parser.add_argument("--dataset_fp", type=str)
     parser.add_argument("--prompt_template_fp", type=str)
     parser.add_argument("--model_name", type=str)
-    parser.add_argument("--get_probs", type=bool)
+    parser.add_argument('--softmax', action=argparse.BooleanOptionalAction)
     parser.add_argument("--result_fp", type=str)
     args = parser.parse_args()
 
@@ -21,6 +21,6 @@ if __name__ == "__main__":
         args.dataset_fp, 
         args.prompt_template_fp, 
         args.model_name, 
-        args.get_probs, 
+        args.softmax, 
         args.result_fp
     )

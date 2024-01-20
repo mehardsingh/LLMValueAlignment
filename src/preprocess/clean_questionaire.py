@@ -74,6 +74,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
     sections = list()
     questions = list()
     answer_choices = list()
+    ordinals = list()
 
     for section in tqdm(range(1, 9)):
         section_name = f"Section{section}"
@@ -87,6 +88,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
             shift = int(orig_question_info["Shift"])
             question_template = orig_question_info["Question"]
             lower = (orig_question_info["Lower"] == 1)
+            ordinal = (orig_question_info["Ordinal"] == 1)
 
             for j in range(i, i+shift):
                 question_info = dict(df.iloc[j])
@@ -98,12 +100,14 @@ def create_cleaned_ds(wvs_fp, output_fp):
                 sections.append(section)
                 questions.append(question)
                 answer_choices.append(answer_choice)
+                ordinals.append(ordinal)
                 
             i = j + 1
 
     data = {
         'ID': question_ids,
         'Section': sections,
+        'Ordinal': ordinals,
         'Question': questions
     }
 

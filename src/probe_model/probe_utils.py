@@ -66,7 +66,7 @@ def query_model(model_name, prompt_inputs, get_probs):
 
 def save_result(all_outputs, all_prompts, dataset, result_fp):
     response_options = letters + ["Z"]
-    results = pd.DataFrame(all_outputs, columns=[f"{l}_prob" for l in response_options])
+    results = pd.DataFrame(all_outputs, columns=[f"{l}_out" for l in response_options])
     results = pd.concat([dataset, results], axis=1)
     results["Prompt"] = all_prompts
     results.to_csv(result_fp)
