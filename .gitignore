@@ -2,3 +2,4 @@ slurm*
 .venv
 myenv
 *pycache*
+WVS_Cross-National_*
