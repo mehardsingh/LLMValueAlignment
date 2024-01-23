@@ -63,7 +63,11 @@ def create_answer_choice(question_info):
 
     answer_choice = split_string_by_commas(answer_choice)
     answer_choice = [c for c in answer_choice if not c == ""]
+    nums = [int(c.split(":")[0].strip()) for c in answer_choice]
     answer_choice = [c.split(":")[1].strip() for c in answer_choice]
+
+    sorted_pairs = sorted(zip(nums, answer_choice), key=lambda x: x[0])
+    answer_choice = [pair[1] for pair in sorted_pairs]
 
     return answer_choice
 
@@ -75,6 +79,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
     questions = list()
     answer_choices = list()
     ordinals = list()
+    indices = list()
 
     for section in tqdm(range(1, 9)):
         section_name = f"Section{section}"
@@ -89,6 +94,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
             question_template = orig_question_info["Question"]
             lower = (orig_question_info["Lower"] == 1)
             ordinal = (orig_question_info["Ordinal"] == 1)
+            one_index = (orig_question_info["OneIndex"] == 1)
 
             for j in range(i, i+shift):
                 question_info = dict(df.iloc[j])
@@ -101,6 +107,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
                 questions.append(question)
                 answer_choices.append(answer_choice)
                 ordinals.append(ordinal)
+                indices.append(one_index)
                 
             i = j + 1
 
@@ -108,6 +115,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
         'ID': question_ids,
         'Section': sections,
         'Ordinal': ordinals,
+        'OneIndex': indices,
         'Question': questions
     }
 
