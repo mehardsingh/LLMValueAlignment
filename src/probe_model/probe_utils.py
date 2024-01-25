@@ -1,10 +1,13 @@
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import pipeline
 import torch
 import pandas as pd
 import numpy as np
-from tqdm import tqdm
+import logging
 
-device = "cuda:0" if torch.cuda.is_available() else "cpu"
+logging.basicConfig(filename='probe.log',
+                    level=logging.DEBUG,
+                    format='%(asctime)s - %(levelname)s - %(message)s')
+
 letters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
 
 def softmax(x):
@@ -33,13 +36,27 @@ def get_prompt_inputs(dataset_fp, prompt_template_fp):
 
     return prompt_inputs, dataset
 
-def query_model(model_name, prompt_inputs, get_probs):
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name).to(device)
+def query_model(model, tokenizer, device, prompt_inputs, get_probs):
+    logging.info("Inside query_model()")
+
+    generator = pipeline("text-generation", model=model, tokenizer=tokenizer, device=device)
+    all_inputs_responses = generator([p["prompt"] for p in prompt_inputs], max_new_tokens=10)
+    all_inputs_responses = [r[0]["generated_text"] for r in all_inputs_responses]
+
+    all_responses = list()
+    for i in range(len(all_inputs_responses)):
+        input_response = all_inputs_responses[i]
+        prompt = prompt_inputs[i]["prompt"]
+        response = input_response[len(prompt):].strip()
+        all_responses.append(response)
+
+    logging.info("got text responses")
 
     all_outputs = list()
     all_prompts = list()
-    for prompt_input in tqdm(prompt_inputs):
+
+    for i in range(len(prompt_inputs)):
+        prompt_input = prompt_inputs[i]
         prompt = prompt_input["prompt"]
         num_choices = prompt_input["num_choices"]
 
@@ -56,17 +73,29 @@ def query_model(model_name, prompt_inputs, get_probs):
             token_logits = next_token_logits[token_id].item()
             answer_choice_logits.append(token_logits)
 
+        logging.info("got next_token logits")
+
         output_nums = list(softmax(answer_choice_logits)) if get_probs else answer_choice_logits
         output_nums = output_nums[:len(output_nums) - 1] + [None] * (10 - len(output_nums) + 1) + [output_nums[-1]]
+
+        logging.info("got outputs")
 
         all_outputs.append(output_nums)
         all_prompts.append(prompt)
 
-    return all_outputs, all_prompts
+        logging.info("appending")
 
-def save_result(all_outputs, all_prompts, dataset, result_fp):
+    logging.info("got all outputs")
+
+    return all_outputs, all_prompts, all_responses
+
+def save_result(all_outputs, all_prompts, all_responses, dataset, result_fp):
     response_options = letters + ["Z"]
     results = pd.DataFrame(all_outputs, columns=[f"{l}_out" for l in response_options])
     results = pd.concat([dataset, results], axis=1)
+
     results["Prompt"] = all_prompts
+    results["TextResponse"] = all_responses
+    
     results.to_csv(result_fp)
+    logging.info(f"Saved to {result_fp}")

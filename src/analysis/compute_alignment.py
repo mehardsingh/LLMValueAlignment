@@ -1,4 +1,4 @@
-# python src/analysis/compute_alignment.py --llm_res_fp results/Llama-2-7b-chat-hf/results_pt1.csv --country_res_fp wvs_data/gt_responses/wvs_gt_by_country.json --section 2 --output_fp country_opinion_alignments_pt1_s2.csv
+# python src/analysis/compute_alignment.py --llm_res_dir results/Llama-2-7b-chat-hf --country_res_fp wvs_data/gt_responses/wvs_gt_by_country.json --output_fp analysis_metrics/alignment/alignment_Llama-2-7b-chat-hf.csv
 
 from scipy.stats import wasserstein_distance as wd 
 import pandas as pd
@@ -7,6 +7,7 @@ import numpy as np
 import json
 from tqdm import tqdm
 import argparse
+import os
 
 # TODO: hedging
 
@@ -80,7 +81,7 @@ def load_country_responses(country_response_dict, question_ids, one_indices, num
 
     return country_responses
 
-def save_all_alignment_scores(llm_res_fp, country_res_fp, section, output_fp):
+def get_all_country_alignment(llm_res_fp, country_res_fp, section):
     question_ids, one_indices, llm_responses, num_choices = load_llm_responses(llm_res_fp, section)
 
     with open(country_res_fp) as f:
@@ -88,21 +89,48 @@ def save_all_alignment_scores(llm_res_fp, country_res_fp, section, output_fp):
 
     countries = list(country_responses_dict.keys())
     alignments = list()
-    for country in tqdm(countries):
+    for country in countries:
         country_response_dict = country_responses_dict[country]
         country_responses = load_country_responses(country_response_dict, question_ids, one_indices, num_choices)
         alignment = compute_opinion_alignment(llm_responses, country_responses)
         alignments.append(alignment)
 
-    alignment_df = pd.DataFrame({'Country': countries, 'Alignment': alignments})
-    alignment_df.to_csv(output_fp, index=False)
+    return countries, alignments
 
+def save_all_prompts_alignment(llm_res_dir, country_res_fp, output_fp):
+    llm_res_fps = [os.path.join(llm_res_dir, filename) for filename in os.listdir(llm_res_dir) if os.path.isfile(os.path.join(llm_res_dir, filename))]
+
+    alignment_dict = dict()
+
+    for section in tqdm(range(0, 9)):
+        if section == 0:
+            section = None
+            col_name = "Overall"
+        else:
+            col_name = f"Section{section}"
+
+        all_prompt_alignments = list()
+        for i in range(len(llm_res_fps)):
+            llm_res_fp = llm_res_fps[i]
+        
+            countries, alignments = get_all_country_alignment(llm_res_fp, country_res_fp, section)
+            all_prompt_alignments.append(alignments)
+
+        all_prompt_alignments = np.array(all_prompt_alignments)
+        all_prompt_alignments = np.mean(all_prompt_alignments, axis=0)
+
+        if not "Country" in alignment_dict:
+            alignment_dict["Country"] = countries
+        alignment_dict[col_name] = all_prompt_alignments
+    
+    alignment_df = pd.DataFrame(alignment_dict)
+    alignment_df.to_csv(output_fp, index=False)
+            
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--llm_res_fp", type=str)
+    parser.add_argument("--llm_res_dir", type=str)
     parser.add_argument("--country_res_fp", type=str)
-    parser.add_argument("--section", type=int, default=None)
     parser.add_argument("--output_fp", type=str)
     args = parser.parse_args()
         
-    save_all_alignment_scores(args.llm_res_fp, args.country_res_fp, args.section, args.output_fp)
+    save_all_prompts_alignment(args.llm_res_dir, args.country_res_fp, args.output_fp)

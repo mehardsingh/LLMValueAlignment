@@ -5,7 +5,7 @@ import argparse
 
 def plot_alignment(in_align_fp, out_align_fp):
     alignment_df = pd.read_csv(in_align_fp)
-    alignment_dict = alignment_df.set_index('Country')['Alignment'].to_dict()
+    alignment_dict = alignment_df.set_index('Country')['Overall'].to_dict()
 
     world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
 
