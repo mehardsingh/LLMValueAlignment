@@ -8,6 +8,7 @@ import json
 from tqdm import tqdm
 import argparse
 import os
+import ot
 
 # TODO: hedging
 
@@ -17,23 +18,31 @@ def softmax(x):
     exp_x = np.exp(x - np.max(x))
     return exp_x / exp_x.sum(axis=0)
 
-def compute_wasserstein_dist(answer_dist1, answer_dist2):
-    answer_choice_values = list(range(len(answer_dist1)))
-    distance = wd(answer_choice_values, answer_choice_values, u_weights=answer_dist1, v_weights=answer_dist2)
-    return distance
+def compute_question_alignment(answer_dist1, answer_dist2, ordinal, hedge):
+    num_vals = len(answer_dist1)
 
-def compute_question_alignment(answer_dist1, answer_dist2):
-    distance = compute_wasserstein_dist(answer_dist1, answer_dist2)
+    if ordinal:
+        if hedge:
+            cost_matrix = np.fromfunction(lambda i, j: np.abs(i - j), (num_vals, num_vals), dtype=np.float64)
+            cost_matrix[0][1:] = np.abs(cost_matrix[0][1:] - np.mean(cost_matrix[0][1:]))
+        else:
+            cost_matrix = np.fromfunction(lambda i, j: np.abs(i - j), (num_vals, num_vals), dtype=np.float64)
+        
+    else:
+        cost_matrix = np.ones((num_vals, num_vals), dtype=np.float64)
+        np.fill_diagonal(cost_matrix, 0) 
+
+    distance = ot.emd2(np.array(answer_dist1, dtype=np.float64), np.array(answer_dist2, dtype=np.float64), cost_matrix)
     return 1 - (distance / (len(answer_dist1) - 1))
 
-def compute_opinion_alignment(llm_responses, human_responses):
+def compute_opinion_alignment(llm_responses, human_responses, ordinals, hedges):
     opinion_alignment = 0
     count = 0
     for i in range(len(llm_responses)):
         if human_responses[i] == None:
             continue
         else:
-            opinion_alignment += compute_question_alignment(llm_responses[i], human_responses[i])
+            opinion_alignment += compute_question_alignment(llm_responses[i], human_responses[i], ordinals[i], hedges[i])
             count += 1
 
     opinion_alignment /= count
@@ -41,17 +50,20 @@ def compute_opinion_alignment(llm_responses, human_responses):
 
 def load_llm_responses(llm_res_fp, section):
     llm_res_df = pd.read_csv(llm_res_fp)
-    llm_res_df = llm_res_df[llm_res_df["Ordinal"] == True]
+    # llm_res_df = llm_res_df[llm_res_df["Ordinal"] == True]
 
     if section:
         llm_res_df = llm_res_df[llm_res_df["Section"] == section]
 
     out_cols = [f"{l}_out" for l in letters]
-    cols = ["ID", "OneIndex"] + out_cols
+    cols = ["ID", "OneIndex", "Ordinal", "Hedge"] + out_cols
     llm_res_df = llm_res_df[cols]
 
     question_ids = list(llm_res_df["ID"])
     one_indices = list(llm_res_df["OneIndex"])
+    ordinals = list(llm_res_df["Ordinal"])
+    hedges = list(llm_res_df["Hedge"])
+
     llm_responses = list()
     for question_id in question_ids:
         response = llm_res_df[llm_res_df["ID"] == question_id][out_cols].values[0]
@@ -61,7 +73,7 @@ def load_llm_responses(llm_res_fp, section):
 
     num_choices = [len(llm_responses[i]) for i in range(len(llm_responses))]
 
-    return question_ids, one_indices, llm_responses, num_choices
+    return question_ids, one_indices, ordinals, hedges, llm_responses, num_choices
 
 def load_country_responses(country_response_dict, question_ids, one_indices, num_choices):
     country_responses = list()
@@ -82,7 +94,7 @@ def load_country_responses(country_response_dict, question_ids, one_indices, num
     return country_responses
 
 def get_all_country_alignment(llm_res_fp, country_res_fp, section):
-    question_ids, one_indices, llm_responses, num_choices = load_llm_responses(llm_res_fp, section)
+    question_ids, one_indices, ordinals, hedges, llm_responses, num_choices = load_llm_responses(llm_res_fp, section)
 
     with open(country_res_fp) as f:
         country_responses_dict = json.load(f)
@@ -92,7 +104,7 @@ def get_all_country_alignment(llm_res_fp, country_res_fp, section):
     for country in countries:
         country_response_dict = country_responses_dict[country]
         country_responses = load_country_responses(country_response_dict, question_ids, one_indices, num_choices)
-        alignment = compute_opinion_alignment(llm_responses, country_responses)
+        alignment = compute_opinion_alignment(llm_responses, country_responses, ordinals, hedges)
         alignments.append(alignment)
 
     return countries, alignments
@@ -112,7 +124,7 @@ def save_all_prompts_alignment(llm_res_dir, country_res_fp, output_fp):
         all_prompt_alignments = list()
         for i in range(len(llm_res_fps)):
             llm_res_fp = llm_res_fps[i]
-        
+
             countries, alignments = get_all_country_alignment(llm_res_fp, country_res_fp, section)
             all_prompt_alignments.append(alignments)
 

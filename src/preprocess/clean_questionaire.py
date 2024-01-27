@@ -80,6 +80,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
     answer_choices = list()
     ordinals = list()
     indices = list()
+    hedges = list()
 
     for section in tqdm(range(1, 9)):
         section_name = f"Section{section}"
@@ -95,6 +96,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
             lower = (orig_question_info["Lower"] == 1)
             ordinal = (orig_question_info["Ordinal"] == 1)
             one_index = (orig_question_info["OneIndex"] == 1)
+            hedge = (orig_question_info["Hedge"] == 1)
 
             for j in range(i, i+shift):
                 question_info = dict(df.iloc[j])
@@ -108,6 +110,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
                 answer_choices.append(answer_choice)
                 ordinals.append(ordinal)
                 indices.append(one_index)
+                hedges.append(hedge)
                 
             i = j + 1
 
@@ -116,6 +119,7 @@ def create_cleaned_ds(wvs_fp, output_fp):
         'Section': sections,
         'Ordinal': ordinals,
         'OneIndex': indices,
+        'Hedge': hedges,
         'Question': questions
     }
 
