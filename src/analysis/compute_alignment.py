@@ -137,7 +137,37 @@ def save_all_prompts_alignment(llm_res_dir, country_res_fp, output_fp):
     
     alignment_df = pd.DataFrame(alignment_dict)
     alignment_df.to_csv(output_fp, index=False)
-            
+
+def save_alignment2(llm_res_dir, country_res_fp, output_fp):
+    llm_res_fps = [os.path.join(llm_res_dir, filename) for filename in os.listdir(llm_res_dir) if os.path.isfile(os.path.join(llm_res_dir, filename))]
+
+    df_countries = list()
+    df_prompts = list()
+    df_sections = list()
+    df_alignments = list()
+
+    # go through sections
+    for section in tqdm(range(0, 9)):
+        if section == 0:
+            section = None
+
+        # go through prompts
+        for i in range(len(llm_res_fps)):
+            llm_res_fp = llm_res_fps[i]
+
+            # get all countries & alignments
+            countries, alignments = get_all_country_alignment(llm_res_fp, country_res_fp, section)
+
+            N = len(countries)
+            df_prompts += [f"pt{i+1}"] * N
+            df_sections += [section if not section == None else "Overall"] * N
+            df_countries += countries
+            df_alignments += alignments
+
+    alignment_dict = {"Country": df_countries, "Prompt": df_prompts, "Section": df_sections, "Alignment": df_alignments}
+    alignment_df = pd.DataFrame(alignment_dict)
+    alignment_df.to_csv(output_fp, index=False)
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--llm_res_dir", type=str)
@@ -145,4 +175,5 @@ if __name__ == "__main__":
     parser.add_argument("--output_fp", type=str)
     args = parser.parse_args()
         
-    save_all_prompts_alignment(args.llm_res_dir, args.country_res_fp, args.output_fp)
+    # save_all_prompts_alignment(args.llm_res_dir, args.country_res_fp, args.output_fp)
+    save_alignment2(args.llm_res_dir, args.country_res_fp, args.output_fp)
