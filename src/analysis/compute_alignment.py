@@ -159,13 +159,30 @@ def save_all_prompts_alignment(llm_res_dir, country_res_fp, output_fp):
 
             N = len(countries)
             df_prompts += [f"pt{i+1}"] * N
-            df_sections += [section if not section == None else "Overall"] * N
+            df_sections += [section if not section == None else "AllQuestions"] * N
             df_countries += countries
             df_alignments += alignments
 
     alignment_dict = {"Country": df_countries, "Prompt": df_prompts, "Section": df_sections, "Alignment": df_alignments}
     alignment_df = pd.DataFrame(alignment_dict)
     alignment_df.to_csv(output_fp, index=False)
+
+def add_sections_average_col(output_fp):
+    df = pd.read_csv(output_fp)
+    df_removed = df[df['Section'] != 'AllQuestions']
+    prompts = set(df_removed["Prompt"])
+
+    results = list()
+    for prompt in prompts:
+        prompt_df = df_removed[df_removed["Prompt"] == prompt]
+        result = prompt_df.groupby('Country')['Alignment'].mean().reset_index()
+        result["Section"] = "SectionsAvg"
+        result["Prompt"] = prompt
+        results.append(result)
+
+    appended = pd.concat([df] + results, ignore_index=True)
+    appended.to_csv(output_fp, index=False)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -174,5 +191,5 @@ if __name__ == "__main__":
     parser.add_argument("--output_fp", type=str)
     args = parser.parse_args()
         
-    # save_all_prompts_alignment(args.llm_res_dir, args.country_res_fp, args.output_fp)
     save_all_prompts_alignment(args.llm_res_dir, args.country_res_fp, args.output_fp)
+    add_sections_average_col(args.output_fp)

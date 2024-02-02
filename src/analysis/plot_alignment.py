@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import argparse
 
-def plot_alignment(in_align_fp, out_align_fp, section="Overall", prompt=None):
+def plot_alignment(in_align_fp, out_align_fp, section="SectionsAvg", prompt=None):
     alignment_df = pd.read_csv(in_align_fp)
     alignment_df = alignment_df[alignment_df["Section"] == section]
 

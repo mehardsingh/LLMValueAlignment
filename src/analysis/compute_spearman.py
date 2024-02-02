@@ -7,7 +7,7 @@ import argparse
 
 def save_spearman(in_align_fp, out_fp):
     alignment_df = pd.read_csv(in_align_fp)
-    alignment_df = alignment_df[alignment_df["Section"] == "Overall"]
+    alignment_df = alignment_df[alignment_df["Section"] == "SectionsAvg"]
 
     num_prompts = alignment_df['Prompt'].nunique()
     spearman_heatmap = np.zeros((num_prompts, num_prompts))

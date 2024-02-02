@@ -1,919 +1,919 @@
 Country,Prompt,Section,Alignment
-Romania,pt1,Overall,0.7541799264126121
-Russia,pt1,Overall,0.7596103257659916
-Thailand,pt1,Overall,0.758059295010072
-Japan,pt1,Overall,0.7276452856552057
-Unknown,pt1,Overall,0.706899034264732
-Kazakhstan,pt1,Overall,0.7457795239787789
-Jordan,pt1,Overall,0.7005978424317193
-Netherlands,pt1,Overall,0.7376760968928795
-Andorra,pt1,Overall,0.7481992187041562
-Germany,pt1,Overall,0.7327517499612064
-Kenya,pt1,Overall,0.7585491300708846
-Tunisia,pt1,Overall,0.7161106505858597
-Chile,pt1,Overall,0.7694279843096193
-Turkey,pt1,Overall,0.7267205920340715
-South Korea,pt1,Overall,0.741261314050583
-China,pt1,Overall,0.7046245114032221
-Taiwan,pt1,Overall,0.730119469269219
-Argentina,pt1,Overall,0.7625973278248313
-Kyrgyzstan,pt1,Overall,0.7180201430841321
-Australia,pt1,Overall,0.7507732745086891
-Ukraine,pt1,Overall,0.7576363967369304
-Lebanon,pt1,Overall,0.7300256407894942
-Colombia,pt1,Overall,0.7613232292149795
-New Zealand,pt1,Overall,0.7425868361270652
-Greece,pt1,Overall,0.7429198078291624
-Nicaragua,pt1,Overall,0.7644565323258553
-Bangladesh,pt1,Overall,0.7045644619847895
-Armenia,pt1,Overall,0.7233484090876544
-Libya,pt1,Overall,0.7205172617787732
-Egypt,pt1,Overall,0.6938604537209435
-Nigeria,pt1,Overall,0.7357538100981128
-United Kingdom,pt1,Overall,0.7531078874997084
-Singapore,pt1,Overall,0.7276014013837876
-Guatemala,pt1,Overall,0.7597594203036521
-Slovakia,pt1,Overall,0.7634417292261124
-Vietnam,pt1,Overall,0.7113568381814195
-Bolivia,pt1,Overall,0.7567164544879843
-Cyprus,pt1,Overall,0.7523989904387979
-United States of America,pt1,Overall,0.7605386881752546
-Malaysia,pt1,Overall,0.7424064740291337
-Czech Republic,pt1,Overall,0.7748030877348941
-Brazil,pt1,Overall,0.7535237348988962
-Pakistan,pt1,Overall,0.7329202133962204
-Zimbabwe,pt1,Overall,0.727800422745748
-Hong Kong,pt1,Overall,0.7567713919991569
-Ecuador,pt1,Overall,0.7520426644156998
-Uruguay,pt1,Overall,0.7575347296803443
-Peru,pt1,Overall,0.7403129587084666
-Venezuela,pt1,Overall,0.7647054957267563
-Philippines,pt1,Overall,0.7337924108997685
-Mexico,pt1,Overall,0.7594688283421681
-Ethiopia,pt1,Overall,0.7222608621865114
-Myanmar,pt1,Overall,0.6896288231825323
-Indonesia,pt1,Overall,0.7214087220590492
-Iran,pt1,Overall,0.7391269802658007
-Iraq,pt1,Overall,0.7438422322028146
-Mongolia,pt1,Overall,0.7978136636956136
-Puerto Rico,pt1,Overall,0.7598009282513094
-Morocco,pt1,Overall,0.7527049265833832
-Tajikistan,pt1,Overall,0.7202690778074676
-Canada,pt1,Overall,0.7652922000149458
-Romania,pt2,Overall,0.7240356285718612
-Russia,pt2,Overall,0.7311091073395793
-Thailand,pt2,Overall,0.7188452130109735
-Japan,pt2,Overall,0.6940782076517927
-Unknown,pt2,Overall,0.6753455361376779
-Kazakhstan,pt2,Overall,0.7052916680198922
-Jordan,pt2,Overall,0.6806712194765885
-Netherlands,pt2,Overall,0.7124976669382268
-Andorra,pt2,Overall,0.7133548228887362
-Germany,pt2,Overall,0.7048414978518242
-Kenya,pt2,Overall,0.7021606242660311
-Tunisia,pt2,Overall,0.6847731439074056
-Chile,pt2,Overall,0.7253588706884336
-Turkey,pt2,Overall,0.6983924153784709
-South Korea,pt2,Overall,0.7103222730081855
-China,pt2,Overall,0.6751098679748673
-Taiwan,pt2,Overall,0.6973961187638491
-Argentina,pt2,Overall,0.7225431974151786
-Kyrgyzstan,pt2,Overall,0.6861711888188208
-Australia,pt2,Overall,0.7133310818317333
-Ukraine,pt2,Overall,0.7319298823296154
-Lebanon,pt2,Overall,0.7076001466245208
-Colombia,pt2,Overall,0.7166676472040269
-New Zealand,pt2,Overall,0.7093476809473026
-Greece,pt2,Overall,0.7202790885836455
-Nicaragua,pt2,Overall,0.7278296241232949
-Bangladesh,pt2,Overall,0.67965114998
-Armenia,pt2,Overall,0.7018839331926301
-Libya,pt2,Overall,0.6816496787364085
-Egypt,pt2,Overall,0.6722116493519578
-Nigeria,pt2,Overall,0.6911516415156921
-United Kingdom,pt2,Overall,0.7171105086061728
-Singapore,pt2,Overall,0.6870579734296114
-Guatemala,pt2,Overall,0.7220781673944069
-Slovakia,pt2,Overall,0.7301372172099727
-Vietnam,pt2,Overall,0.6892374867835764
-Bolivia,pt2,Overall,0.7131815318159203
-Cyprus,pt2,Overall,0.720281816592023
-United States of America,pt2,Overall,0.7146809752992697
-Malaysia,pt2,Overall,0.6956409387970938
-Czech Republic,pt2,Overall,0.7420692087804952
-Brazil,pt2,Overall,0.7079417212927195
-Pakistan,pt2,Overall,0.7010332463674557
-Zimbabwe,pt2,Overall,0.6853128119152918
-Hong Kong,pt2,Overall,0.7151318547921858
-Ecuador,pt2,Overall,0.7092574178778441
-Uruguay,pt2,Overall,0.7206393927834899
-Peru,pt2,Overall,0.7015908886232955
-Venezuela,pt2,Overall,0.7235966114993562
-Philippines,pt2,Overall,0.6854022446814146
-Mexico,pt2,Overall,0.7200083766114462
-Ethiopia,pt2,Overall,0.6866718949355003
-Myanmar,pt2,Overall,0.6668337336622142
-Indonesia,pt2,Overall,0.6822525949594594
-Iran,pt2,Overall,0.7034906507041696
-Iraq,pt2,Overall,0.7106413471061627
-Mongolia,pt2,Overall,0.7506127422381597
-Puerto Rico,pt2,Overall,0.7196678947862989
-Morocco,pt2,Overall,0.715037689556334
-Tajikistan,pt2,Overall,0.693896429590352
-Canada,pt2,Overall,0.7249100762289429
-Romania,pt3,Overall,0.7498118929898459
-Russia,pt3,Overall,0.7550979912998479
-Thailand,pt3,Overall,0.7536910303185514
-Japan,pt3,Overall,0.7205389673336634
-Unknown,pt3,Overall,0.7019358347937099
-Kazakhstan,pt3,Overall,0.7428569813122227
-Jordan,pt3,Overall,0.6964470532213889
-Netherlands,pt3,Overall,0.7334788921689896
-Andorra,pt3,Overall,0.7448806584645149
-Germany,pt3,Overall,0.7286046740671146
-Kenya,pt3,Overall,0.7567165035529169
-Tunisia,pt3,Overall,0.7125710463084123
-Chile,pt3,Overall,0.7663727427909898
-Turkey,pt3,Overall,0.723259236793233
-South Korea,pt3,Overall,0.7362641413162471
-China,pt3,Overall,0.701151193793706
-Taiwan,pt3,Overall,0.7257030818673441
-Argentina,pt3,Overall,0.7599461219384245
-Kyrgyzstan,pt3,Overall,0.715184613947803
-Australia,pt3,Overall,0.7451772658757541
-Ukraine,pt3,Overall,0.7532694632766372
-Lebanon,pt3,Overall,0.7261068049084392
-Colombia,pt3,Overall,0.7570234279825034
-New Zealand,pt3,Overall,0.7383652669396455
-Greece,pt3,Overall,0.7368261905006205
-Nicaragua,pt3,Overall,0.760304671728619
-Bangladesh,pt3,Overall,0.7026733145121193
-Armenia,pt3,Overall,0.7204751530656014
-Libya,pt3,Overall,0.7191045896923717
-Egypt,pt3,Overall,0.6921654404354896
-Nigeria,pt3,Overall,0.734237409132528
-United Kingdom,pt3,Overall,0.7494952950963488
-Singapore,pt3,Overall,0.7226313937369635
-Guatemala,pt3,Overall,0.7560577852223788
-Slovakia,pt3,Overall,0.7587455201488477
-Vietnam,pt3,Overall,0.7088397517380609
-Bolivia,pt3,Overall,0.7527096591296408
-Cyprus,pt3,Overall,0.7466739742381435
-United States of America,pt3,Overall,0.7552862961259978
-Malaysia,pt3,Overall,0.739637384224656
-Czech Republic,pt3,Overall,0.7696323349342049
-Brazil,pt3,Overall,0.7500266270466461
-Pakistan,pt3,Overall,0.7299244618124264
-Zimbabwe,pt3,Overall,0.7245794891647409
-Hong Kong,pt3,Overall,0.7512131045993925
-Ecuador,pt3,Overall,0.7479364161446564
-Uruguay,pt3,Overall,0.7538154350427527
-Peru,pt3,Overall,0.7363317371016149
-Venezuela,pt3,Overall,0.761954934373705
-Philippines,pt3,Overall,0.731731390488497
-Mexico,pt3,Overall,0.7560624984758759
-Ethiopia,pt3,Overall,0.7185977061967328
-Myanmar,pt3,Overall,0.6869116777345797
-Indonesia,pt3,Overall,0.718257589942954
-Iran,pt3,Overall,0.735448280522228
-Iraq,pt3,Overall,0.7447283277350543
-Mongolia,pt3,Overall,0.7947265372099566
-Puerto Rico,pt3,Overall,0.7555156494711273
-Morocco,pt3,Overall,0.750020361431001
-Tajikistan,pt3,Overall,0.7191730985251086
-Canada,pt3,Overall,0.7611249585133055
-Romania,pt4,Overall,0.7099515115682392
-Russia,pt4,Overall,0.7149210556075022
-Thailand,pt4,Overall,0.6983154954473298
-Japan,pt4,Overall,0.6767206342824753
-Unknown,pt4,Overall,0.6633726138331907
-Kazakhstan,pt4,Overall,0.6875958812698834
-Jordan,pt4,Overall,0.6649791399387225
-Netherlands,pt4,Overall,0.7017396526190732
-Andorra,pt4,Overall,0.7010922228580518
-Germany,pt4,Overall,0.6950044754015138
-Kenya,pt4,Overall,0.6863339157806844
-Tunisia,pt4,Overall,0.6726433898848393
-Chile,pt4,Overall,0.709923161062485
-Turkey,pt4,Overall,0.6858023557296984
-South Korea,pt4,Overall,0.6944904780525186
-China,pt4,Overall,0.6547791936929024
-Taiwan,pt4,Overall,0.679859331694792
-Argentina,pt4,Overall,0.7105830078310497
-Kyrgyzstan,pt4,Overall,0.6676692125591329
-Australia,pt4,Overall,0.7035506709242251
-Ukraine,pt4,Overall,0.716473318074856
-Lebanon,pt4,Overall,0.6942678678136791
-Colombia,pt4,Overall,0.7029243976004887
-New Zealand,pt4,Overall,0.6992865349588429
-Greece,pt4,Overall,0.7090188393883473
-Nicaragua,pt4,Overall,0.7126206988689807
-Bangladesh,pt4,Overall,0.6669915699448437
-Armenia,pt4,Overall,0.6873747650826593
-Libya,pt4,Overall,0.6700506786697205
-Egypt,pt4,Overall,0.6640418252804783
-Nigeria,pt4,Overall,0.6764146433743456
-United Kingdom,pt4,Overall,0.7079294544626216
-Singapore,pt4,Overall,0.670343748352237
-Guatemala,pt4,Overall,0.7110578222919847
-Slovakia,pt4,Overall,0.7145592672735698
-Vietnam,pt4,Overall,0.6722110665039756
-Bolivia,pt4,Overall,0.6987781668664296
-Cyprus,pt4,Overall,0.7056813995072329
-United States of America,pt4,Overall,0.7045686149810257
-Malaysia,pt4,Overall,0.6827949211910311
-Czech Republic,pt4,Overall,0.7235682256345535
-Brazil,pt4,Overall,0.6922796671401893
-Pakistan,pt4,Overall,0.6840066231107949
-Zimbabwe,pt4,Overall,0.6671090863019074
-Hong Kong,pt4,Overall,0.6985616095726965
-Ecuador,pt4,Overall,0.6934252012413772
-Uruguay,pt4,Overall,0.7070692741482048
-Peru,pt4,Overall,0.6894017013309368
-Venezuela,pt4,Overall,0.7117030884588792
-Philippines,pt4,Overall,0.6674621248646742
-Mexico,pt4,Overall,0.7080348409633404
-Ethiopia,pt4,Overall,0.6704249448678113
-Myanmar,pt4,Overall,0.6488494176098111
-Indonesia,pt4,Overall,0.6649233418982476
-Iran,pt4,Overall,0.686483574884817
-Iraq,pt4,Overall,0.6981868657871476
-Mongolia,pt4,Overall,0.7396902736007204
-Puerto Rico,pt4,Overall,0.7087864330036664
-Morocco,pt4,Overall,0.70473283857248
-Tajikistan,pt4,Overall,0.6799123841423107
-Canada,pt4,Overall,0.7142717597080182
-Romania,pt5,Overall,0.7560302011413838
-Russia,pt5,Overall,0.7641953664488877
-Thailand,pt5,Overall,0.7727976916216333
-Japan,pt5,Overall,0.7305924247172687
-Unknown,pt5,Overall,0.7197522227188454
-Kazakhstan,pt5,Overall,0.7573404282642799
-Jordan,pt5,Overall,0.7090977659883151
-Netherlands,pt5,Overall,0.736322442243938
-Andorra,pt5,Overall,0.7506370826792864
-Germany,pt5,Overall,0.733996631426136
-Kenya,pt5,Overall,0.7803256419970225
-Tunisia,pt5,Overall,0.7282513443375915
-Chile,pt5,Overall,0.7789023518978186
-Turkey,pt5,Overall,0.7385595643878019
-South Korea,pt5,Overall,0.746567876876668
-China,pt5,Overall,0.7173376839452901
-Taiwan,pt5,Overall,0.7365003272312429
-Argentina,pt5,Overall,0.7692831161571386
-Kyrgyzstan,pt5,Overall,0.7305673509945875
-Australia,pt5,Overall,0.7544672644738885
-Ukraine,pt5,Overall,0.7623989882191787
-Lebanon,pt5,Overall,0.7373086847553213
-Colombia,pt5,Overall,0.7715980811786148
-New Zealand,pt5,Overall,0.7442203293830799
-Greece,pt5,Overall,0.7405564909431633
-Nicaragua,pt5,Overall,0.7721489571612877
-Bangladesh,pt5,Overall,0.7200675442620297
-Armenia,pt5,Overall,0.7275140226035834
-Libya,pt5,Overall,0.7325367898307775
-Egypt,pt5,Overall,0.699146636112358
-Nigeria,pt5,Overall,0.7552851215409923
-United Kingdom,pt5,Overall,0.7577746903788124
-Singapore,pt5,Overall,0.7356631738106212
-Guatemala,pt5,Overall,0.7723100137248868
-Slovakia,pt5,Overall,0.7676079785008941
-Vietnam,pt5,Overall,0.7225473817316744
-Bolivia,pt5,Overall,0.7647101369328834
-Cyprus,pt5,Overall,0.757497178415853
-United States of America,pt5,Overall,0.7685692210600533
-Malaysia,pt5,Overall,0.7607071455777238
-Czech Republic,pt5,Overall,0.7769844672464591
-Brazil,pt5,Overall,0.763717106776378
-Pakistan,pt5,Overall,0.7501330969939588
-Zimbabwe,pt5,Overall,0.7439325284655741
-Hong Kong,pt5,Overall,0.7638807516632848
-Ecuador,pt5,Overall,0.7643846688062775
-Uruguay,pt5,Overall,0.766476150986681
-Peru,pt5,Overall,0.7455682233397113
-Venezuela,pt5,Overall,0.7708624686651293
-Philippines,pt5,Overall,0.7542257147551898
-Mexico,pt5,Overall,0.768652429454645
-Ethiopia,pt5,Overall,0.7346349848951279
-Myanmar,pt5,Overall,0.7042856071790823
-Indonesia,pt5,Overall,0.7370392162041077
-Iran,pt5,Overall,0.753858156136964
-Iraq,pt5,Overall,0.7524940149331342
-Mongolia,pt5,Overall,0.8068145690181024
-Puerto Rico,pt5,Overall,0.767030104446086
-Morocco,pt5,Overall,0.7674958078787778
-Tajikistan,pt5,Overall,0.7364001184563829
-Canada,pt5,Overall,0.7684664276014098
-Romania,pt6,Overall,0.7400019963450071
-Russia,pt6,Overall,0.7484848934832197
-Thailand,pt6,Overall,0.7465111526297087
-Japan,pt6,Overall,0.7108962675071326
-Unknown,pt6,Overall,0.702892328149084
-Kazakhstan,pt6,Overall,0.7329716147638877
-Jordan,pt6,Overall,0.6987019083541254
-Netherlands,pt6,Overall,0.7244639097768353
-Andorra,pt6,Overall,0.7303970699549996
-Germany,pt6,Overall,0.7218487134478423
-Kenya,pt6,Overall,0.7413041539146784
-Tunisia,pt6,Overall,0.7094389826485981
-Chile,pt6,Overall,0.7531331592539212
-Turkey,pt6,Overall,0.7216890836816992
-South Korea,pt6,Overall,0.7265084957714874
-China,pt6,Overall,0.6882969960556159
-Taiwan,pt6,Overall,0.7183739444484829
-Argentina,pt6,Overall,0.7490492869184389
-Kyrgyzstan,pt6,Overall,0.709724489295801
-Australia,pt6,Overall,0.7368188191984617
-Ukraine,pt6,Overall,0.7496384747132832
-Lebanon,pt6,Overall,0.7241237811722941
-Colombia,pt6,Overall,0.7460839225167302
-New Zealand,pt6,Overall,0.7289288090461732
-Greece,pt6,Overall,0.7348611900978501
-Nicaragua,pt6,Overall,0.749504434166211
-Bangladesh,pt6,Overall,0.7064948879098087
-Armenia,pt6,Overall,0.7167094513372724
-Libya,pt6,Overall,0.7098579224895705
-Egypt,pt6,Overall,0.6890094938732447
-Nigeria,pt6,Overall,0.72640742721046
-United Kingdom,pt6,Overall,0.7425596343145004
-Singapore,pt6,Overall,0.7100625407979446
-Guatemala,pt6,Overall,0.748781419507283
-Slovakia,pt6,Overall,0.7503028443702773
-Vietnam,pt6,Overall,0.7023703428221159
-Bolivia,pt6,Overall,0.7401364635885052
-Cyprus,pt6,Overall,0.7390173236928945
-United States of America,pt6,Overall,0.7443816568483791
-Malaysia,pt6,Overall,0.7276046890381416
-Czech Republic,pt6,Overall,0.7554686773518053
-Brazil,pt6,Overall,0.7373232448392459
-Pakistan,pt6,Overall,0.7356138765638959
-Zimbabwe,pt6,Overall,0.7175088629853277
-Hong Kong,pt6,Overall,0.7378035011866654
-Ecuador,pt6,Overall,0.7372223255427168
-Uruguay,pt6,Overall,0.7475256541724187
-Peru,pt6,Overall,0.7216614913903237
-Venezuela,pt6,Overall,0.7475980600234327
-Philippines,pt6,Overall,0.7225017827173247
-Mexico,pt6,Overall,0.7473283972649039
-Ethiopia,pt6,Overall,0.7189121725822133
-Myanmar,pt6,Overall,0.6863837419395326
-Indonesia,pt6,Overall,0.711376355584491
-Iran,pt6,Overall,0.7310706481937969
-Iraq,pt6,Overall,0.7265526536806388
-Mongolia,pt6,Overall,0.7774804087898239
-Puerto Rico,pt6,Overall,0.7455407435091952
-Morocco,pt6,Overall,0.7421768637200913
-Tajikistan,pt6,Overall,0.723041935344481
-Canada,pt6,Overall,0.7492884619147202
-Romania,pt7,Overall,0.7575113875779624
-Russia,pt7,Overall,0.7686523537011507
-Thailand,pt7,Overall,0.7694503656395552
-Japan,pt7,Overall,0.7352867312311254
-Unknown,pt7,Overall,0.716599608931825
-Kazakhstan,pt7,Overall,0.7595969424781234
-Jordan,pt7,Overall,0.708464714781904
-Netherlands,pt7,Overall,0.7418244644454767
-Andorra,pt7,Overall,0.7535472037191803
-Germany,pt7,Overall,0.7386402052260035
-Kenya,pt7,Overall,0.7741563257991613
-Tunisia,pt7,Overall,0.7248307493410403
-Chile,pt7,Overall,0.7798241445726857
-Turkey,pt7,Overall,0.7397225091924836
-South Korea,pt7,Overall,0.7555038052151719
-China,pt7,Overall,0.7167387642757624
-Taiwan,pt7,Overall,0.7423651683930472
-Argentina,pt7,Overall,0.7728938515824437
-Kyrgyzstan,pt7,Overall,0.7329880781525456
-Australia,pt7,Overall,0.757738945709086
-Ukraine,pt7,Overall,0.7648826740263354
-Lebanon,pt7,Overall,0.7371086565808175
-Colombia,pt7,Overall,0.7678353508022459
-New Zealand,pt7,Overall,0.7469707033669781
-Greece,pt7,Overall,0.7421955851299986
-Nicaragua,pt7,Overall,0.7677444734737094
-Bangladesh,pt7,Overall,0.7178987760529589
-Armenia,pt7,Overall,0.7259237935727717
-Libya,pt7,Overall,0.72979256390076
-Egypt,pt7,Overall,0.6980820251911375
-Nigeria,pt7,Overall,0.7482457006187473
-United Kingdom,pt7,Overall,0.7610440463267364
-Singapore,pt7,Overall,0.7401784552052526
-Guatemala,pt7,Overall,0.7691678284925783
-Slovakia,pt7,Overall,0.7723964072061507
-Vietnam,pt7,Overall,0.7259567797659082
-Bolivia,pt7,Overall,0.7663627265800312
-Cyprus,pt7,Overall,0.7591821727756517
-United States of America,pt7,Overall,0.7707211087062429
-Malaysia,pt7,Overall,0.763188914114104
-Czech Republic,pt7,Overall,0.7840751487474646
-Brazil,pt7,Overall,0.7638931091693668
-Pakistan,pt7,Overall,0.7424828998611724
-Zimbabwe,pt7,Overall,0.7393227841574793
-Hong Kong,pt7,Overall,0.7713198562037417
-Ecuador,pt7,Overall,0.7630313809189107
-Uruguay,pt7,Overall,0.7659279979328901
-Peru,pt7,Overall,0.746304147756297
-Venezuela,pt7,Overall,0.7677986104206068
-Philippines,pt7,Overall,0.7500891819093658
-Mexico,pt7,Overall,0.76162473148775
-Ethiopia,pt7,Overall,0.7285467806971068
-Myanmar,pt7,Overall,0.6993710455605283
-Indonesia,pt7,Overall,0.732663281214441
-Iran,pt7,Overall,0.7501083158997229
-Iraq,pt7,Overall,0.751922728324088
-Mongolia,pt7,Overall,0.8090931899111704
-Puerto Rico,pt7,Overall,0.7598081556992196
-Morocco,pt7,Overall,0.7661181318453928
-Tajikistan,pt7,Overall,0.7301464669923708
-Canada,pt7,Overall,0.7716520377521041
-Romania,pt8,Overall,0.7515297219543706
-Russia,pt8,Overall,0.7596276106462492
-Thailand,pt8,Overall,0.7589673928007983
-Japan,pt8,Overall,0.7339172975436554
-Unknown,pt8,Overall,0.7095662680684027
-Kazakhstan,pt8,Overall,0.7474903258793381
-Jordan,pt8,Overall,0.7025760261719567
-Netherlands,pt8,Overall,0.7425112018924582
-Andorra,pt8,Overall,0.7425580760717027
-Germany,pt8,Overall,0.7361102203355397
-Kenya,pt8,Overall,0.7512941689548955
-Tunisia,pt8,Overall,0.7143518899518684
-Chile,pt8,Overall,0.7682907781695401
-Turkey,pt8,Overall,0.733569454046474
-South Korea,pt8,Overall,0.7507700225391652
-China,pt8,Overall,0.7123193021169214
-Taiwan,pt8,Overall,0.7350395546332383
-Argentina,pt8,Overall,0.7580834040740674
-Kyrgyzstan,pt8,Overall,0.7204431301116501
-Australia,pt8,Overall,0.7486074936263202
-Ukraine,pt8,Overall,0.7602514491353286
-Lebanon,pt8,Overall,0.7303775783705911
-Colombia,pt8,Overall,0.7541800967634397
-New Zealand,pt8,Overall,0.74114372587299
-Greece,pt8,Overall,0.7444905707025719
-Nicaragua,pt8,Overall,0.7619664815437347
-Bangladesh,pt8,Overall,0.711715449259814
-Armenia,pt8,Overall,0.7234065999020006
-Libya,pt8,Overall,0.7146765199514192
-Egypt,pt8,Overall,0.6901751583017368
-Nigeria,pt8,Overall,0.7328401710945253
-United Kingdom,pt8,Overall,0.7535218945548448
-Singapore,pt8,Overall,0.729613208309286
-Guatemala,pt8,Overall,0.7576429032011581
-Slovakia,pt8,Overall,0.7650120147615019
-Vietnam,pt8,Overall,0.7205026269877473
-Bolivia,pt8,Overall,0.7512450209414199
-Cyprus,pt8,Overall,0.7530182834217906
-United States of America,pt8,Overall,0.7559713500957062
-Malaysia,pt8,Overall,0.7446412916109303
-Czech Republic,pt8,Overall,0.7823060465548679
-Brazil,pt8,Overall,0.7451342319763095
-Pakistan,pt8,Overall,0.7326965326837876
-Zimbabwe,pt8,Overall,0.7276690780766795
-Hong Kong,pt8,Overall,0.7603512615055993
-Ecuador,pt8,Overall,0.7505299006274769
-Uruguay,pt8,Overall,0.7535059382105951
-Peru,pt8,Overall,0.7367416031936623
-Venezuela,pt8,Overall,0.7550300246229938
-Philippines,pt8,Overall,0.7326492275379112
-Mexico,pt8,Overall,0.7511763718533561
-Ethiopia,pt8,Overall,0.7279417795210398
-Myanmar,pt8,Overall,0.6913938528693881
-Indonesia,pt8,Overall,0.7192369736967021
-Iran,pt8,Overall,0.7367965844264578
-Iraq,pt8,Overall,0.7316635078004096
-Mongolia,pt8,Overall,0.7897585096076172
-Puerto Rico,pt8,Overall,0.7519049530947863
-Morocco,pt8,Overall,0.7525454851073771
-Tajikistan,pt8,Overall,0.7228197936851829
-Canada,pt8,Overall,0.7630212890332576
-Romania,pt9,Overall,0.7587189604277145
-Russia,pt9,Overall,0.7670235522911676
-Thailand,pt9,Overall,0.7702400774050094
-Japan,pt9,Overall,0.7328335751369137
-Unknown,pt9,Overall,0.7175373335996152
-Kazakhstan,pt9,Overall,0.7561858827093929
-Jordan,pt9,Overall,0.7100879301259037
-Netherlands,pt9,Overall,0.7394521035807261
-Andorra,pt9,Overall,0.749166617873777
-Germany,pt9,Overall,0.7348213644199345
-Kenya,pt9,Overall,0.7735381606047889
-Tunisia,pt9,Overall,0.7290793633920282
-Chile,pt9,Overall,0.7790686986772094
-Turkey,pt9,Overall,0.7391320059593283
-South Korea,pt9,Overall,0.7487180935874884
-China,pt9,Overall,0.7143928856333724
-Taiwan,pt9,Overall,0.7367513717379959
-Argentina,pt9,Overall,0.7692457222002331
-Kyrgyzstan,pt9,Overall,0.730321478039219
-Australia,pt9,Overall,0.7556401702429838
-Ukraine,pt9,Overall,0.7655326792475903
-Lebanon,pt9,Overall,0.7409691558213481
-Colombia,pt9,Overall,0.7714725717236992
-New Zealand,pt9,Overall,0.7439795339565948
-Greece,pt9,Overall,0.7450464436116272
-Nicaragua,pt9,Overall,0.773742553432742
-Bangladesh,pt9,Overall,0.7166671184419225
-Armenia,pt9,Overall,0.7308078703080327
-Libya,pt9,Overall,0.7329021901564252
-Egypt,pt9,Overall,0.6997638453982096
-Nigeria,pt9,Overall,0.7504488915721359
-United Kingdom,pt9,Overall,0.7571488818942103
-Singapore,pt9,Overall,0.7354986435584576
-Guatemala,pt9,Overall,0.7724123100850184
-Slovakia,pt9,Overall,0.7695235657011695
-Vietnam,pt9,Overall,0.7213947457883001
-Bolivia,pt9,Overall,0.7650753977113898
-Cyprus,pt9,Overall,0.7597145084474679
-United States of America,pt9,Overall,0.7686520237242682
-Malaysia,pt9,Overall,0.7576261507023974
-Czech Republic,pt9,Overall,0.7807970176983845
-Brazil,pt9,Overall,0.7620047072424448
-Pakistan,pt9,Overall,0.7471777523435692
-Zimbabwe,pt9,Overall,0.7390043213003981
-Hong Kong,pt9,Overall,0.763863580619308
-Ecuador,pt9,Overall,0.7626126214477082
-Uruguay,pt9,Overall,0.7644268548571683
-Peru,pt9,Overall,0.7470167858722179
-Venezuela,pt9,Overall,0.7729668810965838
-Philippines,pt9,Overall,0.7481210651405987
-Mexico,pt9,Overall,0.7683117645468533
-Ethiopia,pt9,Overall,0.7332367616477449
-Myanmar,pt9,Overall,0.7013223466303342
-Indonesia,pt9,Overall,0.7323615418941121
-Iran,pt9,Overall,0.7501659868286898
-Iraq,pt9,Overall,0.7553576116023916
-Mongolia,pt9,Overall,0.8088353115926042
-Puerto Rico,pt9,Overall,0.767568500239443
-Morocco,pt9,Overall,0.7659735219474254
-Tajikistan,pt9,Overall,0.7334153935452872
-Canada,pt9,Overall,0.7690353537732395
-Romania,pt10,Overall,0.7386646637123836
-Russia,pt10,Overall,0.749477361749194
-Thailand,pt10,Overall,0.7419215715017757
-Japan,pt10,Overall,0.7117456754039094
-Unknown,pt10,Overall,0.6950626590028549
-Kazakhstan,pt10,Overall,0.7278770487269164
-Jordan,pt10,Overall,0.6952437236967132
-Netherlands,pt10,Overall,0.7226232684892039
-Andorra,pt10,Overall,0.7214528426984546
-Germany,pt10,Overall,0.7170208499442352
-Kenya,pt10,Overall,0.7259373756683727
-Tunisia,pt10,Overall,0.7037809168920207
-Chile,pt10,Overall,0.7474502074397663
-Turkey,pt10,Overall,0.7209094562699648
-South Korea,pt10,Overall,0.727897995401073
-China,pt10,Overall,0.6892072997641274
-Taiwan,pt10,Overall,0.7173163173345185
-Argentina,pt10,Overall,0.7419848995712038
-Kyrgyzstan,pt10,Overall,0.7041074808997965
-Australia,pt10,Overall,0.7292927207743989
-Ukraine,pt10,Overall,0.7505799387540527
-Lebanon,pt10,Overall,0.725543608395526
-Colombia,pt10,Overall,0.7375012364332253
-New Zealand,pt10,Overall,0.722776482136244
-Greece,pt10,Overall,0.7353273188771591
-Nicaragua,pt10,Overall,0.7428206320033718
-Bangladesh,pt10,Overall,0.7023845248572537
-Armenia,pt10,Overall,0.7168454560609764
-Libya,pt10,Overall,0.7021867139904303
-Egypt,pt10,Overall,0.6841637785010759
-Nigeria,pt10,Overall,0.7147133275863787
-United Kingdom,pt10,Overall,0.7336798573561867
-Singapore,pt10,Overall,0.7064390553520165
-Guatemala,pt10,Overall,0.7435861426898307
-Slovakia,pt10,Overall,0.7491280486873356
-Vietnam,pt10,Overall,0.7043862202363254
-Bolivia,pt10,Overall,0.734459789131616
-Cyprus,pt10,Overall,0.7373344471447809
-United States of America,pt10,Overall,0.7354081768382382
-Malaysia,pt10,Overall,0.7198149850540513
-Czech Republic,pt10,Overall,0.7552419633152816
-Brazil,pt10,Overall,0.7274022048970342
-Pakistan,pt10,Overall,0.7274383956565739
-Zimbabwe,pt10,Overall,0.7074680062384655
-Hong Kong,pt10,Overall,0.7353221165676816
-Ecuador,pt10,Overall,0.7298824190537478
-Uruguay,pt10,Overall,0.7382740771028318
-Peru,pt10,Overall,0.7191390883224986
-Venezuela,pt10,Overall,0.741964636102669
-Philippines,pt10,Overall,0.7109431429431022
-Mexico,pt10,Overall,0.738653880772528
-Ethiopia,pt10,Overall,0.7121086018182443
-Myanmar,pt10,Overall,0.685111917905865
-Indonesia,pt10,Overall,0.7015728640582662
-Iran,pt10,Overall,0.7248522895911752
-Iraq,pt10,Overall,0.7254745945119592
-Mongolia,pt10,Overall,0.7714472803788861
-Puerto Rico,pt10,Overall,0.7360951507437684
-Morocco,pt10,Overall,0.7359591213159393
-Tajikistan,pt10,Overall,0.7137468807418635
-Canada,pt10,Overall,0.7417973178254108
-Romania,pt11,Overall,0.7439907884007294
-Russia,pt11,Overall,0.754954052019484
-Thailand,pt11,Overall,0.8001496047766664
-Japan,pt11,Overall,0.7300949310055724
-Unknown,pt11,Overall,0.7436171684166886
-Kazakhstan,pt11,Overall,0.7697165583529342
-Jordan,pt11,Overall,0.7228499316039101
-Netherlands,pt11,Overall,0.7368762082891412
-Andorra,pt11,Overall,0.7388509840083347
-Germany,pt11,Overall,0.7358982292305495
-Kenya,pt11,Overall,0.8054750449834528
-Tunisia,pt11,Overall,0.7384329148346677
-Chile,pt11,Overall,0.774322400879407
-Turkey,pt11,Overall,0.7643952047960896
-South Korea,pt11,Overall,0.7446927995423256
-China,pt11,Overall,0.7279580878728821
-Taiwan,pt11,Overall,0.7492404334305897
-Argentina,pt11,Overall,0.7575851285247687
-Kyrgyzstan,pt11,Overall,0.748935313497089
-Australia,pt11,Overall,0.764148301128163
-Ukraine,pt11,Overall,0.7586592703194802
-Lebanon,pt11,Overall,0.741819658079604
-Colombia,pt11,Overall,0.777188848957316
-New Zealand,pt11,Overall,0.7538094798521885
-Greece,pt11,Overall,0.7337328000838318
-Nicaragua,pt11,Overall,0.7663857180824569
-Bangladesh,pt11,Overall,0.7499262099671075
-Armenia,pt11,Overall,0.730844868814292
-Libya,pt11,Overall,0.7375630622855857
-Egypt,pt11,Overall,0.69969811874475
-Nigeria,pt11,Overall,0.7743578867834503
-United Kingdom,pt11,Overall,0.7646348973308706
-Singapore,pt11,Overall,0.7484267701562847
-Guatemala,pt11,Overall,0.7816182966804859
-Slovakia,pt11,Overall,0.7668521710128067
-Vietnam,pt11,Overall,0.7522233462964417
-Bolivia,pt11,Overall,0.7569763800211664
-Cyprus,pt11,Overall,0.7618496438393445
-United States of America,pt11,Overall,0.7808024685468188
-Malaysia,pt11,Overall,0.7931820344704706
-Czech Republic,pt11,Overall,0.7655011831013606
-Brazil,pt11,Overall,0.7629566506898396
-Pakistan,pt11,Overall,0.7730691005642244
-Zimbabwe,pt11,Overall,0.7575567964671971
-Hong Kong,pt11,Overall,0.7679087388755397
-Ecuador,pt11,Overall,0.7699870888549651
-Uruguay,pt11,Overall,0.7699557289253346
-Peru,pt11,Overall,0.7336742087687264
-Venezuela,pt11,Overall,0.762455283250612
-Philippines,pt11,Overall,0.7859407223113638
-Mexico,pt11,Overall,0.7618106695911857
-Ethiopia,pt11,Overall,0.7518707382099638
-Myanmar,pt11,Overall,0.7469713523879457
-Indonesia,pt11,Overall,0.7573661045260176
-Iran,pt11,Overall,0.7780339378462033
-Iraq,pt11,Overall,0.7522353068549867
-Mongolia,pt11,Overall,0.8066346288710883
-Puerto Rico,pt11,Overall,0.7666852309579949
-Morocco,pt11,Overall,0.7767410897587984
-Tajikistan,pt11,Overall,0.7652468317421752
-Canada,pt11,Overall,0.7713048101106608
-Romania,pt12,Overall,0.7486609614340902
-Russia,pt12,Overall,0.756680245189182
-Thailand,pt12,Overall,0.7923114546790605
-Japan,pt12,Overall,0.7318447004724725
-Unknown,pt12,Overall,0.7401880822591128
-Kazakhstan,pt12,Overall,0.7688546958084285
-Jordan,pt12,Overall,0.7200461755705542
-Netherlands,pt12,Overall,0.7452031195300213
-Andorra,pt12,Overall,0.745454893267918
-Germany,pt12,Overall,0.7436225948274207
-Kenya,pt12,Overall,0.8000271647470217
-Tunisia,pt12,Overall,0.7343096958488745
-Chile,pt12,Overall,0.775133314369301
-Turkey,pt12,Overall,0.7569898452459083
-South Korea,pt12,Overall,0.7478072718899363
-China,pt12,Overall,0.7312880764710048
-Taiwan,pt12,Overall,0.7471383714393847
-Argentina,pt12,Overall,0.7613495602118728
-Kyrgyzstan,pt12,Overall,0.751477767565615
-Australia,pt12,Overall,0.7695355740297494
-Ukraine,pt12,Overall,0.7595463986434665
-Lebanon,pt12,Overall,0.7371829881529337
-Colombia,pt12,Overall,0.774966971936711
-New Zealand,pt12,Overall,0.7604725900335355
-Greece,pt12,Overall,0.736649308219119
-Nicaragua,pt12,Overall,0.7698628644935417
-Bangladesh,pt12,Overall,0.7477467433960456
-Armenia,pt12,Overall,0.7310852367485309
-Libya,pt12,Overall,0.7376662587933682
-Egypt,pt12,Overall,0.6979777520445092
-Nigeria,pt12,Overall,0.7697661036870312
-United Kingdom,pt12,Overall,0.7708650407736951
-Singapore,pt12,Overall,0.7492868137254662
-Guatemala,pt12,Overall,0.7788489609242034
-Slovakia,pt12,Overall,0.7675976381328325
-Vietnam,pt12,Overall,0.7542033059311252
-Bolivia,pt12,Overall,0.7573804994433141
-Cyprus,pt12,Overall,0.7613645279056726
-United States of America,pt12,Overall,0.7838024767832618
-Malaysia,pt12,Overall,0.7872650079693063
-Czech Republic,pt12,Overall,0.7697165462162474
-Brazil,pt12,Overall,0.761951113394596
-Pakistan,pt12,Overall,0.7704928621377792
-Zimbabwe,pt12,Overall,0.7540795496001578
-Hong Kong,pt12,Overall,0.768776035295625
-Ecuador,pt12,Overall,0.7690386381221366
-Uruguay,pt12,Overall,0.7728928139960088
-Peru,pt12,Overall,0.7350803999179406
-Venezuela,pt12,Overall,0.7619923698491915
-Philippines,pt12,Overall,0.78047603119235
-Mexico,pt12,Overall,0.7580031830499921
-Ethiopia,pt12,Overall,0.7539268672949379
-Myanmar,pt12,Overall,0.7417097453400954
-Indonesia,pt12,Overall,0.7546794105733835
-Iran,pt12,Overall,0.7756576835270137
-Iraq,pt12,Overall,0.7472659455900932
-Mongolia,pt12,Overall,0.8043267905719573
-Puerto Rico,pt12,Overall,0.7683854185841824
-Morocco,pt12,Overall,0.7742627741805985
-Tajikistan,pt12,Overall,0.7637506862778012
-Canada,pt12,Overall,0.7784947774593978
-Romania,pt13,Overall,0.7563703491683775
-Russia,pt13,Overall,0.7670443792529948
-Thailand,pt13,Overall,0.8046543881957515
-Japan,pt13,Overall,0.7412555441838529
-Unknown,pt13,Overall,0.7470308483566216
-Kazakhstan,pt13,Overall,0.7804561813571469
-Jordan,pt13,Overall,0.727252236195321
-Netherlands,pt13,Overall,0.7523677620026639
-Andorra,pt13,Overall,0.7549462110050554
-Germany,pt13,Overall,0.7507206452081994
-Kenya,pt13,Overall,0.8092130593333403
-Tunisia,pt13,Overall,0.7431839071082175
-Chile,pt13,Overall,0.7870895119624599
-Turkey,pt13,Overall,0.76555042623661
-South Korea,pt13,Overall,0.758183182111977
-China,pt13,Overall,0.737918741837682
-Taiwan,pt13,Overall,0.7566724711860207
-Argentina,pt13,Overall,0.7703972326329558
-Kyrgyzstan,pt13,Overall,0.7560290543452309
-Australia,pt13,Overall,0.7773564186024273
-Ukraine,pt13,Overall,0.7686140737416661
-Lebanon,pt13,Overall,0.7462458934599501
-Colombia,pt13,Overall,0.7840276685702935
-New Zealand,pt13,Overall,0.7674705580934938
-Greece,pt13,Overall,0.7455502684113846
-Nicaragua,pt13,Overall,0.7781964898023654
-Bangladesh,pt13,Overall,0.7521797934826906
-Armenia,pt13,Overall,0.7369417213858025
-Libya,pt13,Overall,0.7443784983927276
-Egypt,pt13,Overall,0.7067596097812201
-Nigeria,pt13,Overall,0.7791997745307903
-United Kingdom,pt13,Overall,0.7789104678365771
-Singapore,pt13,Overall,0.7590221885431684
-Guatemala,pt13,Overall,0.7884485750986211
-Slovakia,pt13,Overall,0.7780785573484914
-Vietnam,pt13,Overall,0.7572739677617216
-Bolivia,pt13,Overall,0.7676290862877446
-Cyprus,pt13,Overall,0.7702745223061555
-United States of America,pt13,Overall,0.7924010696764433
-Malaysia,pt13,Overall,0.7966018298814139
-Czech Republic,pt13,Overall,0.7815783845580689
-Brazil,pt13,Overall,0.7734960168499364
-Pakistan,pt13,Overall,0.7766521139909665
-Zimbabwe,pt13,Overall,0.7616931408702075
-Hong Kong,pt13,Overall,0.7817963252286835
-Ecuador,pt13,Overall,0.778935415322475
-Uruguay,pt13,Overall,0.7817294484154046
-Peru,pt13,Overall,0.7436932578126673
-Venezuela,pt13,Overall,0.7725640302531174
-Philippines,pt13,Overall,0.7919830368109435
-Mexico,pt13,Overall,0.7696509131358468
-Ethiopia,pt13,Overall,0.760351364298139
-Myanmar,pt13,Overall,0.7457909283791339
-Indonesia,pt13,Overall,0.7630220166803217
-Iran,pt13,Overall,0.7838118317611035
-Iraq,pt13,Overall,0.7541903169454011
-Mongolia,pt13,Overall,0.8175467901621499
-Puerto Rico,pt13,Overall,0.7760296527888173
-Morocco,pt13,Overall,0.7837125024107787
-Tajikistan,pt13,Overall,0.7723006072161602
-Canada,pt13,Overall,0.7872570278870009
-Romania,pt14,Overall,0.7556136193979424
-Russia,pt14,Overall,0.7637312699462722
-Thailand,pt14,Overall,0.810847475689588
-Japan,pt14,Overall,0.7369341488491157
-Unknown,pt14,Overall,0.7585006867035446
-Kazakhstan,pt14,Overall,0.7857598166744476
-Jordan,pt14,Overall,0.7320329091314912
-Netherlands,pt14,Overall,0.7391750640499518
-Andorra,pt14,Overall,0.7434884837297351
-Germany,pt14,Overall,0.7420517037799781
-Kenya,pt14,Overall,0.8223736782484345
-Tunisia,pt14,Overall,0.7494070017355151
-Chile,pt14,Overall,0.7854248369321409
-Turkey,pt14,Overall,0.779542336480452
-South Korea,pt14,Overall,0.7548664191623995
-China,pt14,Overall,0.7439943716282097
-Taiwan,pt14,Overall,0.7625992191815781
-Argentina,pt14,Overall,0.7677402759140866
-Kyrgyzstan,pt14,Overall,0.7596354502114114
-Australia,pt14,Overall,0.7694649942163756
-Ukraine,pt14,Overall,0.7697843278666763
-Lebanon,pt14,Overall,0.7539898499179274
-Colombia,pt14,Overall,0.7853820371995065
-New Zealand,pt14,Overall,0.757619732467943
-Greece,pt14,Overall,0.7405701667903771
-Nicaragua,pt14,Overall,0.7762283341321621
-Bangladesh,pt14,Overall,0.7670310726095064
-Armenia,pt14,Overall,0.7385399237271311
-Libya,pt14,Overall,0.7521936867704807
-Egypt,pt14,Overall,0.7099577034666722
-Nigeria,pt14,Overall,0.7916803837367241
-United Kingdom,pt14,Overall,0.7697404000906483
-Singapore,pt14,Overall,0.7618813438842882
-Guatemala,pt14,Overall,0.794315610488191
-Slovakia,pt14,Overall,0.7738846817957211
-Vietnam,pt14,Overall,0.7718645766170675
-Bolivia,pt14,Overall,0.7698532781444345
-Cyprus,pt14,Overall,0.772550255049722
-United States of America,pt14,Overall,0.7892468660033667
-Malaysia,pt14,Overall,0.81141923422075
-Czech Republic,pt14,Overall,0.7680008576264332
-Brazil,pt14,Overall,0.7725746530550264
-Pakistan,pt14,Overall,0.787342156459114
-Zimbabwe,pt14,Overall,0.7696135541811077
-Hong Kong,pt14,Overall,0.7775269079398027
-Ecuador,pt14,Overall,0.7834337608691385
-Uruguay,pt14,Overall,0.7783467989354952
-Peru,pt14,Overall,0.7468195958508469
-Venezuela,pt14,Overall,0.7725475911381711
-Philippines,pt14,Overall,0.8080008495842252
-Mexico,pt14,Overall,0.7725854908937938
-Ethiopia,pt14,Overall,0.76127933809028
-Myanmar,pt14,Overall,0.7640428244116023
-Indonesia,pt14,Overall,0.7729204859535458
-Iran,pt14,Overall,0.7914051348701877
-Iraq,pt14,Overall,0.7595893898797272
-Mongolia,pt14,Overall,0.8153122267671746
-Puerto Rico,pt14,Overall,0.7742496736951219
-Morocco,pt14,Overall,0.792830127626115
-Tajikistan,pt14,Overall,0.780449326785809
-Canada,pt14,Overall,0.7771249585675479
-Romania,pt15,Overall,0.7567059143750997
-Russia,pt15,Overall,0.7695307091067827
-Thailand,pt15,Overall,0.7991993667602652
-Japan,pt15,Overall,0.7394389455350341
-Unknown,pt15,Overall,0.7441009367620283
-Kazakhstan,pt15,Overall,0.7794342921371198
-Jordan,pt15,Overall,0.7264176506349515
-Netherlands,pt15,Overall,0.7529325714017897
-Andorra,pt15,Overall,0.7529489159130074
-Germany,pt15,Overall,0.7499076290078246
-Kenya,pt15,Overall,0.7995818169430365
-Tunisia,pt15,Overall,0.739143720596041
-Chile,pt15,Overall,0.7834177224513289
-Turkey,pt15,Overall,0.7657430190536629
-South Korea,pt15,Overall,0.7565761322456882
-China,pt15,Overall,0.7343955725699202
-Taiwan,pt15,Overall,0.7566265608365634
-Argentina,pt15,Overall,0.7688984499668414
-Kyrgyzstan,pt15,Overall,0.7556804656450711
-Australia,pt15,Overall,0.7752107756816022
-Ukraine,pt15,Overall,0.7707205180630976
-Lebanon,pt15,Overall,0.7473466418516307
-Colombia,pt15,Overall,0.7774762312707972
-New Zealand,pt15,Overall,0.7650975361949608
-Greece,pt15,Overall,0.7472655432225404
-Nicaragua,pt15,Overall,0.7740253442136855
-Bangladesh,pt15,Overall,0.7540323067403879
-Armenia,pt15,Overall,0.7380091914415847
-Libya,pt15,Overall,0.7425624337531666
-Egypt,pt15,Overall,0.7040701461380696
-Nigeria,pt15,Overall,0.7748026199133555
-United Kingdom,pt15,Overall,0.775858560636728
-Singapore,pt15,Overall,0.7556272632539156
-Guatemala,pt15,Overall,0.7846960723515266
-Slovakia,pt15,Overall,0.7790211397516157
-Vietnam,pt15,Overall,0.758991699037403
-Bolivia,pt15,Overall,0.7646317828404925
-Cyprus,pt15,Overall,0.7697357729121743
-United States of America,pt15,Overall,0.7877418409116004
-Malaysia,pt15,Overall,0.7908123494765165
-Czech Republic,pt15,Overall,0.7809399334901583
-Brazil,pt15,Overall,0.7645304930906665
-Pakistan,pt15,Overall,0.7771420959156414
-Zimbabwe,pt15,Overall,0.7532348288432074
-Hong Kong,pt15,Overall,0.7782399964605925
-Ecuador,pt15,Overall,0.7735312178292424
-Uruguay,pt15,Overall,0.7776221911517356
-Peru,pt15,Overall,0.7418124980942211
-Venezuela,pt15,Overall,0.7686006532886389
-Philippines,pt15,Overall,0.7855761923684442
-Mexico,pt15,Overall,0.7633339648887317
-Ethiopia,pt15,Overall,0.758207455460912
-Myanmar,pt15,Overall,0.746540480181339
-Indonesia,pt15,Overall,0.7609549305329335
-Iran,pt15,Overall,0.7814312471034612
-Iraq,pt15,Overall,0.7549578834884801
-Mongolia,pt15,Overall,0.8131840006355717
-Puerto Rico,pt15,Overall,0.7737578843360473
-Morocco,pt15,Overall,0.7797607992463633
-Tajikistan,pt15,Overall,0.7718424793982763
-Canada,pt15,Overall,0.7843724080659956
+Romania,pt1,AllQuestions,0.7541799264126121
+Russia,pt1,AllQuestions,0.7596103257659916
+Thailand,pt1,AllQuestions,0.758059295010072
+Japan,pt1,AllQuestions,0.7276452856552057
+Unknown,pt1,AllQuestions,0.706899034264732
+Kazakhstan,pt1,AllQuestions,0.7457795239787789
+Jordan,pt1,AllQuestions,0.7005978424317193
+Netherlands,pt1,AllQuestions,0.7376760968928795
+Andorra,pt1,AllQuestions,0.7481992187041562
+Germany,pt1,AllQuestions,0.7327517499612064
+Kenya,pt1,AllQuestions,0.7585491300708846
+Tunisia,pt1,AllQuestions,0.7161106505858597
+Chile,pt1,AllQuestions,0.7694279843096193
+Turkey,pt1,AllQuestions,0.7267205920340715
+South Korea,pt1,AllQuestions,0.741261314050583
+China,pt1,AllQuestions,0.7046245114032221
+Taiwan,pt1,AllQuestions,0.730119469269219
+Argentina,pt1,AllQuestions,0.7625973278248313
+Kyrgyzstan,pt1,AllQuestions,0.7180201430841321
+Australia,pt1,AllQuestions,0.7507732745086891
+Ukraine,pt1,AllQuestions,0.7576363967369304
+Lebanon,pt1,AllQuestions,0.7300256407894942
+Colombia,pt1,AllQuestions,0.7613232292149795
+New Zealand,pt1,AllQuestions,0.7425868361270652
+Greece,pt1,AllQuestions,0.7429198078291624
+Nicaragua,pt1,AllQuestions,0.7644565323258553
+Bangladesh,pt1,AllQuestions,0.7045644619847895
+Armenia,pt1,AllQuestions,0.7233484090876544
+Libya,pt1,AllQuestions,0.7205172617787732
+Egypt,pt1,AllQuestions,0.6938604537209435
+Nigeria,pt1,AllQuestions,0.7357538100981128
+United Kingdom,pt1,AllQuestions,0.7531078874997084
+Singapore,pt1,AllQuestions,0.7276014013837876
+Guatemala,pt1,AllQuestions,0.7597594203036521
+Slovakia,pt1,AllQuestions,0.7634417292261124
+Vietnam,pt1,AllQuestions,0.7113568381814195
+Bolivia,pt1,AllQuestions,0.7567164544879843
+Cyprus,pt1,AllQuestions,0.7523989904387979
+United States of America,pt1,AllQuestions,0.7605386881752546
+Malaysia,pt1,AllQuestions,0.7424064740291337
+Czech Republic,pt1,AllQuestions,0.7748030877348941
+Brazil,pt1,AllQuestions,0.7535237348988962
+Pakistan,pt1,AllQuestions,0.7329202133962204
+Zimbabwe,pt1,AllQuestions,0.727800422745748
+Hong Kong,pt1,AllQuestions,0.7567713919991569
+Ecuador,pt1,AllQuestions,0.7520426644156998
+Uruguay,pt1,AllQuestions,0.7575347296803443
+Peru,pt1,AllQuestions,0.7403129587084666
+Venezuela,pt1,AllQuestions,0.7647054957267563
+Philippines,pt1,AllQuestions,0.7337924108997685
+Mexico,pt1,AllQuestions,0.7594688283421681
+Ethiopia,pt1,AllQuestions,0.7222608621865114
+Myanmar,pt1,AllQuestions,0.6896288231825323
+Indonesia,pt1,AllQuestions,0.7214087220590492
+Iran,pt1,AllQuestions,0.7391269802658007
+Iraq,pt1,AllQuestions,0.7438422322028146
+Mongolia,pt1,AllQuestions,0.7978136636956136
+Puerto Rico,pt1,AllQuestions,0.7598009282513094
+Morocco,pt1,AllQuestions,0.7527049265833832
+Tajikistan,pt1,AllQuestions,0.7202690778074676
+Canada,pt1,AllQuestions,0.7652922000149458
+Romania,pt2,AllQuestions,0.7240356285718612
+Russia,pt2,AllQuestions,0.7311091073395793
+Thailand,pt2,AllQuestions,0.7188452130109735
+Japan,pt2,AllQuestions,0.6940782076517927
+Unknown,pt2,AllQuestions,0.6753455361376779
+Kazakhstan,pt2,AllQuestions,0.7052916680198922
+Jordan,pt2,AllQuestions,0.6806712194765885
+Netherlands,pt2,AllQuestions,0.7124976669382268
+Andorra,pt2,AllQuestions,0.7133548228887362
+Germany,pt2,AllQuestions,0.7048414978518242
+Kenya,pt2,AllQuestions,0.7021606242660311
+Tunisia,pt2,AllQuestions,0.6847731439074056
+Chile,pt2,AllQuestions,0.7253588706884336
+Turkey,pt2,AllQuestions,0.6983924153784709
+South Korea,pt2,AllQuestions,0.7103222730081855
+China,pt2,AllQuestions,0.6751098679748673
+Taiwan,pt2,AllQuestions,0.6973961187638491
+Argentina,pt2,AllQuestions,0.7225431974151786
+Kyrgyzstan,pt2,AllQuestions,0.6861711888188208
+Australia,pt2,AllQuestions,0.7133310818317333
+Ukraine,pt2,AllQuestions,0.7319298823296154
+Lebanon,pt2,AllQuestions,0.7076001466245208
+Colombia,pt2,AllQuestions,0.7166676472040269
+New Zealand,pt2,AllQuestions,0.7093476809473026
+Greece,pt2,AllQuestions,0.7202790885836455
+Nicaragua,pt2,AllQuestions,0.7278296241232949
+Bangladesh,pt2,AllQuestions,0.67965114998
+Armenia,pt2,AllQuestions,0.7018839331926301
+Libya,pt2,AllQuestions,0.6816496787364085
+Egypt,pt2,AllQuestions,0.6722116493519578
+Nigeria,pt2,AllQuestions,0.6911516415156921
+United Kingdom,pt2,AllQuestions,0.7171105086061728
+Singapore,pt2,AllQuestions,0.6870579734296114
+Guatemala,pt2,AllQuestions,0.7220781673944069
+Slovakia,pt2,AllQuestions,0.7301372172099727
+Vietnam,pt2,AllQuestions,0.6892374867835764
+Bolivia,pt2,AllQuestions,0.7131815318159203
+Cyprus,pt2,AllQuestions,0.720281816592023
+United States of America,pt2,AllQuestions,0.7146809752992697
+Malaysia,pt2,AllQuestions,0.6956409387970938
+Czech Republic,pt2,AllQuestions,0.7420692087804952
+Brazil,pt2,AllQuestions,0.7079417212927195
+Pakistan,pt2,AllQuestions,0.7010332463674557
+Zimbabwe,pt2,AllQuestions,0.6853128119152918
+Hong Kong,pt2,AllQuestions,0.7151318547921858
+Ecuador,pt2,AllQuestions,0.7092574178778441
+Uruguay,pt2,AllQuestions,0.7206393927834899
+Peru,pt2,AllQuestions,0.7015908886232955
+Venezuela,pt2,AllQuestions,0.7235966114993562
+Philippines,pt2,AllQuestions,0.6854022446814146
+Mexico,pt2,AllQuestions,0.7200083766114462
+Ethiopia,pt2,AllQuestions,0.6866718949355003
+Myanmar,pt2,AllQuestions,0.6668337336622142
+Indonesia,pt2,AllQuestions,0.6822525949594594
+Iran,pt2,AllQuestions,0.7034906507041696
+Iraq,pt2,AllQuestions,0.7106413471061627
+Mongolia,pt2,AllQuestions,0.7506127422381597
+Puerto Rico,pt2,AllQuestions,0.7196678947862989
+Morocco,pt2,AllQuestions,0.715037689556334
+Tajikistan,pt2,AllQuestions,0.693896429590352
+Canada,pt2,AllQuestions,0.7249100762289429
+Romania,pt3,AllQuestions,0.7498118929898459
+Russia,pt3,AllQuestions,0.7550979912998479
+Thailand,pt3,AllQuestions,0.7536910303185514
+Japan,pt3,AllQuestions,0.7205389673336634
+Unknown,pt3,AllQuestions,0.7019358347937099
+Kazakhstan,pt3,AllQuestions,0.7428569813122227
+Jordan,pt3,AllQuestions,0.6964470532213889
+Netherlands,pt3,AllQuestions,0.7334788921689896
+Andorra,pt3,AllQuestions,0.7448806584645149
+Germany,pt3,AllQuestions,0.7286046740671146
+Kenya,pt3,AllQuestions,0.7567165035529169
+Tunisia,pt3,AllQuestions,0.7125710463084123
+Chile,pt3,AllQuestions,0.7663727427909898
+Turkey,pt3,AllQuestions,0.723259236793233
+South Korea,pt3,AllQuestions,0.7362641413162471
+China,pt3,AllQuestions,0.701151193793706
+Taiwan,pt3,AllQuestions,0.7257030818673441
+Argentina,pt3,AllQuestions,0.7599461219384245
+Kyrgyzstan,pt3,AllQuestions,0.715184613947803
+Australia,pt3,AllQuestions,0.7451772658757541
+Ukraine,pt3,AllQuestions,0.7532694632766372
+Lebanon,pt3,AllQuestions,0.7261068049084392
+Colombia,pt3,AllQuestions,0.7570234279825034
+New Zealand,pt3,AllQuestions,0.7383652669396455
+Greece,pt3,AllQuestions,0.7368261905006205
+Nicaragua,pt3,AllQuestions,0.760304671728619
+Bangladesh,pt3,AllQuestions,0.7026733145121193
+Armenia,pt3,AllQuestions,0.7204751530656014
+Libya,pt3,AllQuestions,0.7191045896923717
+Egypt,pt3,AllQuestions,0.6921654404354896
+Nigeria,pt3,AllQuestions,0.734237409132528
+United Kingdom,pt3,AllQuestions,0.7494952950963488
+Singapore,pt3,AllQuestions,0.7226313937369635
+Guatemala,pt3,AllQuestions,0.7560577852223788
+Slovakia,pt3,AllQuestions,0.7587455201488477
+Vietnam,pt3,AllQuestions,0.7088397517380609
+Bolivia,pt3,AllQuestions,0.7527096591296408
+Cyprus,pt3,AllQuestions,0.7466739742381435
+United States of America,pt3,AllQuestions,0.7552862961259978
+Malaysia,pt3,AllQuestions,0.739637384224656
+Czech Republic,pt3,AllQuestions,0.7696323349342049
+Brazil,pt3,AllQuestions,0.7500266270466461
+Pakistan,pt3,AllQuestions,0.7299244618124264
+Zimbabwe,pt3,AllQuestions,0.7245794891647409
+Hong Kong,pt3,AllQuestions,0.7512131045993925
+Ecuador,pt3,AllQuestions,0.7479364161446564
+Uruguay,pt3,AllQuestions,0.7538154350427527
+Peru,pt3,AllQuestions,0.7363317371016149
+Venezuela,pt3,AllQuestions,0.761954934373705
+Philippines,pt3,AllQuestions,0.731731390488497
+Mexico,pt3,AllQuestions,0.7560624984758759
+Ethiopia,pt3,AllQuestions,0.7185977061967328
+Myanmar,pt3,AllQuestions,0.6869116777345797
+Indonesia,pt3,AllQuestions,0.718257589942954
+Iran,pt3,AllQuestions,0.735448280522228
+Iraq,pt3,AllQuestions,0.7447283277350543
+Mongolia,pt3,AllQuestions,0.7947265372099566
+Puerto Rico,pt3,AllQuestions,0.7555156494711273
+Morocco,pt3,AllQuestions,0.750020361431001
+Tajikistan,pt3,AllQuestions,0.7191730985251086
+Canada,pt3,AllQuestions,0.7611249585133055
+Romania,pt4,AllQuestions,0.7099515115682392
+Russia,pt4,AllQuestions,0.7149210556075022
+Thailand,pt4,AllQuestions,0.6983154954473298
+Japan,pt4,AllQuestions,0.6767206342824753
+Unknown,pt4,AllQuestions,0.6633726138331907
+Kazakhstan,pt4,AllQuestions,0.6875958812698834
+Jordan,pt4,AllQuestions,0.6649791399387225
+Netherlands,pt4,AllQuestions,0.7017396526190732
+Andorra,pt4,AllQuestions,0.7010922228580518
+Germany,pt4,AllQuestions,0.6950044754015138
+Kenya,pt4,AllQuestions,0.6863339157806844
+Tunisia,pt4,AllQuestions,0.6726433898848393
+Chile,pt4,AllQuestions,0.709923161062485
+Turkey,pt4,AllQuestions,0.6858023557296984
+South Korea,pt4,AllQuestions,0.6944904780525186
+China,pt4,AllQuestions,0.6547791936929024
+Taiwan,pt4,AllQuestions,0.679859331694792
+Argentina,pt4,AllQuestions,0.7105830078310497
+Kyrgyzstan,pt4,AllQuestions,0.6676692125591329
+Australia,pt4,AllQuestions,0.7035506709242251
+Ukraine,pt4,AllQuestions,0.716473318074856
+Lebanon,pt4,AllQuestions,0.6942678678136791
+Colombia,pt4,AllQuestions,0.7029243976004887
+New Zealand,pt4,AllQuestions,0.6992865349588429
+Greece,pt4,AllQuestions,0.7090188393883473
+Nicaragua,pt4,AllQuestions,0.7126206988689807
+Bangladesh,pt4,AllQuestions,0.6669915699448437
+Armenia,pt4,AllQuestions,0.6873747650826593
+Libya,pt4,AllQuestions,0.6700506786697205
+Egypt,pt4,AllQuestions,0.6640418252804783
+Nigeria,pt4,AllQuestions,0.6764146433743456
+United Kingdom,pt4,AllQuestions,0.7079294544626216
+Singapore,pt4,AllQuestions,0.670343748352237
+Guatemala,pt4,AllQuestions,0.7110578222919847
+Slovakia,pt4,AllQuestions,0.7145592672735698
+Vietnam,pt4,AllQuestions,0.6722110665039756
+Bolivia,pt4,AllQuestions,0.6987781668664296
+Cyprus,pt4,AllQuestions,0.7056813995072329
+United States of America,pt4,AllQuestions,0.7045686149810257
+Malaysia,pt4,AllQuestions,0.6827949211910311
+Czech Republic,pt4,AllQuestions,0.7235682256345535
+Brazil,pt4,AllQuestions,0.6922796671401893
+Pakistan,pt4,AllQuestions,0.6840066231107949
+Zimbabwe,pt4,AllQuestions,0.6671090863019074
+Hong Kong,pt4,AllQuestions,0.6985616095726965
+Ecuador,pt4,AllQuestions,0.6934252012413772
+Uruguay,pt4,AllQuestions,0.7070692741482048
+Peru,pt4,AllQuestions,0.6894017013309368
+Venezuela,pt4,AllQuestions,0.7117030884588792
+Philippines,pt4,AllQuestions,0.6674621248646742
+Mexico,pt4,AllQuestions,0.7080348409633404
+Ethiopia,pt4,AllQuestions,0.6704249448678113
+Myanmar,pt4,AllQuestions,0.6488494176098111
+Indonesia,pt4,AllQuestions,0.6649233418982476
+Iran,pt4,AllQuestions,0.686483574884817
+Iraq,pt4,AllQuestions,0.6981868657871476
+Mongolia,pt4,AllQuestions,0.7396902736007204
+Puerto Rico,pt4,AllQuestions,0.7087864330036664
+Morocco,pt4,AllQuestions,0.70473283857248
+Tajikistan,pt4,AllQuestions,0.6799123841423107
+Canada,pt4,AllQuestions,0.7142717597080182
+Romania,pt5,AllQuestions,0.7560302011413838
+Russia,pt5,AllQuestions,0.7641953664488877
+Thailand,pt5,AllQuestions,0.7727976916216333
+Japan,pt5,AllQuestions,0.7305924247172687
+Unknown,pt5,AllQuestions,0.7197522227188454
+Kazakhstan,pt5,AllQuestions,0.7573404282642799
+Jordan,pt5,AllQuestions,0.7090977659883151
+Netherlands,pt5,AllQuestions,0.736322442243938
+Andorra,pt5,AllQuestions,0.7506370826792864
+Germany,pt5,AllQuestions,0.733996631426136
+Kenya,pt5,AllQuestions,0.7803256419970225
+Tunisia,pt5,AllQuestions,0.7282513443375915
+Chile,pt5,AllQuestions,0.7789023518978186
+Turkey,pt5,AllQuestions,0.7385595643878019
+South Korea,pt5,AllQuestions,0.746567876876668
+China,pt5,AllQuestions,0.7173376839452901
+Taiwan,pt5,AllQuestions,0.7365003272312429
+Argentina,pt5,AllQuestions,0.7692831161571386
+Kyrgyzstan,pt5,AllQuestions,0.7305673509945875
+Australia,pt5,AllQuestions,0.7544672644738885
+Ukraine,pt5,AllQuestions,0.7623989882191787
+Lebanon,pt5,AllQuestions,0.7373086847553213
+Colombia,pt5,AllQuestions,0.7715980811786148
+New Zealand,pt5,AllQuestions,0.7442203293830799
+Greece,pt5,AllQuestions,0.7405564909431633
+Nicaragua,pt5,AllQuestions,0.7721489571612877
+Bangladesh,pt5,AllQuestions,0.7200675442620297
+Armenia,pt5,AllQuestions,0.7275140226035834
+Libya,pt5,AllQuestions,0.7325367898307775
+Egypt,pt5,AllQuestions,0.699146636112358
+Nigeria,pt5,AllQuestions,0.7552851215409923
+United Kingdom,pt5,AllQuestions,0.7577746903788124
+Singapore,pt5,AllQuestions,0.7356631738106212
+Guatemala,pt5,AllQuestions,0.7723100137248868
+Slovakia,pt5,AllQuestions,0.7676079785008941
+Vietnam,pt5,AllQuestions,0.7225473817316744
+Bolivia,pt5,AllQuestions,0.7647101369328834
+Cyprus,pt5,AllQuestions,0.757497178415853
+United States of America,pt5,AllQuestions,0.7685692210600533
+Malaysia,pt5,AllQuestions,0.7607071455777238
+Czech Republic,pt5,AllQuestions,0.7769844672464591
+Brazil,pt5,AllQuestions,0.763717106776378
+Pakistan,pt5,AllQuestions,0.7501330969939588
+Zimbabwe,pt5,AllQuestions,0.7439325284655741
+Hong Kong,pt5,AllQuestions,0.7638807516632848
+Ecuador,pt5,AllQuestions,0.7643846688062775
+Uruguay,pt5,AllQuestions,0.766476150986681
+Peru,pt5,AllQuestions,0.7455682233397113
+Venezuela,pt5,AllQuestions,0.7708624686651293
+Philippines,pt5,AllQuestions,0.7542257147551898
+Mexico,pt5,AllQuestions,0.768652429454645
+Ethiopia,pt5,AllQuestions,0.7346349848951279
+Myanmar,pt5,AllQuestions,0.7042856071790823
+Indonesia,pt5,AllQuestions,0.7370392162041077
+Iran,pt5,AllQuestions,0.753858156136964
+Iraq,pt5,AllQuestions,0.7524940149331342
+Mongolia,pt5,AllQuestions,0.8068145690181024
+Puerto Rico,pt5,AllQuestions,0.767030104446086
+Morocco,pt5,AllQuestions,0.7674958078787778
+Tajikistan,pt5,AllQuestions,0.7364001184563829
+Canada,pt5,AllQuestions,0.7684664276014098
+Romania,pt6,AllQuestions,0.7400019963450071
+Russia,pt6,AllQuestions,0.7484848934832197
+Thailand,pt6,AllQuestions,0.7465111526297087
+Japan,pt6,AllQuestions,0.7108962675071326
+Unknown,pt6,AllQuestions,0.702892328149084
+Kazakhstan,pt6,AllQuestions,0.7329716147638877
+Jordan,pt6,AllQuestions,0.6987019083541254
+Netherlands,pt6,AllQuestions,0.7244639097768353
+Andorra,pt6,AllQuestions,0.7303970699549996
+Germany,pt6,AllQuestions,0.7218487134478423
+Kenya,pt6,AllQuestions,0.7413041539146784
+Tunisia,pt6,AllQuestions,0.7094389826485981
+Chile,pt6,AllQuestions,0.7531331592539212
+Turkey,pt6,AllQuestions,0.7216890836816992
+South Korea,pt6,AllQuestions,0.7265084957714874
+China,pt6,AllQuestions,0.6882969960556159
+Taiwan,pt6,AllQuestions,0.7183739444484829
+Argentina,pt6,AllQuestions,0.7490492869184389
+Kyrgyzstan,pt6,AllQuestions,0.709724489295801
+Australia,pt6,AllQuestions,0.7368188191984617
+Ukraine,pt6,AllQuestions,0.7496384747132832
+Lebanon,pt6,AllQuestions,0.7241237811722941
+Colombia,pt6,AllQuestions,0.7460839225167302
+New Zealand,pt6,AllQuestions,0.7289288090461732
+Greece,pt6,AllQuestions,0.7348611900978501
+Nicaragua,pt6,AllQuestions,0.749504434166211
+Bangladesh,pt6,AllQuestions,0.7064948879098087
+Armenia,pt6,AllQuestions,0.7167094513372724
+Libya,pt6,AllQuestions,0.7098579224895705
+Egypt,pt6,AllQuestions,0.6890094938732447
+Nigeria,pt6,AllQuestions,0.72640742721046
+United Kingdom,pt6,AllQuestions,0.7425596343145004
+Singapore,pt6,AllQuestions,0.7100625407979446
+Guatemala,pt6,AllQuestions,0.748781419507283
+Slovakia,pt6,AllQuestions,0.7503028443702773
+Vietnam,pt6,AllQuestions,0.7023703428221159
+Bolivia,pt6,AllQuestions,0.7401364635885052
+Cyprus,pt6,AllQuestions,0.7390173236928945
+United States of America,pt6,AllQuestions,0.7443816568483791
+Malaysia,pt6,AllQuestions,0.7276046890381416
+Czech Republic,pt6,AllQuestions,0.7554686773518053
+Brazil,pt6,AllQuestions,0.7373232448392459
+Pakistan,pt6,AllQuestions,0.7356138765638959
+Zimbabwe,pt6,AllQuestions,0.7175088629853277
+Hong Kong,pt6,AllQuestions,0.7378035011866654
+Ecuador,pt6,AllQuestions,0.7372223255427168
+Uruguay,pt6,AllQuestions,0.7475256541724187
+Peru,pt6,AllQuestions,0.7216614913903237
+Venezuela,pt6,AllQuestions,0.7475980600234327
+Philippines,pt6,AllQuestions,0.7225017827173247
+Mexico,pt6,AllQuestions,0.7473283972649039
+Ethiopia,pt6,AllQuestions,0.7189121725822133
+Myanmar,pt6,AllQuestions,0.6863837419395326
+Indonesia,pt6,AllQuestions,0.711376355584491
+Iran,pt6,AllQuestions,0.7310706481937969
+Iraq,pt6,AllQuestions,0.7265526536806388
+Mongolia,pt6,AllQuestions,0.7774804087898239
+Puerto Rico,pt6,AllQuestions,0.7455407435091952
+Morocco,pt6,AllQuestions,0.7421768637200913
+Tajikistan,pt6,AllQuestions,0.723041935344481
+Canada,pt6,AllQuestions,0.7492884619147202
+Romania,pt7,AllQuestions,0.7575113875779624
+Russia,pt7,AllQuestions,0.7686523537011507
+Thailand,pt7,AllQuestions,0.7694503656395552
+Japan,pt7,AllQuestions,0.7352867312311254
+Unknown,pt7,AllQuestions,0.716599608931825
+Kazakhstan,pt7,AllQuestions,0.7595969424781234
+Jordan,pt7,AllQuestions,0.708464714781904
+Netherlands,pt7,AllQuestions,0.7418244644454767
+Andorra,pt7,AllQuestions,0.7535472037191803
+Germany,pt7,AllQuestions,0.7386402052260035
+Kenya,pt7,AllQuestions,0.7741563257991613
+Tunisia,pt7,AllQuestions,0.7248307493410403
+Chile,pt7,AllQuestions,0.7798241445726857
+Turkey,pt7,AllQuestions,0.7397225091924836
+South Korea,pt7,AllQuestions,0.7555038052151719
+China,pt7,AllQuestions,0.7167387642757624
+Taiwan,pt7,AllQuestions,0.7423651683930472
+Argentina,pt7,AllQuestions,0.7728938515824437
+Kyrgyzstan,pt7,AllQuestions,0.7329880781525456
+Australia,pt7,AllQuestions,0.757738945709086
+Ukraine,pt7,AllQuestions,0.7648826740263354
+Lebanon,pt7,AllQuestions,0.7371086565808175
+Colombia,pt7,AllQuestions,0.7678353508022459
+New Zealand,pt7,AllQuestions,0.7469707033669781
+Greece,pt7,AllQuestions,0.7421955851299986
+Nicaragua,pt7,AllQuestions,0.7677444734737094
+Bangladesh,pt7,AllQuestions,0.7178987760529589
+Armenia,pt7,AllQuestions,0.7259237935727717
+Libya,pt7,AllQuestions,0.72979256390076
+Egypt,pt7,AllQuestions,0.6980820251911375
+Nigeria,pt7,AllQuestions,0.7482457006187473
+United Kingdom,pt7,AllQuestions,0.7610440463267364
+Singapore,pt7,AllQuestions,0.7401784552052526
+Guatemala,pt7,AllQuestions,0.7691678284925783
+Slovakia,pt7,AllQuestions,0.7723964072061507
+Vietnam,pt7,AllQuestions,0.7259567797659082
+Bolivia,pt7,AllQuestions,0.7663627265800312
+Cyprus,pt7,AllQuestions,0.7591821727756517
+United States of America,pt7,AllQuestions,0.7707211087062429
+Malaysia,pt7,AllQuestions,0.763188914114104
+Czech Republic,pt7,AllQuestions,0.7840751487474646
+Brazil,pt7,AllQuestions,0.7638931091693668
+Pakistan,pt7,AllQuestions,0.7424828998611724
+Zimbabwe,pt7,AllQuestions,0.7393227841574793
+Hong Kong,pt7,AllQuestions,0.7713198562037417
+Ecuador,pt7,AllQuestions,0.7630313809189107
+Uruguay,pt7,AllQuestions,0.7659279979328901
+Peru,pt7,AllQuestions,0.746304147756297
+Venezuela,pt7,AllQuestions,0.7677986104206068
+Philippines,pt7,AllQuestions,0.7500891819093658
+Mexico,pt7,AllQuestions,0.76162473148775
+Ethiopia,pt7,AllQuestions,0.7285467806971068
+Myanmar,pt7,AllQuestions,0.6993710455605283
+Indonesia,pt7,AllQuestions,0.732663281214441
+Iran,pt7,AllQuestions,0.7501083158997229
+Iraq,pt7,AllQuestions,0.751922728324088
+Mongolia,pt7,AllQuestions,0.8090931899111704
+Puerto Rico,pt7,AllQuestions,0.7598081556992196
+Morocco,pt7,AllQuestions,0.7661181318453928
+Tajikistan,pt7,AllQuestions,0.7301464669923708
+Canada,pt7,AllQuestions,0.7716520377521041
+Romania,pt8,AllQuestions,0.7515297219543706
+Russia,pt8,AllQuestions,0.7596276106462492
+Thailand,pt8,AllQuestions,0.7589673928007983
+Japan,pt8,AllQuestions,0.7339172975436554
+Unknown,pt8,AllQuestions,0.7095662680684027
+Kazakhstan,pt8,AllQuestions,0.7474903258793381
+Jordan,pt8,AllQuestions,0.7025760261719567
+Netherlands,pt8,AllQuestions,0.7425112018924582
+Andorra,pt8,AllQuestions,0.7425580760717027
+Germany,pt8,AllQuestions,0.7361102203355397
+Kenya,pt8,AllQuestions,0.7512941689548955
+Tunisia,pt8,AllQuestions,0.7143518899518684
+Chile,pt8,AllQuestions,0.7682907781695401
+Turkey,pt8,AllQuestions,0.733569454046474
+South Korea,pt8,AllQuestions,0.7507700225391652
+China,pt8,AllQuestions,0.7123193021169214
+Taiwan,pt8,AllQuestions,0.7350395546332383
+Argentina,pt8,AllQuestions,0.7580834040740674
+Kyrgyzstan,pt8,AllQuestions,0.7204431301116501
+Australia,pt8,AllQuestions,0.7486074936263202
+Ukraine,pt8,AllQuestions,0.7602514491353286
+Lebanon,pt8,AllQuestions,0.7303775783705911
+Colombia,pt8,AllQuestions,0.7541800967634397
+New Zealand,pt8,AllQuestions,0.74114372587299
+Greece,pt8,AllQuestions,0.7444905707025719
+Nicaragua,pt8,AllQuestions,0.7619664815437347
+Bangladesh,pt8,AllQuestions,0.711715449259814
+Armenia,pt8,AllQuestions,0.7234065999020006
+Libya,pt8,AllQuestions,0.7146765199514192
+Egypt,pt8,AllQuestions,0.6901751583017368
+Nigeria,pt8,AllQuestions,0.7328401710945253
+United Kingdom,pt8,AllQuestions,0.7535218945548448
+Singapore,pt8,AllQuestions,0.729613208309286
+Guatemala,pt8,AllQuestions,0.7576429032011581
+Slovakia,pt8,AllQuestions,0.7650120147615019
+Vietnam,pt8,AllQuestions,0.7205026269877473
+Bolivia,pt8,AllQuestions,0.7512450209414199
+Cyprus,pt8,AllQuestions,0.7530182834217906
+United States of America,pt8,AllQuestions,0.7559713500957062
+Malaysia,pt8,AllQuestions,0.7446412916109303
+Czech Republic,pt8,AllQuestions,0.7823060465548679
+Brazil,pt8,AllQuestions,0.7451342319763095
+Pakistan,pt8,AllQuestions,0.7326965326837876
+Zimbabwe,pt8,AllQuestions,0.7276690780766795
+Hong Kong,pt8,AllQuestions,0.7603512615055993
+Ecuador,pt8,AllQuestions,0.7505299006274769
+Uruguay,pt8,AllQuestions,0.7535059382105951
+Peru,pt8,AllQuestions,0.7367416031936623
+Venezuela,pt8,AllQuestions,0.7550300246229938
+Philippines,pt8,AllQuestions,0.7326492275379112
+Mexico,pt8,AllQuestions,0.7511763718533561
+Ethiopia,pt8,AllQuestions,0.7279417795210398
+Myanmar,pt8,AllQuestions,0.6913938528693881
+Indonesia,pt8,AllQuestions,0.7192369736967021
+Iran,pt8,AllQuestions,0.7367965844264578
+Iraq,pt8,AllQuestions,0.7316635078004096
+Mongolia,pt8,AllQuestions,0.7897585096076172
+Puerto Rico,pt8,AllQuestions,0.7519049530947863
+Morocco,pt8,AllQuestions,0.7525454851073771
+Tajikistan,pt8,AllQuestions,0.7228197936851829
+Canada,pt8,AllQuestions,0.7630212890332576
+Romania,pt9,AllQuestions,0.7587189604277145
+Russia,pt9,AllQuestions,0.7670235522911676
+Thailand,pt9,AllQuestions,0.7702400774050094
+Japan,pt9,AllQuestions,0.7328335751369137
+Unknown,pt9,AllQuestions,0.7175373335996152
+Kazakhstan,pt9,AllQuestions,0.7561858827093929
+Jordan,pt9,AllQuestions,0.7100879301259037
+Netherlands,pt9,AllQuestions,0.7394521035807261
+Andorra,pt9,AllQuestions,0.749166617873777
+Germany,pt9,AllQuestions,0.7348213644199345
+Kenya,pt9,AllQuestions,0.7735381606047889
+Tunisia,pt9,AllQuestions,0.7290793633920282
+Chile,pt9,AllQuestions,0.7790686986772094
+Turkey,pt9,AllQuestions,0.7391320059593283
+South Korea,pt9,AllQuestions,0.7487180935874884
+China,pt9,AllQuestions,0.7143928856333724
+Taiwan,pt9,AllQuestions,0.7367513717379959
+Argentina,pt9,AllQuestions,0.7692457222002331
+Kyrgyzstan,pt9,AllQuestions,0.730321478039219
+Australia,pt9,AllQuestions,0.7556401702429838
+Ukraine,pt9,AllQuestions,0.7655326792475903
+Lebanon,pt9,AllQuestions,0.7409691558213481
+Colombia,pt9,AllQuestions,0.7714725717236992
+New Zealand,pt9,AllQuestions,0.7439795339565948
+Greece,pt9,AllQuestions,0.7450464436116272
+Nicaragua,pt9,AllQuestions,0.773742553432742
+Bangladesh,pt9,AllQuestions,0.7166671184419225
+Armenia,pt9,AllQuestions,0.7308078703080327
+Libya,pt9,AllQuestions,0.7329021901564252
+Egypt,pt9,AllQuestions,0.6997638453982096
+Nigeria,pt9,AllQuestions,0.7504488915721359
+United Kingdom,pt9,AllQuestions,0.7571488818942103
+Singapore,pt9,AllQuestions,0.7354986435584576
+Guatemala,pt9,AllQuestions,0.7724123100850184
+Slovakia,pt9,AllQuestions,0.7695235657011695
+Vietnam,pt9,AllQuestions,0.7213947457883001
+Bolivia,pt9,AllQuestions,0.7650753977113898
+Cyprus,pt9,AllQuestions,0.7597145084474679
+United States of America,pt9,AllQuestions,0.7686520237242682
+Malaysia,pt9,AllQuestions,0.7576261507023974
+Czech Republic,pt9,AllQuestions,0.7807970176983845
+Brazil,pt9,AllQuestions,0.7620047072424448
+Pakistan,pt9,AllQuestions,0.7471777523435692
+Zimbabwe,pt9,AllQuestions,0.7390043213003981
+Hong Kong,pt9,AllQuestions,0.763863580619308
+Ecuador,pt9,AllQuestions,0.7626126214477082
+Uruguay,pt9,AllQuestions,0.7644268548571683
+Peru,pt9,AllQuestions,0.7470167858722179
+Venezuela,pt9,AllQuestions,0.7729668810965838
+Philippines,pt9,AllQuestions,0.7481210651405987
+Mexico,pt9,AllQuestions,0.7683117645468533
+Ethiopia,pt9,AllQuestions,0.7332367616477449
+Myanmar,pt9,AllQuestions,0.7013223466303342
+Indonesia,pt9,AllQuestions,0.7323615418941121
+Iran,pt9,AllQuestions,0.7501659868286898
+Iraq,pt9,AllQuestions,0.7553576116023916
+Mongolia,pt9,AllQuestions,0.8088353115926042
+Puerto Rico,pt9,AllQuestions,0.767568500239443
+Morocco,pt9,AllQuestions,0.7659735219474254
+Tajikistan,pt9,AllQuestions,0.7334153935452872
+Canada,pt9,AllQuestions,0.7690353537732395
+Romania,pt10,AllQuestions,0.7386646637123836
+Russia,pt10,AllQuestions,0.749477361749194
+Thailand,pt10,AllQuestions,0.7419215715017757
+Japan,pt10,AllQuestions,0.7117456754039094
+Unknown,pt10,AllQuestions,0.6950626590028549
+Kazakhstan,pt10,AllQuestions,0.7278770487269164
+Jordan,pt10,AllQuestions,0.6952437236967132
+Netherlands,pt10,AllQuestions,0.7226232684892039
+Andorra,pt10,AllQuestions,0.7214528426984546
+Germany,pt10,AllQuestions,0.7170208499442352
+Kenya,pt10,AllQuestions,0.7259373756683727
+Tunisia,pt10,AllQuestions,0.7037809168920207
+Chile,pt10,AllQuestions,0.7474502074397663
+Turkey,pt10,AllQuestions,0.7209094562699648
+South Korea,pt10,AllQuestions,0.727897995401073
+China,pt10,AllQuestions,0.6892072997641274
+Taiwan,pt10,AllQuestions,0.7173163173345185
+Argentina,pt10,AllQuestions,0.7419848995712038
+Kyrgyzstan,pt10,AllQuestions,0.7041074808997965
+Australia,pt10,AllQuestions,0.7292927207743989
+Ukraine,pt10,AllQuestions,0.7505799387540527
+Lebanon,pt10,AllQuestions,0.725543608395526
+Colombia,pt10,AllQuestions,0.7375012364332253
+New Zealand,pt10,AllQuestions,0.722776482136244
+Greece,pt10,AllQuestions,0.7353273188771591
+Nicaragua,pt10,AllQuestions,0.7428206320033718
+Bangladesh,pt10,AllQuestions,0.7023845248572537
+Armenia,pt10,AllQuestions,0.7168454560609764
+Libya,pt10,AllQuestions,0.7021867139904303
+Egypt,pt10,AllQuestions,0.6841637785010759
+Nigeria,pt10,AllQuestions,0.7147133275863787
+United Kingdom,pt10,AllQuestions,0.7336798573561867
+Singapore,pt10,AllQuestions,0.7064390553520165
+Guatemala,pt10,AllQuestions,0.7435861426898307
+Slovakia,pt10,AllQuestions,0.7491280486873356
+Vietnam,pt10,AllQuestions,0.7043862202363254
+Bolivia,pt10,AllQuestions,0.734459789131616
+Cyprus,pt10,AllQuestions,0.7373344471447809
+United States of America,pt10,AllQuestions,0.7354081768382382
+Malaysia,pt10,AllQuestions,0.7198149850540513
+Czech Republic,pt10,AllQuestions,0.7552419633152816
+Brazil,pt10,AllQuestions,0.7274022048970342
+Pakistan,pt10,AllQuestions,0.7274383956565739
+Zimbabwe,pt10,AllQuestions,0.7074680062384655
+Hong Kong,pt10,AllQuestions,0.7353221165676816
+Ecuador,pt10,AllQuestions,0.7298824190537478
+Uruguay,pt10,AllQuestions,0.7382740771028318
+Peru,pt10,AllQuestions,0.7191390883224986
+Venezuela,pt10,AllQuestions,0.741964636102669
+Philippines,pt10,AllQuestions,0.7109431429431022
+Mexico,pt10,AllQuestions,0.738653880772528
+Ethiopia,pt10,AllQuestions,0.7121086018182443
+Myanmar,pt10,AllQuestions,0.685111917905865
+Indonesia,pt10,AllQuestions,0.7015728640582662
+Iran,pt10,AllQuestions,0.7248522895911752
+Iraq,pt10,AllQuestions,0.7254745945119592
+Mongolia,pt10,AllQuestions,0.7714472803788861
+Puerto Rico,pt10,AllQuestions,0.7360951507437684
+Morocco,pt10,AllQuestions,0.7359591213159393
+Tajikistan,pt10,AllQuestions,0.7137468807418635
+Canada,pt10,AllQuestions,0.7417973178254108
+Romania,pt11,AllQuestions,0.7439907884007294
+Russia,pt11,AllQuestions,0.754954052019484
+Thailand,pt11,AllQuestions,0.8001496047766664
+Japan,pt11,AllQuestions,0.7300949310055724
+Unknown,pt11,AllQuestions,0.7436171684166886
+Kazakhstan,pt11,AllQuestions,0.7697165583529342
+Jordan,pt11,AllQuestions,0.7228499316039101
+Netherlands,pt11,AllQuestions,0.7368762082891412
+Andorra,pt11,AllQuestions,0.7388509840083347
+Germany,pt11,AllQuestions,0.7358982292305495
+Kenya,pt11,AllQuestions,0.8054750449834528
+Tunisia,pt11,AllQuestions,0.7384329148346677
+Chile,pt11,AllQuestions,0.774322400879407
+Turkey,pt11,AllQuestions,0.7643952047960896
+South Korea,pt11,AllQuestions,0.7446927995423256
+China,pt11,AllQuestions,0.7279580878728821
+Taiwan,pt11,AllQuestions,0.7492404334305897
+Argentina,pt11,AllQuestions,0.7575851285247687
+Kyrgyzstan,pt11,AllQuestions,0.748935313497089
+Australia,pt11,AllQuestions,0.764148301128163
+Ukraine,pt11,AllQuestions,0.7586592703194802
+Lebanon,pt11,AllQuestions,0.741819658079604
+Colombia,pt11,AllQuestions,0.777188848957316
+New Zealand,pt11,AllQuestions,0.7538094798521885
+Greece,pt11,AllQuestions,0.7337328000838318
+Nicaragua,pt11,AllQuestions,0.7663857180824569
+Bangladesh,pt11,AllQuestions,0.7499262099671075
+Armenia,pt11,AllQuestions,0.730844868814292
+Libya,pt11,AllQuestions,0.7375630622855857
+Egypt,pt11,AllQuestions,0.69969811874475
+Nigeria,pt11,AllQuestions,0.7743578867834503
+United Kingdom,pt11,AllQuestions,0.7646348973308706
+Singapore,pt11,AllQuestions,0.7484267701562847
+Guatemala,pt11,AllQuestions,0.7816182966804859
+Slovakia,pt11,AllQuestions,0.7668521710128067
+Vietnam,pt11,AllQuestions,0.7522233462964417
+Bolivia,pt11,AllQuestions,0.7569763800211664
+Cyprus,pt11,AllQuestions,0.7618496438393445
+United States of America,pt11,AllQuestions,0.7808024685468188
+Malaysia,pt11,AllQuestions,0.7931820344704706
+Czech Republic,pt11,AllQuestions,0.7655011831013606
+Brazil,pt11,AllQuestions,0.7629566506898396
+Pakistan,pt11,AllQuestions,0.7730691005642244
+Zimbabwe,pt11,AllQuestions,0.7575567964671971
+Hong Kong,pt11,AllQuestions,0.7679087388755397
+Ecuador,pt11,AllQuestions,0.7699870888549651
+Uruguay,pt11,AllQuestions,0.7699557289253346
+Peru,pt11,AllQuestions,0.7336742087687264
+Venezuela,pt11,AllQuestions,0.762455283250612
+Philippines,pt11,AllQuestions,0.7859407223113638
+Mexico,pt11,AllQuestions,0.7618106695911857
+Ethiopia,pt11,AllQuestions,0.7518707382099638
+Myanmar,pt11,AllQuestions,0.7469713523879457
+Indonesia,pt11,AllQuestions,0.7573661045260176
+Iran,pt11,AllQuestions,0.7780339378462033
+Iraq,pt11,AllQuestions,0.7522353068549867
+Mongolia,pt11,AllQuestions,0.8066346288710883
+Puerto Rico,pt11,AllQuestions,0.7666852309579949
+Morocco,pt11,AllQuestions,0.7767410897587984
+Tajikistan,pt11,AllQuestions,0.7652468317421752
+Canada,pt11,AllQuestions,0.7713048101106608
+Romania,pt12,AllQuestions,0.7486609614340902
+Russia,pt12,AllQuestions,0.756680245189182
+Thailand,pt12,AllQuestions,0.7923114546790605
+Japan,pt12,AllQuestions,0.7318447004724725
+Unknown,pt12,AllQuestions,0.7401880822591128
+Kazakhstan,pt12,AllQuestions,0.7688546958084285
+Jordan,pt12,AllQuestions,0.7200461755705542
+Netherlands,pt12,AllQuestions,0.7452031195300213
+Andorra,pt12,AllQuestions,0.745454893267918
+Germany,pt12,AllQuestions,0.7436225948274207
+Kenya,pt12,AllQuestions,0.8000271647470217
+Tunisia,pt12,AllQuestions,0.7343096958488745
+Chile,pt12,AllQuestions,0.775133314369301
+Turkey,pt12,AllQuestions,0.7569898452459083
+South Korea,pt12,AllQuestions,0.7478072718899363
+China,pt12,AllQuestions,0.7312880764710048
+Taiwan,pt12,AllQuestions,0.7471383714393847
+Argentina,pt12,AllQuestions,0.7613495602118728
+Kyrgyzstan,pt12,AllQuestions,0.751477767565615
+Australia,pt12,AllQuestions,0.7695355740297494
+Ukraine,pt12,AllQuestions,0.7595463986434665
+Lebanon,pt12,AllQuestions,0.7371829881529337
+Colombia,pt12,AllQuestions,0.774966971936711
+New Zealand,pt12,AllQuestions,0.7604725900335355
+Greece,pt12,AllQuestions,0.736649308219119
+Nicaragua,pt12,AllQuestions,0.7698628644935417
+Bangladesh,pt12,AllQuestions,0.7477467433960456
+Armenia,pt12,AllQuestions,0.7310852367485309
+Libya,pt12,AllQuestions,0.7376662587933682
+Egypt,pt12,AllQuestions,0.6979777520445092
+Nigeria,pt12,AllQuestions,0.7697661036870312
+United Kingdom,pt12,AllQuestions,0.7708650407736951
+Singapore,pt12,AllQuestions,0.7492868137254662
+Guatemala,pt12,AllQuestions,0.7788489609242034
+Slovakia,pt12,AllQuestions,0.7675976381328325
+Vietnam,pt12,AllQuestions,0.7542033059311252
+Bolivia,pt12,AllQuestions,0.7573804994433141
+Cyprus,pt12,AllQuestions,0.7613645279056726
+United States of America,pt12,AllQuestions,0.7838024767832618
+Malaysia,pt12,AllQuestions,0.7872650079693063
+Czech Republic,pt12,AllQuestions,0.7697165462162474
+Brazil,pt12,AllQuestions,0.761951113394596
+Pakistan,pt12,AllQuestions,0.7704928621377792
+Zimbabwe,pt12,AllQuestions,0.7540795496001578
+Hong Kong,pt12,AllQuestions,0.768776035295625
+Ecuador,pt12,AllQuestions,0.7690386381221366
+Uruguay,pt12,AllQuestions,0.7728928139960088
+Peru,pt12,AllQuestions,0.7350803999179406
+Venezuela,pt12,AllQuestions,0.7619923698491915
+Philippines,pt12,AllQuestions,0.78047603119235
+Mexico,pt12,AllQuestions,0.7580031830499921
+Ethiopia,pt12,AllQuestions,0.7539268672949379
+Myanmar,pt12,AllQuestions,0.7417097453400954
+Indonesia,pt12,AllQuestions,0.7546794105733835
+Iran,pt12,AllQuestions,0.7756576835270137
+Iraq,pt12,AllQuestions,0.7472659455900932
+Mongolia,pt12,AllQuestions,0.8043267905719573
+Puerto Rico,pt12,AllQuestions,0.7683854185841824
+Morocco,pt12,AllQuestions,0.7742627741805985
+Tajikistan,pt12,AllQuestions,0.7637506862778012
+Canada,pt12,AllQuestions,0.7784947774593978
+Romania,pt13,AllQuestions,0.7563703491683775
+Russia,pt13,AllQuestions,0.7670443792529948
+Thailand,pt13,AllQuestions,0.8046543881957515
+Japan,pt13,AllQuestions,0.7412555441838529
+Unknown,pt13,AllQuestions,0.7470308483566216
+Kazakhstan,pt13,AllQuestions,0.7804561813571469
+Jordan,pt13,AllQuestions,0.727252236195321
+Netherlands,pt13,AllQuestions,0.7523677620026639
+Andorra,pt13,AllQuestions,0.7549462110050554
+Germany,pt13,AllQuestions,0.7507206452081994
+Kenya,pt13,AllQuestions,0.8092130593333403
+Tunisia,pt13,AllQuestions,0.7431839071082175
+Chile,pt13,AllQuestions,0.7870895119624599
+Turkey,pt13,AllQuestions,0.76555042623661
+South Korea,pt13,AllQuestions,0.758183182111977
+China,pt13,AllQuestions,0.737918741837682
+Taiwan,pt13,AllQuestions,0.7566724711860207
+Argentina,pt13,AllQuestions,0.7703972326329558
+Kyrgyzstan,pt13,AllQuestions,0.7560290543452309
+Australia,pt13,AllQuestions,0.7773564186024273
+Ukraine,pt13,AllQuestions,0.7686140737416661
+Lebanon,pt13,AllQuestions,0.7462458934599501
+Colombia,pt13,AllQuestions,0.7840276685702935
+New Zealand,pt13,AllQuestions,0.7674705580934938
+Greece,pt13,AllQuestions,0.7455502684113846
+Nicaragua,pt13,AllQuestions,0.7781964898023654
+Bangladesh,pt13,AllQuestions,0.7521797934826906
+Armenia,pt13,AllQuestions,0.7369417213858025
+Libya,pt13,AllQuestions,0.7443784983927276
+Egypt,pt13,AllQuestions,0.7067596097812201
+Nigeria,pt13,AllQuestions,0.7791997745307903
+United Kingdom,pt13,AllQuestions,0.7789104678365771
+Singapore,pt13,AllQuestions,0.7590221885431684
+Guatemala,pt13,AllQuestions,0.7884485750986211
+Slovakia,pt13,AllQuestions,0.7780785573484914
+Vietnam,pt13,AllQuestions,0.7572739677617216
+Bolivia,pt13,AllQuestions,0.7676290862877446
+Cyprus,pt13,AllQuestions,0.7702745223061555
+United States of America,pt13,AllQuestions,0.7924010696764433
+Malaysia,pt13,AllQuestions,0.7966018298814139
+Czech Republic,pt13,AllQuestions,0.7815783845580689
+Brazil,pt13,AllQuestions,0.7734960168499364
+Pakistan,pt13,AllQuestions,0.7766521139909665
+Zimbabwe,pt13,AllQuestions,0.7616931408702075
+Hong Kong,pt13,AllQuestions,0.7817963252286835
+Ecuador,pt13,AllQuestions,0.778935415322475
+Uruguay,pt13,AllQuestions,0.7817294484154046
+Peru,pt13,AllQuestions,0.7436932578126673
+Venezuela,pt13,AllQuestions,0.7725640302531174
+Philippines,pt13,AllQuestions,0.7919830368109435
+Mexico,pt13,AllQuestions,0.7696509131358468
+Ethiopia,pt13,AllQuestions,0.760351364298139
+Myanmar,pt13,AllQuestions,0.7457909283791339
+Indonesia,pt13,AllQuestions,0.7630220166803217
+Iran,pt13,AllQuestions,0.7838118317611035
+Iraq,pt13,AllQuestions,0.7541903169454011
+Mongolia,pt13,AllQuestions,0.8175467901621499
+Puerto Rico,pt13,AllQuestions,0.7760296527888173
+Morocco,pt13,AllQuestions,0.7837125024107787
+Tajikistan,pt13,AllQuestions,0.7723006072161602
+Canada,pt13,AllQuestions,0.7872570278870009
+Romania,pt14,AllQuestions,0.7556136193979424
+Russia,pt14,AllQuestions,0.7637312699462722
+Thailand,pt14,AllQuestions,0.810847475689588
+Japan,pt14,AllQuestions,0.7369341488491157
+Unknown,pt14,AllQuestions,0.7585006867035446
+Kazakhstan,pt14,AllQuestions,0.7857598166744476
+Jordan,pt14,AllQuestions,0.7320329091314912
+Netherlands,pt14,AllQuestions,0.7391750640499518
+Andorra,pt14,AllQuestions,0.7434884837297351
+Germany,pt14,AllQuestions,0.7420517037799781
+Kenya,pt14,AllQuestions,0.8223736782484345
+Tunisia,pt14,AllQuestions,0.7494070017355151
+Chile,pt14,AllQuestions,0.7854248369321409
+Turkey,pt14,AllQuestions,0.779542336480452
+South Korea,pt14,AllQuestions,0.7548664191623995
+China,pt14,AllQuestions,0.7439943716282097
+Taiwan,pt14,AllQuestions,0.7625992191815781
+Argentina,pt14,AllQuestions,0.7677402759140866
+Kyrgyzstan,pt14,AllQuestions,0.7596354502114114
+Australia,pt14,AllQuestions,0.7694649942163756
+Ukraine,pt14,AllQuestions,0.7697843278666763
+Lebanon,pt14,AllQuestions,0.7539898499179274
+Colombia,pt14,AllQuestions,0.7853820371995065
+New Zealand,pt14,AllQuestions,0.757619732467943
+Greece,pt14,AllQuestions,0.7405701667903771
+Nicaragua,pt14,AllQuestions,0.7762283341321621
+Bangladesh,pt14,AllQuestions,0.7670310726095064
+Armenia,pt14,AllQuestions,0.7385399237271311
+Libya,pt14,AllQuestions,0.7521936867704807
+Egypt,pt14,AllQuestions,0.7099577034666722
+Nigeria,pt14,AllQuestions,0.7916803837367241
+United Kingdom,pt14,AllQuestions,0.7697404000906483
+Singapore,pt14,AllQuestions,0.7618813438842882
+Guatemala,pt14,AllQuestions,0.794315610488191
+Slovakia,pt14,AllQuestions,0.7738846817957211
+Vietnam,pt14,AllQuestions,0.7718645766170675
+Bolivia,pt14,AllQuestions,0.7698532781444345
+Cyprus,pt14,AllQuestions,0.772550255049722
+United States of America,pt14,AllQuestions,0.7892468660033667
+Malaysia,pt14,AllQuestions,0.81141923422075
+Czech Republic,pt14,AllQuestions,0.7680008576264332
+Brazil,pt14,AllQuestions,0.7725746530550264
+Pakistan,pt14,AllQuestions,0.787342156459114
+Zimbabwe,pt14,AllQuestions,0.7696135541811077
+Hong Kong,pt14,AllQuestions,0.7775269079398027
+Ecuador,pt14,AllQuestions,0.7834337608691385
+Uruguay,pt14,AllQuestions,0.7783467989354952
+Peru,pt14,AllQuestions,0.7468195958508469
+Venezuela,pt14,AllQuestions,0.7725475911381711
+Philippines,pt14,AllQuestions,0.8080008495842252
+Mexico,pt14,AllQuestions,0.7725854908937938
+Ethiopia,pt14,AllQuestions,0.76127933809028
+Myanmar,pt14,AllQuestions,0.7640428244116023
+Indonesia,pt14,AllQuestions,0.7729204859535458
+Iran,pt14,AllQuestions,0.7914051348701877
+Iraq,pt14,AllQuestions,0.7595893898797272
+Mongolia,pt14,AllQuestions,0.8153122267671746
+Puerto Rico,pt14,AllQuestions,0.7742496736951219
+Morocco,pt14,AllQuestions,0.792830127626115
+Tajikistan,pt14,AllQuestions,0.780449326785809
+Canada,pt14,AllQuestions,0.7771249585675479
+Romania,pt15,AllQuestions,0.7567059143750997
+Russia,pt15,AllQuestions,0.7695307091067827
+Thailand,pt15,AllQuestions,0.7991993667602652
+Japan,pt15,AllQuestions,0.7394389455350341
+Unknown,pt15,AllQuestions,0.7441009367620283
+Kazakhstan,pt15,AllQuestions,0.7794342921371198
+Jordan,pt15,AllQuestions,0.7264176506349515
+Netherlands,pt15,AllQuestions,0.7529325714017897
+Andorra,pt15,AllQuestions,0.7529489159130074
+Germany,pt15,AllQuestions,0.7499076290078246
+Kenya,pt15,AllQuestions,0.7995818169430365
+Tunisia,pt15,AllQuestions,0.739143720596041
+Chile,pt15,AllQuestions,0.7834177224513289
+Turkey,pt15,AllQuestions,0.7657430190536629
+South Korea,pt15,AllQuestions,0.7565761322456882
+China,pt15,AllQuestions,0.7343955725699202
+Taiwan,pt15,AllQuestions,0.7566265608365634
+Argentina,pt15,AllQuestions,0.7688984499668414
+Kyrgyzstan,pt15,AllQuestions,0.7556804656450711
+Australia,pt15,AllQuestions,0.7752107756816022
+Ukraine,pt15,AllQuestions,0.7707205180630976
+Lebanon,pt15,AllQuestions,0.7473466418516307
+Colombia,pt15,AllQuestions,0.7774762312707972
+New Zealand,pt15,AllQuestions,0.7650975361949608
+Greece,pt15,AllQuestions,0.7472655432225404
+Nicaragua,pt15,AllQuestions,0.7740253442136855
+Bangladesh,pt15,AllQuestions,0.7540323067403879
+Armenia,pt15,AllQuestions,0.7380091914415847
+Libya,pt15,AllQuestions,0.7425624337531666
+Egypt,pt15,AllQuestions,0.7040701461380696
+Nigeria,pt15,AllQuestions,0.7748026199133555
+United Kingdom,pt15,AllQuestions,0.775858560636728
+Singapore,pt15,AllQuestions,0.7556272632539156
+Guatemala,pt15,AllQuestions,0.7846960723515266
+Slovakia,pt15,AllQuestions,0.7790211397516157
+Vietnam,pt15,AllQuestions,0.758991699037403
+Bolivia,pt15,AllQuestions,0.7646317828404925
+Cyprus,pt15,AllQuestions,0.7697357729121743
+United States of America,pt15,AllQuestions,0.7877418409116004
+Malaysia,pt15,AllQuestions,0.7908123494765165
+Czech Republic,pt15,AllQuestions,0.7809399334901583
+Brazil,pt15,AllQuestions,0.7645304930906665
+Pakistan,pt15,AllQuestions,0.7771420959156414
+Zimbabwe,pt15,AllQuestions,0.7532348288432074
+Hong Kong,pt15,AllQuestions,0.7782399964605925
+Ecuador,pt15,AllQuestions,0.7735312178292424
+Uruguay,pt15,AllQuestions,0.7776221911517356
+Peru,pt15,AllQuestions,0.7418124980942211
+Venezuela,pt15,AllQuestions,0.7686006532886389
+Philippines,pt15,AllQuestions,0.7855761923684442
+Mexico,pt15,AllQuestions,0.7633339648887317
+Ethiopia,pt15,AllQuestions,0.758207455460912
+Myanmar,pt15,AllQuestions,0.746540480181339
+Indonesia,pt15,AllQuestions,0.7609549305329335
+Iran,pt15,AllQuestions,0.7814312471034612
+Iraq,pt15,AllQuestions,0.7549578834884801
+Mongolia,pt15,AllQuestions,0.8131840006355717
+Puerto Rico,pt15,AllQuestions,0.7737578843360473
+Morocco,pt15,AllQuestions,0.7797607992463633
+Tajikistan,pt15,AllQuestions,0.7718424793982763
+Canada,pt15,AllQuestions,0.7843724080659956
 Romania,pt1,1,0.7484303836991388
 Russia,pt1,1,0.7482577758382662
 Thailand,pt1,1,0.7394269978119308
@@ -4433,7 +4433,7 @@ United States of America,pt13,4,0.8269213609968514
 Malaysia,pt13,4,0.8052258011957786
 Czech Republic,pt13,4,0.8013650233036822
 Brazil,pt13,4,0.8620123983820259
-Pakistan,pt13,4,0.9030411969597143
+Pakistan,pt13,4,0.9030411969597144
 Zimbabwe,pt13,4,0.883894614059131
 Hong Kong,pt13,4,0.7828792309930844
 Ecuador,pt13,4,0.8759770709972526
@@ -4494,7 +4494,7 @@ United States of America,pt14,4,0.8278071629086469
 Malaysia,pt14,4,0.8180139745548628
 Czech Republic,pt14,4,0.818359185950161
 Brazil,pt14,4,0.8502664914335535
-Pakistan,pt14,4,0.9136915379249855
+Pakistan,pt14,4,0.9136915379249856
 Zimbabwe,pt14,4,0.8712161419816473
 Hong Kong,pt14,4,0.7964028058166662
 Ecuador,pt14,4,0.8828651380650072
@@ -4969,7 +4969,7 @@ Nicaragua,pt7,5,0.8328924666051836
 Bangladesh,pt7,5,0.81750657313776
 Armenia,pt7,5,0.8423998073404115
 Libya,pt7,5,0.8270897540239089
-Egypt,pt7,5,0.9120256322828825
+Egypt,pt7,5,0.9120256322828824
 Nigeria,pt7,5,0.8685002640918164
 United Kingdom,pt7,5,0.7341631414049745
 Singapore,pt7,5,0.6254501050809507
@@ -5545,7 +5545,7 @@ Myanmar,pt1,6,0.8302350090834436
 Indonesia,pt1,6,0.7819135773482742
 Iran,pt1,6,0.7866275679322713
 Iraq,pt1,6,0.8679414443271909
-Mongolia,pt1,6,0.9285458484717051
+Mongolia,pt1,6,0.9285458484717052
 Puerto Rico,pt1,6,0.8367483475201574
 Morocco,pt1,6,0.8616042291930055
 Tajikistan,pt1,6,0.893389024223516
@@ -5588,9 +5588,9 @@ Slovakia,pt2,6,0.8415147073586802
 Vietnam,pt2,6,0.8016808924827126
 Bolivia,pt2,6,0.8700309236334209
 Cyprus,pt2,6,0.8771398893823562
-United States of America,pt2,6,0.9066508084417035
+United States of America,pt2,6,0.9066508084417036
 Malaysia,pt2,6,0.8597707961201306
-Czech Republic,pt2,6,0.9087175874230485
+Czech Republic,pt2,6,0.9087175874230484
 Brazil,pt2,6,0.8455838019809633
 Pakistan,pt2,6,0.884114210369152
 Zimbabwe,pt2,6,0.8273736220083545
@@ -5832,9 +5832,9 @@ Slovakia,pt6,6,0.8410553031576324
 Vietnam,pt6,6,0.799981007441355
 Bolivia,pt6,6,0.8711702560225948
 Cyprus,pt6,6,0.8718229794189984
-United States of America,pt6,6,0.9114927065740799
+United States of America,pt6,6,0.91149270657408
 Malaysia,pt6,6,0.8647419354025738
-Czech Republic,pt6,6,0.9090651644163383
+Czech Republic,pt6,6,0.9090651644163384
 Brazil,pt6,6,0.8580612092116905
 Pakistan,pt6,6,0.8867841192773236
 Zimbabwe,pt6,6,0.8351818482709252
@@ -5911,7 +5911,7 @@ Myanmar,pt7,6,0.8264926084368762
 Indonesia,pt7,6,0.7718827669268421
 Iran,pt7,6,0.7826317342291784
 Iraq,pt7,6,0.8862072319477015
-Mongolia,pt7,6,0.9300610621345797
+Mongolia,pt7,6,0.9300610621345796
 Puerto Rico,pt7,6,0.8368740106970167
 Morocco,pt7,6,0.8656333239276025
 Tajikistan,pt7,6,0.8974633440409006
@@ -5919,7 +5919,7 @@ Canada,pt7,6,0.8139918812672228
 Romania,pt8,6,0.8803587229111465
 Russia,pt8,6,0.8170430447254974
 Thailand,pt8,6,0.8400914862054811
-Japan,pt8,6,0.9015637278585251
+Japan,pt8,6,0.9015637278585252
 Unknown,pt8,6,0.8461264363640139
 Kazakhstan,pt8,6,0.831614637627809
 Jordan,pt8,6,0.7998303592265369
@@ -5954,7 +5954,7 @@ Slovakia,pt8,6,0.8352937278520681
 Vietnam,pt8,6,0.798603599705907
 Bolivia,pt8,6,0.858098825446368
 Cyprus,pt8,6,0.8838858320883775
-United States of America,pt8,6,0.9210219320026869
+United States of America,pt8,6,0.9210219320026868
 Malaysia,pt8,6,0.8581536107215844
 Czech Republic,pt8,6,0.9123508454751302
 Brazil,pt8,6,0.8509848505546728
@@ -5979,7 +5979,7 @@ Tajikistan,pt8,6,0.8283136548174921
 Canada,pt8,6,0.8285101049593289
 Romania,pt9,6,0.8967675361830377
 Russia,pt9,6,0.8004135833858917
-Thailand,pt9,6,0.9019522589525811
+Thailand,pt9,6,0.9019522589525812
 Japan,pt9,6,0.8678008287365822
 Unknown,pt9,6,0.8131543439912636
 Kazakhstan,pt9,6,0.8249724300889334
@@ -6025,7 +6025,7 @@ Hong Kong,pt9,6,0.8518879538763153
 Ecuador,pt9,6,0.8461907362818846
 Uruguay,pt9,6,0.785039714808166
 Peru,pt9,6,0.7857832869658918
-Venezuela,pt9,6,0.9029088278118629
+Venezuela,pt9,6,0.9029088278118628
 Philippines,pt9,6,0.801454930736546
 Mexico,pt9,6,0.8972954895791334
 Ethiopia,pt9,6,0.8587505926352446
@@ -6099,9 +6099,9 @@ Puerto Rico,pt10,6,0.8424334500980768
 Morocco,pt10,6,0.8509097538942537
 Tajikistan,pt10,6,0.8274175203517476
 Canada,pt10,6,0.8263019714556032
-Romania,pt11,6,0.9215831038628061
+Romania,pt11,6,0.921583103862806
 Russia,pt11,6,0.8327003813780675
-Thailand,pt11,6,0.9123920006323865
+Thailand,pt11,6,0.9123920006323863
 Japan,pt11,6,0.8516071534465471
 Unknown,pt11,6,0.8384402061648053
 Kazakhstan,pt11,6,0.8771061029171181
@@ -6109,7 +6109,7 @@ Jordan,pt11,6,0.7678724806579593
 Netherlands,pt11,6,0.7938323447801688
 Andorra,pt11,6,0.796270758946066
 Germany,pt11,6,0.7903332543978477
-Kenya,pt11,6,0.9468507775371219
+Kenya,pt11,6,0.946850777537122
 Tunisia,pt11,6,0.9088587110842689
 Chile,pt11,6,0.8918245122424029
 Turkey,pt11,6,0.8427825622745433
@@ -6140,8 +6140,8 @@ Cyprus,pt11,6,0.8247325107966887
 United States of America,pt11,6,0.8698837124552673
 Malaysia,pt11,6,0.8723426945286199
 Czech Republic,pt11,6,0.8700861973654653
-Brazil,pt11,6,0.9130348662227737
-Pakistan,pt11,6,0.9082033245999099
+Brazil,pt11,6,0.9130348662227736
+Pakistan,pt11,6,0.90820332459991
 Zimbabwe,pt11,6,0.9000300552758544
 Hong Kong,pt11,6,0.8932979204189445
 Ecuador,pt11,6,0.8759023623159589
@@ -6160,7 +6160,7 @@ Puerto Rico,pt11,6,0.8798313036860133
 Morocco,pt11,6,0.9195278436856263
 Tajikistan,pt11,6,0.9133163945847702
 Canada,pt11,6,0.8059505490432535
-Romania,pt12,6,0.9235026754665597
+Romania,pt12,6,0.9235026754665596
 Russia,pt12,6,0.8427482291641505
 Thailand,pt12,6,0.903832407427962
 Japan,pt12,6,0.8629562584990115
@@ -6180,7 +6180,7 @@ Taiwan,pt12,6,0.8450858411665576
 Argentina,pt12,6,0.9073139458765558
 Kyrgyzstan,pt12,6,0.8565754573083953
 Australia,pt12,6,0.8786953968038054
-Ukraine,pt12,6,0.9119249948215111
+Ukraine,pt12,6,0.9119249948215112
 Lebanon,pt12,6,0.8702864816077005
 Colombia,pt12,6,0.8294508929650226
 New Zealand,pt12,6,0.8199853513319134
@@ -6201,29 +6201,29 @@ Cyprus,pt12,6,0.8459374273720872
 United States of America,pt12,6,0.8903381181933087
 Malaysia,pt12,6,0.879646930500669
 Czech Republic,pt12,6,0.8868380270204932
-Brazil,pt12,6,0.9087356022539781
+Brazil,pt12,6,0.908735602253978
 Pakistan,pt12,6,0.9165675761949286
 Zimbabwe,pt12,6,0.8937605925296406
 Hong Kong,pt12,6,0.9001773156365891
 Ecuador,pt12,6,0.883907379321772
 Uruguay,pt12,6,0.8016244284598697
 Peru,pt12,6,0.8341660689447453
-Venezuela,pt12,6,0.9269559107733709
+Venezuela,pt12,6,0.9269559107733708
 Philippines,pt12,6,0.8204171513239414
 Mexico,pt12,6,0.9221761414483114
 Ethiopia,pt12,6,0.899913155245241
-Myanmar,pt12,6,0.9035624831933975
+Myanmar,pt12,6,0.9035624831933976
 Indonesia,pt12,6,0.7888255176709288
 Iran,pt12,6,0.8547214642738219
 Iraq,pt12,6,0.8092565460129091
-Mongolia,pt12,6,0.9132261617398827
+Mongolia,pt12,6,0.9132261617398828
 Puerto Rico,pt12,6,0.8805569839292909
 Morocco,pt12,6,0.9135156609656496
 Tajikistan,pt12,6,0.8987605595255873
 Canada,pt12,6,0.8170753817266139
 Romania,pt13,6,0.9314857905276124
 Russia,pt13,6,0.8399161375376835
-Thailand,pt13,6,0.9129500242824979
+Thailand,pt13,6,0.912950024282498
 Japan,pt13,6,0.8621907336761934
 Unknown,pt13,6,0.8456543692717762
 Kazakhstan,pt13,6,0.8809729574001148
@@ -6231,8 +6231,8 @@ Jordan,pt13,6,0.7734955734008045
 Netherlands,pt13,6,0.8033809656580914
 Andorra,pt13,6,0.803138392862221
 Germany,pt13,6,0.804698141736534
-Kenya,pt13,6,0.9463741676939483
-Tunisia,pt13,6,0.9178001267016185
+Kenya,pt13,6,0.9463741676939484
+Tunisia,pt13,6,0.9178001267016184
 Chile,pt13,6,0.8979260460247632
 Turkey,pt13,6,0.8434337859355923
 South Korea,pt13,6,0.896774692922007
@@ -6241,7 +6241,7 @@ Taiwan,pt13,6,0.8360867428012749
 Argentina,pt13,6,0.9119570663838974
 Kyrgyzstan,pt13,6,0.852399623769144
 Australia,pt13,6,0.8716942799467995
-Ukraine,pt13,6,0.9184314666386075
+Ukraine,pt13,6,0.9184314666386076
 Lebanon,pt13,6,0.8667107225932582
 Colombia,pt13,6,0.8320889198583774
 New Zealand,pt13,6,0.8194187238953541
@@ -6251,7 +6251,7 @@ Bangladesh,pt13,6,0.8876902390553193
 Armenia,pt13,6,0.8810772022187578
 Libya,pt13,6,0.8328348834802167
 Egypt,pt13,6,0.8701168854505898
-Nigeria,pt13,6,0.9156272433983581
+Nigeria,pt13,6,0.915627243398358
 United Kingdom,pt13,6,0.8311396936126298
 Singapore,pt13,6,0.8934668898981298
 Guatemala,pt13,6,0.8850869872241818
@@ -6263,24 +6263,24 @@ United States of America,pt13,6,0.8868983095399046
 Malaysia,pt13,6,0.8756785460531715
 Czech Republic,pt13,6,0.8855827557203346
 Brazil,pt13,6,0.9194965472539278
-Pakistan,pt13,6,0.9141715615678553
+Pakistan,pt13,6,0.9141715615678552
 Zimbabwe,pt13,6,0.9025438178446278
 Hong Kong,pt13,6,0.9016333006464148
 Ecuador,pt13,6,0.8835162457011918
 Uruguay,pt13,6,0.8126981010774301
 Peru,pt13,6,0.8290645491906494
-Venezuela,pt13,6,0.9390569512993375
+Venezuela,pt13,6,0.9390569512993376
 Philippines,pt13,6,0.8285440686478784
-Mexico,pt13,6,0.9403400845866179
-Ethiopia,pt13,6,0.9083543963990361
+Mexico,pt13,6,0.940340084586618
+Ethiopia,pt13,6,0.908354396399036
 Myanmar,pt13,6,0.903371135511358
 Indonesia,pt13,6,0.7968553837455793
 Iran,pt13,6,0.8611161747337434
 Iraq,pt13,6,0.8158088856088112
-Mongolia,pt13,6,0.9256848809762903
+Mongolia,pt13,6,0.9256848809762904
 Puerto Rico,pt13,6,0.8912536579366355
-Morocco,pt13,6,0.9275032625377335
-Tajikistan,pt13,6,0.9134998203323643
+Morocco,pt13,6,0.9275032625377336
+Tajikistan,pt13,6,0.9134998203323644
 Canada,pt13,6,0.8161416101979201
 Romania,pt14,6,0.9199735925261144
 Russia,pt14,6,0.8260864834127654
@@ -6299,15 +6299,15 @@ Turkey,pt14,6,0.8348877093729158
 South Korea,pt14,6,0.8876998902336052
 China,pt14,6,0.8478637981959561
 Taiwan,pt14,6,0.8323132898266694
-Argentina,pt14,6,0.9167670867683639
+Argentina,pt14,6,0.916767086768364
 Kyrgyzstan,pt14,6,0.840872094087118
 Australia,pt14,6,0.8656560087064014
-Ukraine,pt14,6,0.9184320115987485
+Ukraine,pt14,6,0.9184320115987484
 Lebanon,pt14,6,0.8633218781815992
 Colombia,pt14,6,0.822748823115764
 New Zealand,pt14,6,0.8170748652999034
 Greece,pt14,6,0.8319874927911028
-Nicaragua,pt14,6,0.9337826236023465
+Nicaragua,pt14,6,0.9337826236023464
 Bangladesh,pt14,6,0.884525370769089
 Armenia,pt14,6,0.8874387619145969
 Libya,pt14,6,0.8304923654928464
@@ -6330,22 +6330,22 @@ Hong Kong,pt14,6,0.8995124413057329
 Ecuador,pt14,6,0.8671778549524685
 Uruguay,pt14,6,0.8218404570410556
 Peru,pt14,6,0.8175223349786359
-Venezuela,pt14,6,0.9365018820267499
+Venezuela,pt14,6,0.93650188202675
 Philippines,pt14,6,0.8231660007271238
-Mexico,pt14,6,0.9424129042523495
+Mexico,pt14,6,0.9424129042523496
 Ethiopia,pt14,6,0.8923532677264726
-Myanmar,pt14,6,0.9140415000691385
+Myanmar,pt14,6,0.9140415000691384
 Indonesia,pt14,6,0.7941383006438367
 Iran,pt14,6,0.8617614650008347
 Iraq,pt14,6,0.8111969918425899
-Mongolia,pt14,6,0.9116774014890325
+Mongolia,pt14,6,0.9116774014890324
 Puerto Rico,pt14,6,0.890638117314636
 Morocco,pt14,6,0.9350438902403152
 Tajikistan,pt14,6,0.9149600954386587
 Canada,pt14,6,0.8107367927022043
-Romania,pt15,6,0.9418017024763223
+Romania,pt15,6,0.9418017024763224
 Russia,pt15,6,0.8542498333968391
-Thailand,pt15,6,0.9074257873081519
+Thailand,pt15,6,0.907425787308152
 Japan,pt15,6,0.8613747049227852
 Unknown,pt15,6,0.8644350317030977
 Kazakhstan,pt15,6,0.8826059714103446
@@ -6353,7 +6353,7 @@ Jordan,pt15,6,0.7893956378760362
 Netherlands,pt15,6,0.8129103577116952
 Andorra,pt15,6,0.7961322613441089
 Germany,pt15,6,0.8188218665722609
-Kenya,pt15,6,0.9271854566712289
+Kenya,pt15,6,0.9271854566712288
 Tunisia,pt15,6,0.9192936889539116
 Chile,pt15,6,0.892626455745552
 Turkey,pt15,6,0.8490409105378406
@@ -6363,17 +6363,17 @@ Taiwan,pt15,6,0.8457642068678476
 Argentina,pt15,6,0.9086555410535808
 Kyrgyzstan,pt15,6,0.8689185187778513
 Australia,pt15,6,0.8773443999761132
-Ukraine,pt15,6,0.9204965136975369
+Ukraine,pt15,6,0.9204965136975368
 Lebanon,pt15,6,0.8764717986686923
 Colombia,pt15,6,0.8371498946913005
 New Zealand,pt15,6,0.8174909974467471
 Greece,pt15,6,0.8580047633131332
-Nicaragua,pt15,6,0.9265690321767405
+Nicaragua,pt15,6,0.9265690321767404
 Bangladesh,pt15,6,0.8993911158048608
 Armenia,pt15,6,0.8866738819070296
 Libya,pt15,6,0.8409184168745572
 Egypt,pt15,6,0.8737220264845794
-Nigeria,pt15,6,0.9091249852596025
+Nigeria,pt15,6,0.9091249852596024
 United Kingdom,pt15,6,0.8320603051718114
 Singapore,pt15,6,0.8859458452867249
 Guatemala,pt15,6,0.8963697561170776
@@ -6383,9 +6383,9 @@ Bolivia,pt15,6,0.8956082384321566
 Cyprus,pt15,6,0.8563884695366447
 United States of America,pt15,6,0.901062947222656
 Malaysia,pt15,6,0.8829110243700103
-Czech Republic,pt15,6,0.9039499036817149
-Brazil,pt15,6,0.9123582306604379
-Pakistan,pt15,6,0.9206376492116467
+Czech Republic,pt15,6,0.9039499036817148
+Brazil,pt15,6,0.912358230660438
+Pakistan,pt15,6,0.9206376492116468
 Zimbabwe,pt15,6,0.8974914904863672
 Hong Kong,pt15,6,0.9044818919889662
 Ecuador,pt15,6,0.8989148341615112
@@ -6393,15 +6393,15 @@ Uruguay,pt15,6,0.8073420175528041
 Peru,pt15,6,0.8441215377285738
 Venezuela,pt15,6,0.9299891929005006
 Philippines,pt15,6,0.8169313997391683
-Mexico,pt15,6,0.9241323679919965
+Mexico,pt15,6,0.9241323679919964
 Ethiopia,pt15,6,0.9106602479070214
 Myanmar,pt15,6,0.8909469412429478
 Indonesia,pt15,6,0.7806058698422473
 Iran,pt15,6,0.8562065563874937
 Iraq,pt15,6,0.8008515593700933
-Mongolia,pt15,6,0.9137045510213525
+Mongolia,pt15,6,0.9137045510213524
 Puerto Rico,pt15,6,0.8919455438127051
-Morocco,pt15,6,0.9182182278861589
+Morocco,pt15,6,0.9182182278861588
 Tajikistan,pt15,6,0.8936427636216253
 Canada,pt15,6,0.8164927952358438
 Romania,pt1,7,0.7902745806763483
@@ -8234,3 +8234,918 @@ Puerto Rico,pt15,8,0.770658069477384
 Morocco,pt15,8,0.7872162342965875
 Tajikistan,pt15,8,0.7472355611752403
 Canada,pt15,8,0.7923246756883816
+Andorra,pt5,SectionsAvg,0.7466788950809935
+Argentina,pt5,SectionsAvg,0.7905168738619289
+Armenia,pt5,SectionsAvg,0.7559583673734245
+Australia,pt5,SectionsAvg,0.758382868590495
+Bangladesh,pt5,SectionsAvg,0.7420380390080088
+Bolivia,pt5,SectionsAvg,0.7932492097578132
+Brazil,pt5,SectionsAvg,0.776201500272833
+Canada,pt5,SectionsAvg,0.768170831450172
+Chile,pt5,SectionsAvg,0.788033984433054
+China,pt5,SectionsAvg,0.7365310652844214
+Colombia,pt5,SectionsAvg,0.793446316199778
+Cyprus,pt5,SectionsAvg,0.7591966568898294
+Czech Republic,pt5,SectionsAvg,0.7735556079367769
+Ecuador,pt5,SectionsAvg,0.7858306965575741
+Egypt,pt5,SectionsAvg,0.7498741699573296
+Ethiopia,pt5,SectionsAvg,0.7522668832642674
+Germany,pt5,SectionsAvg,0.7320901835634515
+Greece,pt5,SectionsAvg,0.754463385421113
+Guatemala,pt5,SectionsAvg,0.796973585063758
+Hong Kong,pt5,SectionsAvg,0.7651735786153793
+Indonesia,pt5,SectionsAvg,0.7570357321766727
+Iran,pt5,SectionsAvg,0.7703645474839969
+Iraq,pt5,SectionsAvg,0.7821655995055675
+Japan,pt5,SectionsAvg,0.7386597956932649
+Jordan,pt5,SectionsAvg,0.7271292381941418
+Kazakhstan,pt5,SectionsAvg,0.7650400414192705
+Kenya,pt5,SectionsAvg,0.7931373525006878
+Kyrgyzstan,pt5,SectionsAvg,0.7498026621294487
+Lebanon,pt5,SectionsAvg,0.7625408864517539
+Libya,pt5,SectionsAvg,0.762524213989403
+Malaysia,pt5,SectionsAvg,0.7735210158120782
+Mexico,pt5,SectionsAvg,0.7975270251585151
+Mongolia,pt5,SectionsAvg,0.8229265421612535
+Morocco,pt5,SectionsAvg,0.7871420554696237
+Myanmar,pt5,SectionsAvg,0.7300025684145488
+Netherlands,pt5,SectionsAvg,0.7275433703536887
+New Zealand,pt5,SectionsAvg,0.7455566819618566
+Nicaragua,pt5,SectionsAvg,0.8051323202404023
+Nigeria,pt5,SectionsAvg,0.7859984898024479
+Pakistan,pt5,SectionsAvg,0.7881798042352517
+Peru,pt5,SectionsAvg,0.7685308697516996
+Philippines,pt5,SectionsAvg,0.7670265138494758
+Puerto Rico,pt5,SectionsAvg,0.7883074148926975
+Romania,pt5,SectionsAvg,0.7876660384163107
+Russia,pt5,SectionsAvg,0.7713060995249702
+Singapore,pt5,SectionsAvg,0.7387630528711254
+Slovakia,pt5,SectionsAvg,0.77027380472298
+South Korea,pt5,SectionsAvg,0.7531370802707066
+Taiwan,pt5,SectionsAvg,0.7404678295322208
+Tajikistan,pt5,SectionsAvg,0.7683049217476863
+Thailand,pt5,SectionsAvg,0.79355372856889
+Tunisia,pt5,SectionsAvg,0.768061439877979
+Turkey,pt5,SectionsAvg,0.753499142043381
+Ukraine,pt5,SectionsAvg,0.7746167326960415
+United Kingdom,pt5,SectionsAvg,0.7602640166360644
+United States of America,pt5,SectionsAvg,0.7701754086063468
+Unknown,pt5,SectionsAvg,0.7378919982609157
+Uruguay,pt5,SectionsAvg,0.7699528110905258
+Venezuela,pt5,SectionsAvg,0.8018559608374244
+Vietnam,pt5,SectionsAvg,0.7172566308514976
+Zimbabwe,pt5,SectionsAvg,0.7713498949296641
+Andorra,pt3,SectionsAvg,0.7379232445383247
+Argentina,pt3,SectionsAvg,0.7774636045172424
+Armenia,pt3,SectionsAvg,0.7466187934485696
+Australia,pt3,SectionsAvg,0.7453815179458858
+Bangladesh,pt3,SectionsAvg,0.7224474215799257
+Bolivia,pt3,SectionsAvg,0.7775875975125799
+Brazil,pt3,SectionsAvg,0.758613839817046
+Canada,pt3,SectionsAvg,0.760359326467247
+Chile,pt3,SectionsAvg,0.7726818123910977
+China,pt3,SectionsAvg,0.7180626809120438
+Colombia,pt3,SectionsAvg,0.7752976226549418
+Cyprus,pt3,SectionsAvg,0.7459083352191684
+Czech Republic,pt3,SectionsAvg,0.7647405669241428
+Ecuador,pt3,SectionsAvg,0.7663884348342495
+Egypt,pt3,SectionsAvg,0.740646312590389
+Ethiopia,pt3,SectionsAvg,0.7346187650637577
+Germany,pt3,SectionsAvg,0.7241867509011426
+Greece,pt3,SectionsAvg,0.7473824470591051
+Guatemala,pt3,SectionsAvg,0.7772883885191231
+Hong Kong,pt3,SectionsAvg,0.753824191688974
+Indonesia,pt3,SectionsAvg,0.7406441956316437
+Iran,pt3,SectionsAvg,0.7524755517300528
+Iraq,pt3,SectionsAvg,0.7764812713310225
+Japan,pt3,SectionsAvg,0.7256992212661454
+Jordan,pt3,SectionsAvg,0.7147650913039444
+Kazakhstan,pt3,SectionsAvg,0.7511866131965981
+Kenya,pt3,SectionsAvg,0.7677676839408307
+Kyrgyzstan,pt3,SectionsAvg,0.7370894297686007
+Lebanon,pt3,SectionsAvg,0.7511358047362725
+Libya,pt3,SectionsAvg,0.7468433762639609
+Malaysia,pt3,SectionsAvg,0.7540495472876005
+Mexico,pt3,SectionsAvg,0.7790784809056623
+Mongolia,pt3,SectionsAvg,0.8082624095280107
+Morocco,pt3,SectionsAvg,0.7658136707682135
+Myanmar,pt3,SectionsAvg,0.7109300709274354
+Netherlands,pt3,SectionsAvg,0.7224930871072547
+New Zealand,pt3,SectionsAvg,0.7392304490659041
+Nicaragua,pt3,SectionsAvg,0.7857302778732143
+Nigeria,pt3,SectionsAvg,0.7648595989040423
+Pakistan,pt3,SectionsAvg,0.7671855171362413
+Peru,pt3,SectionsAvg,0.7543864312009121
+Philippines,pt3,SectionsAvg,0.7466898584341891
+Puerto Rico,pt3,SectionsAvg,0.7725821906171876
+Romania,pt3,SectionsAvg,0.7773223415972835
+Russia,pt3,SectionsAvg,0.7593206977113542
+Singapore,pt3,SectionsAvg,0.7265690490592405
+Slovakia,pt3,SectionsAvg,0.7601949501206695
+South Korea,pt3,SectionsAvg,0.7432675079694432
+Taiwan,pt3,SectionsAvg,0.7294969117758376
+Tajikistan,pt3,SectionsAvg,0.756927848554192
+Thailand,pt3,SectionsAvg,0.7758857636216342
+Tunisia,pt3,SectionsAvg,0.7493208445893857
+Turkey,pt3,SectionsAvg,0.7369003941450913
+Ukraine,pt3,SectionsAvg,0.7641460367624553
+United Kingdom,pt3,SectionsAvg,0.7503343265241301
+United States of America,pt3,SectionsAvg,0.754428480749094
+Unknown,pt3,SectionsAvg,0.7196476260205187
+Uruguay,pt3,SectionsAvg,0.7544194010861567
+Venezuela,pt3,SectionsAvg,0.7878894230474442
+Vietnam,pt3,SectionsAvg,0.703336954893283
+Zimbabwe,pt3,SectionsAvg,0.7457741724509594
+Andorra,pt4,SectionsAvg,0.71114341981997
+Argentina,pt4,SectionsAvg,0.7436931388514355
+Armenia,pt4,SectionsAvg,0.7268987155702551
+Australia,pt4,SectionsAvg,0.7265764813075941
+Bangladesh,pt4,SectionsAvg,0.6985427643803911
+Bolivia,pt4,SectionsAvg,0.7376038047903705
+Brazil,pt4,SectionsAvg,0.7149330756299448
+Canada,pt4,SectionsAvg,0.7316447905692758
+Chile,pt4,SectionsAvg,0.7292918252765652
+China,pt4,SectionsAvg,0.6837429916381629
+Colombia,pt4,SectionsAvg,0.7369589938871134
+Cyprus,pt4,SectionsAvg,0.7345867908493315
+Czech Republic,pt4,SectionsAvg,0.7453605993568488
+Ecuador,pt4,SectionsAvg,0.7336100081673868
+Egypt,pt4,SectionsAvg,0.7120432975152049
+Ethiopia,pt4,SectionsAvg,0.7010220239052718
+Germany,pt4,SectionsAvg,0.711346811423237
+Greece,pt4,SectionsAvg,0.7363038999001346
+Guatemala,pt4,SectionsAvg,0.7537747586758959
+Hong Kong,pt4,SectionsAvg,0.7225879962316646
+Indonesia,pt4,SectionsAvg,0.6946658261361958
+Iran,pt4,SectionsAvg,0.7160871824186905
+Iraq,pt4,SectionsAvg,0.7286644343410222
+Japan,pt4,SectionsAvg,0.6997748426154778
+Jordan,pt4,SectionsAvg,0.7005448163562946
+Kazakhstan,pt4,SectionsAvg,0.7175104349825683
+Kenya,pt4,SectionsAvg,0.7098167939126871
+Kyrgyzstan,pt4,SectionsAvg,0.7144441951094372
+Lebanon,pt4,SectionsAvg,0.7348781385469902
+Libya,pt4,SectionsAvg,0.7096246651211784
+Malaysia,pt4,SectionsAvg,0.7212519038824436
+Mexico,pt4,SectionsAvg,0.7389567506701933
+Mongolia,pt4,SectionsAvg,0.7608408805305146
+Morocco,pt4,SectionsAvg,0.7354627333522779
+Myanmar,pt4,SectionsAvg,0.6832774108283506
+Netherlands,pt4,SectionsAvg,0.7095051939208743
+New Zealand,pt4,SectionsAvg,0.7166352007345459
+Nicaragua,pt4,SectionsAvg,0.7455637335220631
+Nigeria,pt4,SectionsAvg,0.7152001326803399
+Pakistan,pt4,SectionsAvg,0.7342732660580796
+Peru,pt4,SectionsAvg,0.7194960023981885
+Philippines,pt4,SectionsAvg,0.6952824699080827
+Puerto Rico,pt4,SectionsAvg,0.7430802381130815
+Romania,pt4,SectionsAvg,0.7522208814278617
+Russia,pt4,SectionsAvg,0.7370616884949254
+Singapore,pt4,SectionsAvg,0.6912793413944025
+Slovakia,pt4,SectionsAvg,0.7356520462955062
+South Korea,pt4,SectionsAvg,0.7241895241237031
+Taiwan,pt4,SectionsAvg,0.7046658359070319
+Tajikistan,pt4,SectionsAvg,0.7206298886940267
+Thailand,pt4,SectionsAvg,0.7370209630233002
+Tunisia,pt4,SectionsAvg,0.7166846684720659
+Turkey,pt4,SectionsAvg,0.7166911453416279
+Ukraine,pt4,SectionsAvg,0.743443300747491
+United Kingdom,pt4,SectionsAvg,0.7250117188788654
+United States of America,pt4,SectionsAvg,0.7320545738037646
+Unknown,pt4,SectionsAvg,0.7029104597752854
+Uruguay,pt4,SectionsAvg,0.7230754238065414
+Venezuela,pt4,SectionsAvg,0.7437496479725425
+Vietnam,pt4,SectionsAvg,0.6876409001397429
+Zimbabwe,pt4,SectionsAvg,0.6912272973982879
+Andorra,pt14,SectionsAvg,0.7549274898666669
+Argentina,pt14,SectionsAvg,0.7976758804172017
+Armenia,pt14,SectionsAvg,0.7785426224523316
+Australia,pt14,SectionsAvg,0.7839029738212651
+Bangladesh,pt14,SectionsAvg,0.8010305175338576
+Bolivia,pt14,SectionsAvg,0.8027711322313907
+Brazil,pt14,SectionsAvg,0.8052747711015179
+Canada,pt14,SectionsAvg,0.7807300708743788
+Chile,pt14,SectionsAvg,0.8039704876921144
+China,pt14,SectionsAvg,0.775325494533567
+Colombia,pt14,SectionsAvg,0.8085079472226677
+Cyprus,pt14,SectionsAvg,0.7900506542395702
+Czech Republic,pt14,SectionsAvg,0.7835303176979163
+Ecuador,pt14,SectionsAvg,0.8120528697485961
+Egypt,pt14,SectionsAvg,0.7612590516847713
+Ethiopia,pt14,SectionsAvg,0.7967983066216523
+Germany,pt14,SectionsAvg,0.7542407477564305
+Greece,pt14,SectionsAvg,0.7710562788889211
+Guatemala,pt14,SectionsAvg,0.8182491156219691
+Hong Kong,pt14,SectionsAvg,0.7876194534139859
+Indonesia,pt14,SectionsAvg,0.7905279910462012
+Iran,pt14,SectionsAvg,0.8159672000825405
+Iraq,pt14,SectionsAvg,0.7875113020498931
+Japan,pt14,SectionsAvg,0.7564058488604383
+Jordan,pt14,SectionsAvg,0.757795719795717
+Kazakhstan,pt14,SectionsAvg,0.8044189296658971
+Kenya,pt14,SectionsAvg,0.8451413621971076
+Kyrgyzstan,pt14,SectionsAvg,0.7847573852288611
+Lebanon,pt14,SectionsAvg,0.783524613151209
+Libya,pt14,SectionsAvg,0.7872497680636106
+Malaysia,pt14,SectionsAvg,0.8130863013164958
+Mexico,pt14,SectionsAvg,0.8129647099376127
+Mongolia,pt14,SectionsAvg,0.8340236578573255
+Morocco,pt14,SectionsAvg,0.826746630158713
+Myanmar,pt14,SectionsAvg,0.7985150865393518
+Netherlands,pt14,SectionsAvg,0.7469089346393797
+New Zealand,pt14,SectionsAvg,0.766703407211773
+Nicaragua,pt14,SectionsAvg,0.8250480326248024
+Nigeria,pt14,SectionsAvg,0.8232510372372915
+Pakistan,pt14,SectionsAvg,0.8318001464761065
+Peru,pt14,SectionsAvg,0.7741899454062372
+Philippines,pt14,SectionsAvg,0.8162795721964082
+Puerto Rico,pt14,SectionsAvg,0.8058564632512455
+Romania,pt14,SectionsAvg,0.7986489104672454
+Russia,pt14,SectionsAvg,0.785238524954315
+Singapore,pt14,SectionsAvg,0.773029365334669
+Slovakia,pt14,SectionsAvg,0.7868488196366275
+South Korea,pt14,SectionsAvg,0.7697879672036672
+Taiwan,pt14,SectionsAvg,0.7737806346339945
+Tajikistan,pt14,SectionsAvg,0.8041537039257808
+Thailand,pt14,SectionsAvg,0.8289198227297617
+Tunisia,pt14,SectionsAvg,0.7961058924988188
+Turkey,pt14,SectionsAvg,0.7977823113667329
+Ukraine,pt14,SectionsAvg,0.7963378801394898
+United Kingdom,pt14,SectionsAvg,0.7817486375149618
+United States of America,pt14,SectionsAvg,0.7994971851638886
+Unknown,pt14,SectionsAvg,0.7831306620792782
+Uruguay,pt14,SectionsAvg,0.7971094384463355
+Venezuela,pt14,SectionsAvg,0.8079806485007075
+Vietnam,pt14,SectionsAvg,0.7768817466762603
+Zimbabwe,pt14,SectionsAvg,0.8107150094238216
+Andorra,pt9,SectionsAvg,0.7481195772686906
+Argentina,pt9,SectionsAvg,0.793774938539375
+Armenia,pt9,SectionsAvg,0.7610646389209011
+Australia,pt9,SectionsAvg,0.7646713264941749
+Bangladesh,pt9,SectionsAvg,0.7436146721654029
+Bolivia,pt9,SectionsAvg,0.7978817794784129
+Brazil,pt9,SectionsAvg,0.7772833605467774
+Canada,pt9,SectionsAvg,0.7735857301066524
+Chile,pt9,SectionsAvg,0.7907808922743312
+China,pt9,SectionsAvg,0.7361921345079312
+Colombia,pt9,SectionsAvg,0.797424239300918
+Cyprus,pt9,SectionsAvg,0.7679435706508377
+Czech Republic,pt9,SectionsAvg,0.7828866373396588
+Ecuador,pt9,SectionsAvg,0.789993822051166
+Egypt,pt9,SectionsAvg,0.7530612751556057
+Ethiopia,pt9,SectionsAvg,0.7556440328615748
+Germany,pt9,SectionsAvg,0.7385116348170209
+Greece,pt9,SectionsAvg,0.764731824214484
+Guatemala,pt9,SectionsAvg,0.8012993594147716
+Hong Kong,pt9,SectionsAvg,0.7714916191002428
+Indonesia,pt9,SectionsAvg,0.7580951077685808
+Iran,pt9,SectionsAvg,0.7714533078270855
+Iraq,pt9,SectionsAvg,0.7903165190555078
+Japan,pt9,SectionsAvg,0.7462225299236
+Jordan,pt9,SectionsAvg,0.731643394288885
+Kazakhstan,pt9,SectionsAvg,0.7690085768703822
+Kenya,pt9,SectionsAvg,0.7898713456053286
+Kyrgyzstan,pt9,SectionsAvg,0.7552458807128022
+Lebanon,pt9,SectionsAvg,0.77255302742904
+Libya,pt9,SectionsAvg,0.7667218049263056
+Malaysia,pt9,SectionsAvg,0.7781551063453667
+Mexico,pt9,SectionsAvg,0.7972089842478894
+Mongolia,pt9,SectionsAvg,0.8291162278280875
+Morocco,pt9,SectionsAvg,0.7888200959545368
+Myanmar,pt9,SectionsAvg,0.7307013646242202
+Netherlands,pt9,SectionsAvg,0.7359201618935316
+New Zealand,pt9,SectionsAvg,0.748920482352535
+Nicaragua,pt9,SectionsAvg,0.8079697967272148
+Nigeria,pt9,SectionsAvg,0.7834115915919307
+Pakistan,pt9,SectionsAvg,0.7907418927104838
+Peru,pt9,SectionsAvg,0.771696418972807
+Philippines,pt9,SectionsAvg,0.7664501495574747
+Puerto Rico,pt9,SectionsAvg,0.7921985672644649
+Romania,pt9,SectionsAvg,0.7931856520378707
+Russia,pt9,SectionsAvg,0.7782510731791461
+Singapore,pt9,SectionsAvg,0.7431980602655909
+Slovakia,pt9,SectionsAvg,0.7777458785365086
+South Korea,pt9,SectionsAvg,0.7614999385226168
+Taiwan,pt9,SectionsAvg,0.7459701053156088
+Tajikistan,pt9,SectionsAvg,0.7711097660591404
+Thailand,pt9,SectionsAvg,0.7977510495717484
+Tunisia,pt9,SectionsAvg,0.7723451094960272
+Turkey,pt9,SectionsAvg,0.7590585954997991
+Ukraine,pt9,SectionsAvg,0.7817357257914151
+United Kingdom,pt9,SectionsAvg,0.764157324212976
+United States of America,pt9,SectionsAvg,0.7765362160127423
+Unknown,pt9,SectionsAvg,0.7422884053454257
+Uruguay,pt9,SectionsAvg,0.7710338242757288
+Venezuela,pt9,SectionsAvg,0.8063992092007934
+Vietnam,pt9,SectionsAvg,0.7207455054222285
+Zimbabwe,pt9,SectionsAvg,0.7669520969614184
+Andorra,pt11,SectionsAvg,0.7519747040228361
+Argentina,pt11,SectionsAvg,0.789081766545965
+Armenia,pt11,SectionsAvg,0.7690984508641289
+Australia,pt11,SectionsAvg,0.7786583201563193
+Bangladesh,pt11,SectionsAvg,0.79373673105884
+Bolivia,pt11,SectionsAvg,0.7894207584062236
+Brazil,pt11,SectionsAvg,0.7982964594697464
+Canada,pt11,SectionsAvg,0.7760778372570819
+Chile,pt11,SectionsAvg,0.7958248263412644
+China,pt11,SectionsAvg,0.7620803513283654
+Colombia,pt11,SectionsAvg,0.7978270472690623
+Cyprus,pt11,SectionsAvg,0.7861569019181727
+Czech Republic,pt11,SectionsAvg,0.7786485264078029
+Ecuador,pt11,SectionsAvg,0.800227153638951
+Egypt,pt11,SectionsAvg,0.7595879234591112
+Ethiopia,pt11,SectionsAvg,0.7930007800424197
+Germany,pt11,SectionsAvg,0.7499124199305324
+Greece,pt11,SectionsAvg,0.7704713762371662
+Guatemala,pt11,SectionsAvg,0.8041433009744932
+Hong Kong,pt11,SectionsAvg,0.7795958345100024
+Indonesia,pt11,SectionsAvg,0.7772376922953231
+Iran,pt11,SectionsAvg,0.8078611587457631
+Iraq,pt11,SectionsAvg,0.7779588166593745
+Japan,pt11,SectionsAvg,0.7539510494872116
+Jordan,pt11,SectionsAvg,0.75537694540682
+Kazakhstan,pt11,SectionsAvg,0.7924890079567968
+Kenya,pt11,SectionsAvg,0.8306794041787293
+Kyrgyzstan,pt11,SectionsAvg,0.7749351107486816
+Lebanon,pt11,SectionsAvg,0.7757514463689767
+Libya,pt11,SectionsAvg,0.7725809457161759
+Malaysia,pt11,SectionsAvg,0.8005117883708421
+Mexico,pt11,SectionsAvg,0.8015322879891476
+Mongolia,pt11,SectionsAvg,0.8255577267851877
+Morocco,pt11,SectionsAvg,0.813292552109373
+Myanmar,pt11,SectionsAvg,0.7854214962680557
+Netherlands,pt11,SectionsAvg,0.7439409221840472
+New Zealand,pt11,SectionsAvg,0.7627560241798983
+Nicaragua,pt11,SectionsAvg,0.8045349056999942
+Nigeria,pt11,SectionsAvg,0.805708884693978
+Pakistan,pt11,SectionsAvg,0.8184953506657456
+Peru,pt11,SectionsAvg,0.7640006480330371
+Philippines,pt11,SectionsAvg,0.7988460012960341
+Puerto Rico,pt11,SectionsAvg,0.7934191110705802
+Romania,pt11,SectionsAvg,0.789921625498792
+Russia,pt11,SectionsAvg,0.7782163355631786
+Singapore,pt11,SectionsAvg,0.7654234645622673
+Slovakia,pt11,SectionsAvg,0.7816319411949465
+South Korea,pt11,SectionsAvg,0.7605706710470855
+Taiwan,pt11,SectionsAvg,0.7628010133723258
+Tajikistan,pt11,SectionsAvg,0.7892213740138654
+Thailand,pt11,SectionsAvg,0.8224299172814615
+Tunisia,pt11,SectionsAvg,0.7902153802134873
+Turkey,pt11,SectionsAvg,0.7874080516117588
+Ukraine,pt11,SectionsAvg,0.7881775075291844
+United Kingdom,pt11,SectionsAvg,0.7776032598395006
+United States of America,pt11,SectionsAvg,0.7967526518124369
+Unknown,pt11,SectionsAvg,0.7759332253272905
+Uruguay,pt11,SectionsAvg,0.782643792020894
+Venezuela,pt11,SectionsAvg,0.794822672382454
+Vietnam,pt11,SectionsAvg,0.7589558664961035
+Zimbabwe,pt11,SectionsAvg,0.8049787023123222
+Andorra,pt15,SectionsAvg,0.7660047260422124
+Argentina,pt15,SectionsAvg,0.8041970123795634
+Armenia,pt15,SectionsAvg,0.7828557351874533
+Australia,pt15,SectionsAvg,0.7958208207492842
+Bangladesh,pt15,SectionsAvg,0.7912878037986616
+Bolivia,pt15,SectionsAvg,0.8058642288007761
+Brazil,pt15,SectionsAvg,0.7956684854236534
+Canada,pt15,SectionsAvg,0.7947696559539588
+Chile,pt15,SectionsAvg,0.8021268455746723
+China,pt15,SectionsAvg,0.764934409048922
+Colombia,pt15,SectionsAvg,0.8091594882492186
+Cyprus,pt15,SectionsAvg,0.7954480290893351
+Czech Republic,pt15,SectionsAvg,0.7998153033707116
+Ecuador,pt15,SectionsAvg,0.8107051163134427
+Egypt,pt15,SectionsAvg,0.7643420941446198
+Ethiopia,pt15,SectionsAvg,0.7963269565746808
+Germany,pt15,SectionsAvg,0.7686656962934824
+Greece,pt15,SectionsAvg,0.7840453345454309
+Guatemala,pt15,SectionsAvg,0.820588154864942
+Hong Kong,pt15,SectionsAvg,0.7957241582768942
+Indonesia,pt15,SectionsAvg,0.7842370097347748
+Iran,pt15,SectionsAvg,0.8117797440817299
+Iraq,pt15,SectionsAvg,0.783773201495061
+Japan,pt15,SectionsAvg,0.7626219395621214
+Jordan,pt15,SectionsAvg,0.7585603468855766
+Kazakhstan,pt15,SectionsAvg,0.8044210261474584
+Kenya,pt15,SectionsAvg,0.8208079463792688
+Kyrgyzstan,pt15,SectionsAvg,0.7910247852329098
+Lebanon,pt15,SectionsAvg,0.7859292497101713
+Libya,pt15,SectionsAvg,0.7821501160372324
+Malaysia,pt15,SectionsAvg,0.8064272490933468
+Mexico,pt15,SectionsAvg,0.8047223609382546
+Mongolia,pt15,SectionsAvg,0.8350942531667134
+Morocco,pt15,SectionsAvg,0.816553355080907
+Myanmar,pt15,SectionsAvg,0.7837940202241127
+Netherlands,pt15,SectionsAvg,0.7645482510930361
+New Zealand,pt15,SectionsAvg,0.77913466770348
+Nicaragua,pt15,SectionsAvg,0.8196827640514953
+Nigeria,pt15,SectionsAvg,0.8082436474458919
+Pakistan,pt15,SectionsAvg,0.828844508919396
+Peru,pt15,SectionsAvg,0.7734565244289459
+Philippines,pt15,SectionsAvg,0.8026539134770572
+Puerto Rico,pt15,SectionsAvg,0.8102455877752885
+Romania,pt15,SectionsAvg,0.8084051408072186
+Russia,pt15,SectionsAvg,0.7955926033454132
+Singapore,pt15,SectionsAvg,0.7733089531616453
+Slovakia,pt15,SectionsAvg,0.7987117813549965
+South Korea,pt15,SectionsAvg,0.7785881390151173
+Taiwan,pt15,SectionsAvg,0.7750214181110711
+Tajikistan,pt15,SectionsAvg,0.802130397264434
+Thailand,pt15,SectionsAvg,0.8283160531034874
+Tunisia,pt15,SectionsAvg,0.7917233339075367
+Turkey,pt15,SectionsAvg,0.7924603170801142
+Ukraine,pt15,SectionsAvg,0.8005230599689255
+United Kingdom,pt15,SectionsAvg,0.7935272095112829
+United States of America,pt15,SectionsAvg,0.8073812850112942
+Unknown,pt15,SectionsAvg,0.7778498632428673
+Uruguay,pt15,SectionsAvg,0.795245020175274
+Venezuela,pt15,SectionsAvg,0.8071553699698785
+Vietnam,pt15,SectionsAvg,0.7656916144321593
+Zimbabwe,pt15,SectionsAvg,0.7921613124471031
+Andorra,pt6,SectionsAvg,0.735003704461288
+Argentina,pt6,SectionsAvg,0.7762718337326421
+Armenia,pt6,SectionsAvg,0.7505103393312238
+Australia,pt6,SectionsAvg,0.7527885955858501
+Bangladesh,pt6,SectionsAvg,0.7295512350580617
+Bolivia,pt6,SectionsAvg,0.7745807910551361
+Brazil,pt6,SectionsAvg,0.7537689648583055
+Canada,pt6,SectionsAvg,0.7592256607455111
+Chile,pt6,SectionsAvg,0.7662414845502067
+China,pt6,SectionsAvg,0.7133882629751678
+Colombia,pt6,SectionsAvg,0.7746984435605831
+Cyprus,pt6,SectionsAvg,0.7609570637906435
+Czech Republic,pt6,SectionsAvg,0.771960029232749
+Ecuador,pt6,SectionsAvg,0.7702017705362392
+Egypt,pt6,SectionsAvg,0.7347254990962208
+Ethiopia,pt6,SectionsAvg,0.739619268505201
+Germany,pt6,SectionsAvg,0.734126757336824
+Greece,pt6,SectionsAvg,0.7595552335489464
+Guatemala,pt6,SectionsAvg,0.7863329048118353
+Hong Kong,pt6,SectionsAvg,0.7519750890600891
+Indonesia,pt6,SectionsAvg,0.7287290805145294
+Iran,pt6,SectionsAvg,0.7510782384040733
+Iraq,pt6,SectionsAvg,0.7543046667437473
+Japan,pt6,SectionsAvg,0.7262612527172135
+Jordan,pt6,SectionsAvg,0.7259936995456796
+Kazakhstan,pt6,SectionsAvg,0.7511106082411805
+Kenya,pt6,SectionsAvg,0.7567390182664806
+Kyrgyzstan,pt6,SectionsAvg,0.7424601019761492
+Lebanon,pt6,SectionsAvg,0.756890473390221
+Libya,pt6,SectionsAvg,0.7451056361571867
+Malaysia,pt6,SectionsAvg,0.7556751560724395
+Mexico,pt6,SectionsAvg,0.7735538560658409
+Mongolia,pt6,SectionsAvg,0.7946979002740697
+Morocco,pt6,SectionsAvg,0.7673380413657276
+Myanmar,pt6,SectionsAvg,0.7119986996260568
+Netherlands,pt6,SectionsAvg,0.7303026750357979
+New Zealand,pt6,SectionsAvg,0.7391242536469159
+Nicaragua,pt6,SectionsAvg,0.781388704868357
+Nigeria,pt6,SectionsAvg,0.755395642726738
+Pakistan,pt6,SectionsAvg,0.7763000948777747
+Peru,pt6,SectionsAvg,0.7488859787803559
+Philippines,pt6,SectionsAvg,0.7378207681387188
+Puerto Rico,pt6,SectionsAvg,0.7723637233988992
+Romania,pt6,SectionsAvg,0.7757027055729966
+Russia,pt6,SectionsAvg,0.7628390770796137
+Singapore,pt6,SectionsAvg,0.719502942361764
+Slovakia,pt6,SectionsAvg,0.7633618629862104
+South Korea,pt6,SectionsAvg,0.7471911731694301
+Taiwan,pt6,SectionsAvg,0.731585320905049
+Tajikistan,pt6,SectionsAvg,0.7482022292369108
+Thailand,pt6,SectionsAvg,0.7755215125429813
+Tunisia,pt6,SectionsAvg,0.7496272462081072
+Turkey,pt6,SectionsAvg,0.7460829221172631
+Ukraine,pt6,SectionsAvg,0.768672962884586
+United Kingdom,pt6,SectionsAvg,0.7542208558908042
+United States of America,pt6,SectionsAvg,0.7634028132245314
+Unknown,pt6,SectionsAvg,0.7322543791086907
+Uruguay,pt6,SectionsAvg,0.7557361303712758
+Venezuela,pt6,SectionsAvg,0.7764451011172311
+Vietnam,pt6,SectionsAvg,0.7074732410897453
+Zimbabwe,pt6,SectionsAvg,0.737953705699295
+Andorra,pt8,SectionsAvg,0.744222012602454
+Argentina,pt8,SectionsAvg,0.7862167994928806
+Armenia,pt8,SectionsAvg,0.7557142700598937
+Australia,pt8,SectionsAvg,0.7645595506896916
+Bangladesh,pt8,SectionsAvg,0.7364461089049326
+Bolivia,pt8,SectionsAvg,0.7885319440715027
+Brazil,pt8,SectionsAvg,0.762206464092649
+Canada,pt8,SectionsAvg,0.7743181616933275
+Chile,pt8,SectionsAvg,0.7779357370472667
+China,pt8,SectionsAvg,0.7323913636366564
+Colombia,pt8,SectionsAvg,0.7840750367901006
+Cyprus,pt8,SectionsAvg,0.7723511353451842
+Czech Republic,pt8,SectionsAvg,0.7901410770420502
+Ecuador,pt8,SectionsAvg,0.7826766877801777
+Egypt,pt8,SectionsAvg,0.739433862410579
+Ethiopia,pt8,SectionsAvg,0.7473969519478874
+Germany,pt8,SectionsAvg,0.7470183871377105
+Greece,pt8,SectionsAvg,0.7675556742989356
+Guatemala,pt8,SectionsAvg,0.7960458295888839
+Hong Kong,pt8,SectionsAvg,0.7712473641191903
+Indonesia,pt8,SectionsAvg,0.7369657708297745
+Iran,pt8,SectionsAvg,0.7601269107865067
+Iraq,pt8,SectionsAvg,0.7608356221284229
+Japan,pt8,SectionsAvg,0.7476531006561304
+Jordan,pt8,SectionsAvg,0.7318550733245294
+Kazakhstan,pt8,SectionsAvg,0.7623653439701535
+Kenya,pt8,SectionsAvg,0.7674117243308908
+Kyrgyzstan,pt8,SectionsAvg,0.7502087717709875
+Lebanon,pt8,SectionsAvg,0.7643084189281484
+Libya,pt8,SectionsAvg,0.7532195356951444
+Malaysia,pt8,SectionsAvg,0.7711067374463343
+Mexico,pt8,SectionsAvg,0.7769769064792245
+Mongolia,pt8,SectionsAvg,0.8070506459533958
+Morocco,pt8,SectionsAvg,0.7773922459808109
+Myanmar,pt8,SectionsAvg,0.7161056622553449
+Netherlands,pt8,SectionsAvg,0.7442824290978507
+New Zealand,pt8,SectionsAvg,0.7512593057583105
+Nicaragua,pt8,SectionsAvg,0.7923274381515316
+Nigeria,pt8,SectionsAvg,0.7642505911543902
+Pakistan,pt8,SectionsAvg,0.7757263612514198
+Peru,pt8,SectionsAvg,0.7634695440563298
+Philippines,pt8,SectionsAvg,0.7496193927908232
+Puerto Rico,pt8,SectionsAvg,0.7799779546614024
+Romania,pt8,SectionsAvg,0.7847261115259726
+Russia,pt8,SectionsAvg,0.7732403787318017
+Singapore,pt8,SectionsAvg,0.7320224700053775
+Slovakia,pt8,SectionsAvg,0.775173457782202
+South Korea,pt8,SectionsAvg,0.7646659118658944
+Taiwan,pt8,SectionsAvg,0.7470258296226362
+Tajikistan,pt8,SectionsAvg,0.7471473163876929
+Thailand,pt8,SectionsAvg,0.7849446513438013
+Tunisia,pt8,SectionsAvg,0.7559297240880264
+Turkey,pt8,SectionsAvg,0.7538043896116919
+Ukraine,pt8,SectionsAvg,0.7763166288611678
+United Kingdom,pt8,SectionsAvg,0.7668220957731149
+United States of America,pt8,SectionsAvg,0.7752335962765667
+Unknown,pt8,SectionsAvg,0.7396695208319609
+Uruguay,pt8,SectionsAvg,0.7618996364644519
+Venezuela,pt8,SectionsAvg,0.7857519514280878
+Vietnam,pt8,SectionsAvg,0.7183171846130578
+Zimbabwe,pt8,SectionsAvg,0.7483780338554388
+Andorra,pt7,SectionsAvg,0.7491420845786205
+Argentina,pt7,SectionsAvg,0.7931183006817435
+Armenia,pt7,SectionsAvg,0.75348226854174
+Australia,pt7,SectionsAvg,0.7635679104939053
+Bangladesh,pt7,SectionsAvg,0.7402852680288415
+Bolivia,pt7,SectionsAvg,0.7969574995777623
+Brazil,pt7,SectionsAvg,0.7753393387110801
+Canada,pt7,SectionsAvg,0.7719889636023844
+Chile,pt7,SectionsAvg,0.7861295698121512
+China,pt7,SectionsAvg,0.7370397918572582
+Colombia,pt7,SectionsAvg,0.7917347649159252
+Cyprus,pt7,SectionsAvg,0.7629459449292181
+Czech Republic,pt7,SectionsAvg,0.782640606940775
+Ecuador,pt7,SectionsAvg,0.787524993717109
+Egypt,pt7,SectionsAvg,0.7491629538530358
+Ethiopia,pt7,SectionsAvg,0.7478542577681206
+Germany,pt7,SectionsAvg,0.7378094256509852
+Greece,pt7,SectionsAvg,0.7578640792791556
+Guatemala,pt7,SectionsAvg,0.7961822390834186
+Hong Kong,pt7,SectionsAvg,0.7740935931744526
+Indonesia,pt7,SectionsAvg,0.7543838742116523
+Iran,pt7,SectionsAvg,0.7661448110398924
+Iraq,pt7,SectionsAvg,0.7852302315838842
+Japan,pt7,SectionsAvg,0.7455848857481375
+Jordan,pt7,SectionsAvg,0.7307350772178768
+Kazakhstan,pt7,SectionsAvg,0.7659318559846148
+Kenya,pt7,SectionsAvg,0.7852066688843592
+Kyrgyzstan,pt7,SectionsAvg,0.7552967600220719
+Lebanon,pt7,SectionsAvg,0.7654055096087147
+Libya,pt7,SectionsAvg,0.7620667114768253
+Malaysia,pt7,SectionsAvg,0.7785867448152876
+Mexico,pt7,SectionsAvg,0.788644793175664
+Mongolia,pt7,SectionsAvg,0.8241890237984478
+Morocco,pt7,SectionsAvg,0.7846917131129669
+Myanmar,pt7,SectionsAvg,0.7258072325832288
+Netherlands,pt7,SectionsAvg,0.7351519911376375
+New Zealand,pt7,SectionsAvg,0.7488270062463732
+Nicaragua,pt7,SectionsAvg,0.8014219124695543
+Nigeria,pt7,SectionsAvg,0.7773643273806741
+Pakistan,pt7,SectionsAvg,0.7835157186861725
+Peru,pt7,SectionsAvg,0.7675083861478315
+Philippines,pt7,SectionsAvg,0.7630162966398607
+Puerto Rico,pt7,SectionsAvg,0.7830881061803338
+Romania,pt7,SectionsAvg,0.7906921900878561
+Russia,pt7,SectionsAvg,0.7759889753139066
+Singapore,pt7,SectionsAvg,0.7426954023360317
+Slovakia,pt7,SectionsAvg,0.7764843083965662
+South Korea,pt7,SectionsAvg,0.7638009766263001
+Taiwan,pt7,SectionsAvg,0.746631858800409
+Tajikistan,pt7,SectionsAvg,0.764592963247444
+Thailand,pt7,SectionsAvg,0.7916994973814528
+Tunisia,pt7,SectionsAvg,0.7670601118075148
+Turkey,pt7,SectionsAvg,0.754529247981532
+Ukraine,pt7,SectionsAvg,0.7751387561702645
+United Kingdom,pt7,SectionsAvg,0.7646041825520138
+United States of America,pt7,SectionsAvg,0.7742255101619171
+Unknown,pt7,SectionsAvg,0.7391002035616596
+Uruguay,pt7,SectionsAvg,0.7702643236286928
+Venezuela,pt7,SectionsAvg,0.7981226300923581
+Vietnam,pt7,SectionsAvg,0.7217855302998335
+Zimbabwe,pt7,SectionsAvg,0.7635647958825711
+Andorra,pt2,SectionsAvg,0.7278110892173523
+Argentina,pt2,SectionsAvg,0.7590033627135332
+Armenia,pt2,SectionsAvg,0.7442954962852615
+Australia,pt2,SectionsAvg,0.7397895445950181
+Bangladesh,pt2,SectionsAvg,0.7169524069019484
+Bolivia,pt2,SectionsAvg,0.7561131222974823
+Brazil,pt2,SectionsAvg,0.7338176955083022
+Canada,pt2,SectionsAvg,0.745083057573185
+Chile,pt2,SectionsAvg,0.746416431216949
+China,pt2,SectionsAvg,0.7033060746012023
+Colombia,pt2,SectionsAvg,0.7548475711441874
+Cyprus,pt2,SectionsAvg,0.7541772540734455
+Czech Republic,pt2,SectionsAvg,0.7622966535217994
+Ecuador,pt2,SectionsAvg,0.7541034789824519
+Egypt,pt2,SectionsAvg,0.7263251179864734
+Ethiopia,pt2,SectionsAvg,0.7222345310788159
+Germany,pt2,SectionsAvg,0.7258066829072469
+Greece,pt2,SectionsAvg,0.753120071985806
+Guatemala,pt2,SectionsAvg,0.7676028537684718
+Hong Kong,pt2,SectionsAvg,0.7391646391353591
+Indonesia,pt2,SectionsAvg,0.7127885999634753
+Iran,pt2,SectionsAvg,0.7378259617562449
+Iraq,pt2,SectionsAvg,0.7389560275217373
+Japan,pt2,SectionsAvg,0.7176562653600511
+Jordan,pt2,SectionsAvg,0.7201810708835786
+Kazakhstan,pt2,SectionsAvg,0.7366941246257587
+Kenya,pt2,SectionsAvg,0.7294004309865976
+Kyrgyzstan,pt2,SectionsAvg,0.7335236925858903
+Lebanon,pt2,SectionsAvg,0.7492695737872429
+Libya,pt2,SectionsAvg,0.7265788924220604
+Malaysia,pt2,SectionsAvg,0.7366062575574482
+Mexico,pt2,SectionsAvg,0.7515366170169951
+Mongolia,pt2,SectionsAvg,0.7723379637633824
+Morocco,pt2,SectionsAvg,0.7508325572985753
+Myanmar,pt2,SectionsAvg,0.7036062132467616
+Netherlands,pt2,SectionsAvg,0.7233861820200275
+New Zealand,pt2,SectionsAvg,0.7297657412732836
+Nicaragua,pt2,SectionsAvg,0.7600017491420301
+Nigeria,pt2,SectionsAvg,0.7319159923536324
+Pakistan,pt2,SectionsAvg,0.7551441456652788
+Peru,pt2,SectionsAvg,0.7362568988438415
+Philippines,pt2,SectionsAvg,0.7127217590788271
+Puerto Rico,pt2,SectionsAvg,0.7571283963498251
+Romania,pt2,SectionsAvg,0.7682691851808815
+Russia,pt2,SectionsAvg,0.7548949394876837
+Singapore,pt2,SectionsAvg,0.7064574310546725
+Slovakia,pt2,SectionsAvg,0.753969633728547
+South Korea,pt2,SectionsAvg,0.7368065313840974
+Taiwan,pt2,SectionsAvg,0.723179294434404
+Tajikistan,pt2,SectionsAvg,0.7286920058043732
+Thailand,pt2,SectionsAvg,0.7554047227848261
+Tunisia,pt2,SectionsAvg,0.7328411679575788
+Turkey,pt2,SectionsAvg,0.732852257756359
+Ukraine,pt2,SectionsAvg,0.761004160825126
+United Kingdom,pt2,SectionsAvg,0.7384053311852629
+United States of America,pt2,SectionsAvg,0.7461842619073467
+Unknown,pt2,SectionsAvg,0.720655386431819
+Uruguay,pt2,SectionsAvg,0.7389520453615488
+Venezuela,pt2,SectionsAvg,0.7569517249172011
+Vietnam,pt2,SectionsAvg,0.703163480246123
+Zimbabwe,pt2,SectionsAvg,0.7130091249203973
+Andorra,pt13,SectionsAvg,0.7681469004084501
+Argentina,pt13,SectionsAvg,0.8038124369000332
+Armenia,pt13,SectionsAvg,0.7789158967063547
+Australia,pt13,SectionsAvg,0.7951535504857359
+Bangladesh,pt13,SectionsAvg,0.7940548969106992
+Bolivia,pt13,SectionsAvg,0.8031783609785472
+Brazil,pt13,SectionsAvg,0.8076672306697977
+Canada,pt13,SectionsAvg,0.79493461995322
+Chile,pt13,SectionsAvg,0.8076920532621458
+China,pt13,SectionsAvg,0.7689599586612788
+Colombia,pt13,SectionsAvg,0.8087025980506346
+Cyprus,pt13,SectionsAvg,0.7959608481831247
+Czech Republic,pt13,SectionsAvg,0.7975178853994431
+Ecuador,pt13,SectionsAvg,0.811509587577724
+Egypt,pt13,SectionsAvg,0.7642918314293895
+Ethiopia,pt13,SectionsAvg,0.8006386759737776
+Germany,pt13,SectionsAvg,0.7672549434616629
+Greece,pt13,SectionsAvg,0.7819764357338086
+Guatemala,pt13,SectionsAvg,0.8167113858510571
+Hong Kong,pt13,SectionsAvg,0.7961527223742321
+Indonesia,pt13,SectionsAvg,0.7840454447170616
+Iran,pt13,SectionsAvg,0.8158099198234227
+Iraq,pt13,SectionsAvg,0.7816429387411779
+Japan,pt13,SectionsAvg,0.7643664798085504
+Jordan,pt13,SectionsAvg,0.7592554973683512
+Kazakhstan,pt13,SectionsAvg,0.8029798396275388
+Kenya,pt13,SectionsAvg,0.8328428445366333
+Kyrgyzstan,pt13,SectionsAvg,0.7850590248016114
+Lebanon,pt13,SectionsAvg,0.7823278474798891
+Libya,pt13,SectionsAvg,0.782060767664639
+Malaysia,pt13,SectionsAvg,0.8074473725357392
+Mexico,pt13,SectionsAvg,0.8095089894561485
+Mongolia,pt13,SectionsAvg,0.8380160263332901
+Morocco,pt13,SectionsAvg,0.8223645900469777
+Myanmar,pt13,SectionsAvg,0.7862015959840527
+Netherlands,pt13,SectionsAvg,0.7617915258260866
+New Zealand,pt13,SectionsAvg,0.77993580537309
+Nicaragua,pt13,SectionsAvg,0.820713353178116
+Nigeria,pt13,SectionsAvg,0.8127231965229599
+Pakistan,pt13,SectionsAvg,0.8266158870989584
+Peru,pt13,SectionsAvg,0.773364272383673
+Philippines,pt13,SectionsAvg,0.8074780403591919
+Puerto Rico,pt13,SectionsAvg,0.8079752229135727
+Romania,pt13,SectionsAvg,0.8055150019896105
+Russia,pt13,SectionsAvg,0.7906497972534233
+Singapore,pt13,SectionsAvg,0.7764133698784282
+Slovakia,pt13,SectionsAvg,0.7959118161398626
+South Korea,pt13,SectionsAvg,0.7755971120856361
+Taiwan,pt13,SectionsAvg,0.7718696182867696
+Tajikistan,pt13,SectionsAvg,0.8000476925035369
+Thailand,pt13,SectionsAvg,0.8298835862097932
+Tunisia,pt13,SectionsAvg,0.7964188552223346
+Turkey,pt13,SectionsAvg,0.7911885146643419
+Ukraine,pt13,SectionsAvg,0.7980778445288538
+United Kingdom,pt13,SectionsAvg,0.794187804343731
+United States of America,pt13,SectionsAvg,0.8102768960444984
+Unknown,pt13,SectionsAvg,0.7796619464415153
+Uruguay,pt13,SectionsAvg,0.7977300307437799
+Venezuela,pt13,SectionsAvg,0.8065379809849649
+Vietnam,pt13,SectionsAvg,0.7631364050097408
+Zimbabwe,pt13,SectionsAvg,0.8052527849165317
+Andorra,pt1,SectionsAvg,0.7471840843282763
+Argentina,pt1,SectionsAvg,0.7846745288420575
+Armenia,pt1,SectionsAvg,0.752637353246593
+Australia,pt1,SectionsAvg,0.7585283810341087
+Bangladesh,pt1,SectionsAvg,0.7326186652058683
+Bolivia,pt1,SectionsAvg,0.7880684432939014
+Brazil,pt1,SectionsAvg,0.7670855774383324
+Canada,pt1,SectionsAvg,0.7680414270693434
+Chile,pt1,SectionsAvg,0.7787366301145453
+China,pt1,SectionsAvg,0.7263199802077076
+Colombia,pt1,SectionsAvg,0.7852589013854778
+Cyprus,pt1,SectionsAvg,0.7590677900074992
+Czech Republic,pt1,SectionsAvg,0.7743702004331884
+Ecuador,pt1,SectionsAvg,0.7793513059436554
+Egypt,pt1,SectionsAvg,0.7484188046672064
+Ethiopia,pt1,SectionsAvg,0.7452274385216604
+Germany,pt1,SectionsAvg,0.7336586509452071
+Greece,pt1,SectionsAvg,0.7597156752142423
+Guatemala,pt1,SectionsAvg,0.7873574738810164
+Hong Kong,pt1,SectionsAvg,0.7626995942517627
+Indonesia,pt1,SectionsAvg,0.7490190888778849
+Iran,pt1,SectionsAvg,0.7622280471979609
+Iraq,pt1,SectionsAvg,0.7744708876571224
+Japan,pt1,SectionsAvg,0.7379162774365695
+Jordan,pt1,SectionsAvg,0.7245862067325469
+Kazakhstan,pt1,SectionsAvg,0.7578774494469076
+Kenya,pt1,SectionsAvg,0.7758235811300893
+Kyrgyzstan,pt1,SectionsAvg,0.7447642568489584
+Lebanon,pt1,SectionsAvg,0.7600672718421976
+Libya,pt1,SectionsAvg,0.7549463478625175
+Malaysia,pt1,SectionsAvg,0.7638019420582375
+Mexico,pt1,SectionsAvg,0.7869509754549843
+Mongolia,pt1,SectionsAvg,0.8152922721095025
+Morocco,pt1,SectionsAvg,0.7754074409149431
+Myanmar,pt1,SectionsAvg,0.7202146893778099
+Netherlands,pt1,SectionsAvg,0.7316462359197676
+New Zealand,pt1,SectionsAvg,0.7472594580749449
+Nicaragua,pt1,SectionsAvg,0.7934336113819017
+Nigeria,pt1,SectionsAvg,0.770218840916337
+Pakistan,pt1,SectionsAvg,0.7782545141091154
+Peru,pt1,SectionsAvg,0.7642606592021539
+Philippines,pt1,SectionsAvg,0.753433320142346
+Puerto Rico,pt1,SectionsAvg,0.7820986403144158
+Romania,pt1,SectionsAvg,0.7874466536373131
+Russia,pt1,SectionsAvg,0.7691262992874274
+Singapore,pt1,SectionsAvg,0.734032268636341
+Slovakia,pt1,SectionsAvg,0.7698265058050906
+South Korea,pt1,SectionsAvg,0.7515535223827035
+Taiwan,pt1,SectionsAvg,0.7375132583715165
+Tajikistan,pt1,SectionsAvg,0.7568772194185136
+Thailand,pt1,SectionsAvg,0.7847763841741235
+Tunisia,pt1,SectionsAvg,0.7596791552426772
+Turkey,pt1,SectionsAvg,0.7456654803024875
+Ukraine,pt1,SectionsAvg,0.7713875140251716
+United Kingdom,pt1,SectionsAvg,0.7580560411115154
+United States of America,pt1,SectionsAvg,0.7677581131975496
+Unknown,pt1,SectionsAvg,0.7328701167858099
+Uruguay,pt1,SectionsAvg,0.7617802521330816
+Venezuela,pt1,SectionsAvg,0.7928729029141202
+Vietnam,pt1,SectionsAvg,0.7107959680324627
+Zimbabwe,pt1,SectionsAvg,0.752992215935139
+Andorra,pt10,SectionsAvg,0.7288210785066815
+Argentina,pt10,SectionsAvg,0.7716315799976031
+Armenia,pt10,SectionsAvg,0.7510633886669213
+Australia,pt10,SectionsAvg,0.7498337293695633
+Bangladesh,pt10,SectionsAvg,0.7274300804312706
+Bolivia,pt10,SectionsAvg,0.7714658727476218
+Brazil,pt10,SectionsAvg,0.7442857926679917
+Canada,pt10,SectionsAvg,0.758072571228909
+Chile,pt10,SectionsAvg,0.7614284450878697
+China,pt10,SectionsAvg,0.711226864742617
+Colombia,pt10,SectionsAvg,0.7686174760062742
+Cyprus,pt10,SectionsAvg,0.7625399120227132
+Czech Republic,pt10,SectionsAvg,0.7735175073881575
+Ecuador,pt10,SectionsAvg,0.766334053057704
+Egypt,pt10,SectionsAvg,0.7293720443065055
+Ethiopia,pt10,SectionsAvg,0.7354150014642447
+Germany,pt10,SectionsAvg,0.7341418471633656
+Greece,pt10,SectionsAvg,0.7616750647806514
+Guatemala,pt10,SectionsAvg,0.7839754996271768
+Hong Kong,pt10,SectionsAvg,0.7537371643280788
+Indonesia,pt10,SectionsAvg,0.7213347042527839
+Iran,pt10,SectionsAvg,0.749299329840575
+Iraq,pt10,SectionsAvg,0.7544569783083601
+Japan,pt10,SectionsAvg,0.7298525029360083
+Jordan,pt10,SectionsAvg,0.7247523603160289
+Kazakhstan,pt10,SectionsAvg,0.7499582614690757
+Kenya,pt10,SectionsAvg,0.7437776762140996
+Kyrgyzstan,pt10,SectionsAvg,0.7421907320567207
+Lebanon,pt10,SectionsAvg,0.7606963713234682
+Libya,pt10,SectionsAvg,0.7397633068362471
+Malaysia,pt10,SectionsAvg,0.7528970008001173
+Mexico,pt10,SectionsAvg,0.7625190595681435
+Mongolia,pt10,SectionsAvg,0.7896649147450425
+Morocco,pt10,SectionsAvg,0.762202659704209
+Myanmar,pt10,SectionsAvg,0.7097801993288961
+Netherlands,pt10,SectionsAvg,0.7332678134299943
+New Zealand,pt10,SectionsAvg,0.738817493334871
+Nicaragua,pt10,SectionsAvg,0.7729111779395574
+Nigeria,pt10,SectionsAvg,0.7450261987005032
+Pakistan,pt10,SectionsAvg,0.7705625735504268
+Peru,pt10,SectionsAvg,0.7469326347634794
+Philippines,pt10,SectionsAvg,0.7297137442257795
+Puerto Rico,pt10,SectionsAvg,0.7655177466797192
+Romania,pt10,SectionsAvg,0.7729509780903672
+Russia,pt10,SectionsAvg,0.7652670080025229
+Singapore,pt10,SectionsAvg,0.7159264654677358
+Slovakia,pt10,SectionsAvg,0.7644878423893031
+South Korea,pt10,SectionsAvg,0.7504866904836494
+Taiwan,pt10,SectionsAvg,0.7345569627918096
+Tajikistan,pt10,SectionsAvg,0.741240244717164
+Thailand,pt10,SectionsAvg,0.7721340679796211
+Tunisia,pt10,SectionsAvg,0.7433079576473918
+Turkey,pt10,SectionsAvg,0.7466072012180642
+Ukraine,pt10,SectionsAvg,0.7700417614570004
+United Kingdom,pt10,SectionsAvg,0.7514558152535863
+United States of America,pt10,SectionsAvg,0.7593764646222081
+Unknown,pt10,SectionsAvg,0.7289971779360459
+Uruguay,pt10,SectionsAvg,0.7483216358977038
+Venezuela,pt10,SectionsAvg,0.7713767628159721
+Vietnam,pt10,SectionsAvg,0.7104908581765632
+Zimbabwe,pt10,SectionsAvg,0.7267740626177254
+Andorra,pt12,SectionsAvg,0.7580984453874203
+Argentina,pt12,SectionsAvg,0.7947875397825723
+Armenia,pt12,SectionsAvg,0.7714210081185875
+Australia,pt12,SectionsAvg,0.7878128590064135
+Bangladesh,pt12,SectionsAvg,0.7900631240701668
+Bolivia,pt12,SectionsAvg,0.7945366483958844
+Brazil,pt12,SectionsAvg,0.7956245319278435
+Canada,pt12,SectionsAvg,0.7845933206306793
+Chile,pt12,SectionsAvg,0.7963077062353001
+China,pt12,SectionsAvg,0.7628239769639397
+Colombia,pt12,SectionsAvg,0.8007246977660064
+Cyprus,pt12,SectionsAvg,0.7870887425896397
+Czech Republic,pt12,SectionsAvg,0.7851115155557696
+Ecuador,pt12,SectionsAvg,0.803646923545129
+Egypt,pt12,SectionsAvg,0.7585876221147826
+Ethiopia,pt12,SectionsAvg,0.7987885360913547
+Germany,pt12,SectionsAvg,0.7587980916566204
+Greece,pt12,SectionsAvg,0.7745297032081906
+Guatemala,pt12,SectionsAvg,0.8077864147756222
+Hong Kong,pt12,SectionsAvg,0.7847235819788554
+Indonesia,pt12,SectionsAvg,0.7771420053131233
+Iran,pt12,SectionsAvg,0.8076320937540962
+Iraq,pt12,SectionsAvg,0.7732239829368586
+Japan,pt12,SectionsAvg,0.7557240322811232
+Jordan,pt12,SectionsAvg,0.756572263205147
+Kazakhstan,pt12,SectionsAvg,0.7932162830507242
+Kenya,pt12,SectionsAvg,0.8246182616879855
+Kyrgyzstan,pt12,SectionsAvg,0.784584299900966
+Lebanon,pt12,SectionsAvg,0.7749487878584252
+Libya,pt12,SectionsAvg,0.7752909766951754
+Malaysia,pt12,SectionsAvg,0.7985404257710271
+Mexico,pt12,SectionsAvg,0.7996136555878202
+Mongolia,pt12,SectionsAvg,0.8244482850543939
+Morocco,pt12,SectionsAvg,0.8113924835898566
+Myanmar,pt12,SectionsAvg,0.7810089439544723
+Netherlands,pt12,SectionsAvg,0.7537019941313563
+New Zealand,pt12,SectionsAvg,0.7723143687793588
+Nicaragua,pt12,SectionsAvg,0.8101294904804077
+Nigeria,pt12,SectionsAvg,0.8032163317077529
+Pakistan,pt12,SectionsAvg,0.8223353187557397
+Peru,pt12,SectionsAvg,0.768794364925561
+Philippines,pt12,SectionsAvg,0.797280410602469
+Puerto Rico,pt12,SectionsAvg,0.8004778706112661
+Romania,pt12,SectionsAvg,0.800142710349473
+Russia,pt12,SectionsAvg,0.78205554562211
+Singapore,pt12,SectionsAvg,0.7688135237781291
+Slovakia,pt12,SectionsAvg,0.7855239135316106
+South Korea,pt12,SectionsAvg,0.7658724323965448
+Taiwan,pt12,SectionsAvg,0.7659686930374899
+Tajikistan,pt12,SectionsAvg,0.7924887082225183
+Thailand,pt12,SectionsAvg,0.8181880816468113
+Tunisia,pt12,SectionsAvg,0.7889313809541725
+Turkey,pt12,SectionsAvg,0.7819835513349622
+Ukraine,pt12,SectionsAvg,0.7895338583223097
+United Kingdom,pt12,SectionsAvg,0.7855197095119579
+United States of America,pt12,SectionsAvg,0.8027162754495701
+Unknown,pt12,SectionsAvg,0.7765345474192873
+Uruguay,pt12,SectionsAvg,0.7871148088511862
+Venezuela,pt12,SectionsAvg,0.7970042478965593
+Vietnam,pt12,SectionsAvg,0.7618219284275268
+Zimbabwe,pt12,SectionsAvg,0.8006953292104645
