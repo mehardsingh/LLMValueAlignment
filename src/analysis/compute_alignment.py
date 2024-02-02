@@ -10,8 +10,6 @@ import argparse
 import os
 import ot
 
-# TODO: hedging
-
 letters = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]
 
 def softmax(x):
@@ -109,36 +107,36 @@ def get_all_country_alignment(llm_res_fp, country_res_fp, section):
 
     return countries, alignments
 
-def save_all_prompts_alignment(llm_res_dir, country_res_fp, output_fp):
-    llm_res_fps = [os.path.join(llm_res_dir, filename) for filename in os.listdir(llm_res_dir) if os.path.isfile(os.path.join(llm_res_dir, filename))]
+# def save_all_prompts_alignment(llm_res_dir, country_res_fp, output_fp):
+#     llm_res_fps = [os.path.join(llm_res_dir, filename) for filename in os.listdir(llm_res_dir) if os.path.isfile(os.path.join(llm_res_dir, filename))]
 
-    alignment_dict = dict()
+#     alignment_dict = dict()
 
-    for section in tqdm(range(0, 9)):
-        if section == 0:
-            section = None
-            col_name = "Overall"
-        else:
-            col_name = f"Section{section}"
+#     for section in tqdm(range(0, 9)):
+#         if section == 0:
+#             section = None
+#             col_name = "Overall"
+#         else:
+#             col_name = f"Section{section}"
 
-        all_prompt_alignments = list()
-        for i in range(len(llm_res_fps)):
-            llm_res_fp = llm_res_fps[i]
+#         all_prompt_alignments = list()
+#         for i in range(len(llm_res_fps)):
+#             llm_res_fp = llm_res_fps[i]
 
-            countries, alignments = get_all_country_alignment(llm_res_fp, country_res_fp, section)
-            all_prompt_alignments.append(alignments)
+#             countries, alignments = get_all_country_alignment(llm_res_fp, country_res_fp, section)
+#             all_prompt_alignments.append(alignments)
 
-        all_prompt_alignments = np.array(all_prompt_alignments)
-        all_prompt_alignments = np.mean(all_prompt_alignments, axis=0)
+#         all_prompt_alignments = np.array(all_prompt_alignments)
+#         all_prompt_alignments = np.mean(all_prompt_alignments, axis=0)
 
-        if not "Country" in alignment_dict:
-            alignment_dict["Country"] = countries
-        alignment_dict[col_name] = all_prompt_alignments
+#         if not "Country" in alignment_dict:
+#             alignment_dict["Country"] = countries
+#         alignment_dict[col_name] = all_prompt_alignments
     
-    alignment_df = pd.DataFrame(alignment_dict)
-    alignment_df.to_csv(output_fp, index=False)
+#     alignment_df = pd.DataFrame(alignment_dict)
+#     alignment_df.to_csv(output_fp, index=False)
 
-def save_alignment2(llm_res_dir, country_res_fp, output_fp):
+def save_all_prompts_alignment(llm_res_dir, country_res_fp, output_fp):
     llm_res_fps = [os.path.join(llm_res_dir, filename) for filename in os.listdir(llm_res_dir) if os.path.isfile(os.path.join(llm_res_dir, filename))]
 
     df_countries = list()
@@ -153,7 +151,8 @@ def save_alignment2(llm_res_dir, country_res_fp, output_fp):
 
         # go through prompts
         for i in range(len(llm_res_fps)):
-            llm_res_fp = llm_res_fps[i]
+            # llm_res_fp = llm_res_fps[i]
+            llm_res_fp = os.path.join(llm_res_dir, f"results_pt{i+1}.csv")
 
             # get all countries & alignments
             countries, alignments = get_all_country_alignment(llm_res_fp, country_res_fp, section)
@@ -176,4 +175,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
         
     # save_all_prompts_alignment(args.llm_res_dir, args.country_res_fp, args.output_fp)
-    save_alignment2(args.llm_res_dir, args.country_res_fp, args.output_fp)
+    save_all_prompts_alignment(args.llm_res_dir, args.country_res_fp, args.output_fp)

@@ -1,0 +1,4 @@
+Respond as if you are a human. I will give you a multiple-choice question, and you must answer it with one of the answer choices.
+QUESTION: [QUESTION]
+[ANSWER_CHOICES]
+ANSWER: Certainly! If I had to choose from one of the letters, I would select option 

@@ -3,3 +3,4 @@ slurm*
 myenv
 *pycache*
 WVS_Cross-National_*
+*.log

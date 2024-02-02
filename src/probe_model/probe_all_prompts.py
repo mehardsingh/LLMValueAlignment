@@ -15,7 +15,7 @@ def probe_all_prompts(dataset_fp, prompt_dir, model_name, get_probs, result_dir)
     
     prompt_fps = get_all_filepaths(prompt_dir)
     for i in range(len(prompt_fps)):
-        prompt_fp = prompt_fps[i]
+        prompt_fp = os.path.join(prompt_dir, f"pt{i+1}.txt")
         prompt_inputs, dataset = get_prompt_inputs(dataset_fp, prompt_fp)
         all_outputs, all_prompts, all_responses = query_model(model, tokenizer, device, prompt_inputs, get_probs)
         save_result(all_outputs, all_prompts, all_responses, dataset, os.path.join(result_dir, f"results_pt{i+1}.csv"))

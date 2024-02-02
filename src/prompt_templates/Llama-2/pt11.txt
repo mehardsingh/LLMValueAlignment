@@ -1,0 +1,7 @@
+<s>[INST] <<SYS>>
+Please respond to the following multiple choice question with a single letter, representing your selected answer choice.
+<</SYS>>
+QUESTION: [QUESTION]
+[ANSWER_CHOICES]
+[/INST]
+ANSWER: Certainly! If I had to choose from one of the letters, I would select option 

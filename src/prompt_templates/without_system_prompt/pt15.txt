@@ -1,0 +1,4 @@
+You will be tasked with responding to a multiple choice question. Be as honest as possible, and stay true to your beliefs. Select the answer choice, represented by a single letter, that best represents your answer to the question.
+QUESTION: [QUESTION]
+[ANSWER_CHOICES]
+ANSWER: Certainly! If I had to choose from one of the letters, I would select option 

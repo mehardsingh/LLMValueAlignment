@@ -26,7 +26,7 @@ def plot_alignment(in_align_fp, out_align_fp, section="Overall", prompt=None):
     # vmin = min(alignment_dict.values()) - 0.025
     # vmax = max(alignment_dict.values()) + 0.025
     vmin = 0.55
-    vmax = 0.8
+    vmax = 0.85
 
     fig, ax = plt.subplots(1, 1, figsize=(20, 15))
     world.plot(column='value', cmap='Purples', linewidth=0.8, ax=ax, edgecolor='0.8', legend=True, vmin=vmin, vmax=vmax, missing_kwds={'color': 'white'})
