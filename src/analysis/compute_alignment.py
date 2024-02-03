@@ -43,7 +43,11 @@ def compute_opinion_alignment(llm_responses, human_responses, ordinals, hedges):
             opinion_alignment += compute_question_alignment(llm_responses[i], human_responses[i], ordinals[i], hedges[i])
             count += 1
 
-    opinion_alignment /= count
+    try:
+        opinion_alignment /= count
+    except Exception as e:
+        opinion_alignment = np.nan
+
     return opinion_alignment
 
 def load_llm_responses(llm_res_fp, section):
@@ -145,7 +149,7 @@ def save_all_prompts_alignment(llm_res_dir, country_res_fp, output_fp):
     df_alignments = list()
 
     # go through sections
-    for section in tqdm(range(0, 9)):
+    for section in tqdm(range(0, 14)):
         if section == 0:
             section = None
 
@@ -182,7 +186,6 @@ def add_sections_average_col(output_fp):
 
     appended = pd.concat([df] + results, ignore_index=True)
     appended.to_csv(output_fp, index=False)
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
