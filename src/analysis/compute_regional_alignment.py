@@ -8,7 +8,7 @@ import argparse
 def compute_regional_alignment(regional_alignment_dir, model, country2region):
     directory = os.path.join(regional_alignment_dir, model)
     
-    if not os.path.exists(regional_alignment_dir):
+    if not os.path.exists(directory):
         os.makedirs(directory)
 
     with open(country2region, mode="r") as f:

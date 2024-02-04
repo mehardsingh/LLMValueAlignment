@@ -27,22 +27,32 @@ source ./myenv/bin/activate
 # python src/analysis/compute_spearman.py --in_align_fp analysis_metrics/alignment/alignment_falcon-7b-instruct.csv --out_fp analysis_metrics/spearman_plots/spearman_falcon-7b-instruct.png
 
 # continent alignment
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model Llama-2-7b-chat-hf --country2region src/analysis/country2continent.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model Llama-2-13b-chat-hf --country2region src/analysis/country2continent.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model bloomz-1b1 --country2region src/analysis/country2continent.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model bloomz-1b7 --country2region src/analysis/country2continent.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model bloomz-3b --country2region src/analysis/country2continent.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model bloomz-7b1 --country2region src/analysis/country2continent.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model falcon-7b-instruct --country2region src/analysis/country2continent.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model Llama-2-7b-chat-hf --country2region src/analysis/country2continent.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model Llama-2-13b-chat-hf --country2region src/analysis/country2continent.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model bloomz-1b1 --country2region src/analysis/country2continent.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model bloomz-1b7 --country2region src/analysis/country2continent.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model bloomz-3b --country2region src/analysis/country2continent.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model bloomz-7b1 --country2region src/analysis/country2continent.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/continents --model falcon-7b-instruct --country2region src/analysis/country2continent.json
 
-# region alignment
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model Llama-2-7b-chat-hf --country2region src/analysis/country2region.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model Llama-2-13b-chat-hf --country2region src/analysis/country2region.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model bloomz-1b1 --country2region src/analysis/country2region.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model bloomz-1b7 --country2region src/analysis/country2region.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model bloomz-3b --country2region src/analysis/country2region.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model bloomz-7b1 --country2region src/analysis/country2region.json
-python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model falcon-7b-instruct --country2region src/analysis/country2region.json
+# # region alignment
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model Llama-2-7b-chat-hf --country2region src/analysis/country2region.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model Llama-2-13b-chat-hf --country2region src/analysis/country2region.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model bloomz-1b1 --country2region src/analysis/country2region.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model bloomz-1b7 --country2region src/analysis/country2region.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model bloomz-3b --country2region src/analysis/country2region.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model bloomz-7b1 --country2region src/analysis/country2region.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/regions --model falcon-7b-instruct --country2region src/analysis/country2region.json
 
-python src/analysis/plot_regional_alignment2.py --country2region_fp src/analysis/country2continent.json --regional_alignment_dir analysis_metrics/regional_alignment/continents --out_dir analysis_metrics/regional_heatmaps/continent
-python src/analysis/plot_regional_alignment2.py --country2region_fp src/analysis/country2region.json --regional_alignment_dir analysis_metrics/regional_alignment/regions --out_dir analysis_metrics/regional_heatmaps/region
+# income alignment
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/income --model Llama-2-7b-chat-hf --country2region src/analysis/country2income.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/income --model Llama-2-13b-chat-hf --country2region src/analysis/country2income.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/income --model bloomz-1b1 --country2region src/analysis/country2income.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/income --model bloomz-1b7 --country2region src/analysis/country2income.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/income --model bloomz-3b --country2region src/analysis/country2income.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/income --model bloomz-7b1 --country2region src/analysis/country2income.json
+# python src/analysis/compute_regional_alignment.py --regional_alignment_dir analysis_metrics/regional_alignment/income --model falcon-7b-instruct --country2region src/analysis/country2income.json
+
+python src/analysis/plot_regional_alignment2.py --country2region_fp src/analysis/country2continent.json --regional_alignment_dir analysis_metrics/regional_alignment/continents --out_dir analysis_metrics/regional_heatmaps/continent --section2title_fp wvs_data/section_name.json --y_label Continents
+python src/analysis/plot_regional_alignment2.py --country2region_fp src/analysis/country2region.json --regional_alignment_dir analysis_metrics/regional_alignment/regions --out_dir analysis_metrics/regional_heatmaps/region --section2title_fp wvs_data/section_name.json --y_label Regions
+python src/analysis/plot_regional_alignment2.py --country2region_fp src/analysis/country2income.json --regional_alignment_dir analysis_metrics/regional_alignment/income --out_dir analysis_metrics/regional_heatmaps/income --section2title_fp wvs_data/section_name.json --y_label "Avg. Income Level" --regions high upper-middle lower-middle low
