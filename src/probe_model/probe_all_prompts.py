@@ -10,9 +10,10 @@ def get_all_filepaths(directory):
     return file_paths
 
 def probe_all_prompts(dataset_fp, prompt_dir, model_name, get_probs, result_dir):
+
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16).to(device)
-    
+    model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map='auto')
+
     prompt_fps = get_all_filepaths(prompt_dir)
     for i in range(len(prompt_fps)):
         prompt_fp = os.path.join(prompt_dir, f"pt{i+1}.txt")
