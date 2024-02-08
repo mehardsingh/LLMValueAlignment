@@ -36,10 +36,10 @@ def get_prompt_inputs(dataset_fp, prompt_template_fp):
 
     return prompt_inputs, dataset
 
-def query_model(model, tokenizer, device, prompt_inputs, get_probs):
+def query_model(model, tokenizer, prompt_inputs, get_probs):
     logging.info("Inside query_model()")
 
-    generator = pipeline("text-generation", model=model, tokenizer=tokenizer, device=device)
+    generator = pipeline("text-generation", model=model, tokenizer=tokenizer, device="auto")
     all_inputs_responses = generator([p["prompt"] for p in prompt_inputs], max_new_tokens=10)
     all_inputs_responses = [r[0]["generated_text"] for r in all_inputs_responses]
 
