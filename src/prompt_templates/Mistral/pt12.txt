@@ -1,0 +1,5 @@
+<s>[INST] Please complete the following multiple-choice question and answer pair. Respond with a single letter, which represents your selected answer.
+QUESTION: [QUESTION]
+[ANSWER_CHOICES]
+[/INST]
+ANSWER: Certainly! If I had to choose from one of the letters, I would select option 
