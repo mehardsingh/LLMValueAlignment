@@ -21,9 +21,16 @@ def compute_question_alignment(answer_dist1, answer_dist2, ordinal, hedge):
 
     if ordinal:
         if hedge:
-            cost_matrix = np.fromfunction(lambda i, j: np.abs(i - j), (num_vals, num_vals), dtype=np.float64)
-            cost_matrix[0][1:] = np.abs(cost_matrix[0][1:] - np.mean(cost_matrix[0][1:]))
+            inner_cost_matrix = np.fromfunction(lambda i, j: np.abs(i - j), (num_vals-1, num_vals-1), dtype=np.float64)
+            first_row = inner_cost_matrix[0]
+            avg_val = np.mean(inner_cost_matrix[0])
+            cost_matrix = np.zeros((num_vals, num_vals))
+            cost_matrix[1:, 1:] = inner_cost_matrix
+            cost_matrix[0, 1:] = np.abs(first_row - avg_val)
+            cost_matrix[1:, 0] = np.abs(first_row - avg_val)
+            # cost_matrix[0][1:] = np.abs(cost_matrix[0][1:] - np.mean(cost_matrix[0][1:]))
         else:
+            # correct
             cost_matrix = np.fromfunction(lambda i, j: np.abs(i - j), (num_vals, num_vals), dtype=np.float64)
         
     else:
@@ -31,7 +38,11 @@ def compute_question_alignment(answer_dist1, answer_dist2, ordinal, hedge):
         np.fill_diagonal(cost_matrix, 0) 
 
     distance = ot.emd2(np.array(answer_dist1, dtype=np.float64), np.array(answer_dist2, dtype=np.float64), cost_matrix)
-    return 1 - (distance / (len(answer_dist1) - 1))
+    div = np.max(cost_matrix)
+    question_alignment = 1 - (distance / div)
+    # if not ordinal:
+    #     print(question_alignment)
+    return question_alignment
 
 def compute_opinion_alignment(llm_responses, human_responses, ordinals, hedges):
     opinion_alignment = 0
