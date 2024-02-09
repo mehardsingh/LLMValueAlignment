@@ -15,6 +15,9 @@ def probe_all_prompts(dataset_fp, prompt_dir, model_name, get_probs, result_dir)
     model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map='auto')
 
     prompt_fps = get_all_filepaths(prompt_dir)
+
+    if not os.path.exists(result_dir):
+        os.makedirs(result_dir)
     for i in range(len(prompt_fps)):
         prompt_fp = os.path.join(prompt_dir, f"pt{i+1}.txt")
         prompt_inputs, dataset = get_prompt_inputs(dataset_fp, prompt_fp)
